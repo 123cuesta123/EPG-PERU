@@ -1,0 +1,6 @@
+auto_buscador.py
+channels.json
+generar_mapeo.py
+scraper_epg.py
+__pycache__/
+*.pyc
