@@ -8,11 +8,11 @@ Una vez subido a tu cuenta de GitHub, usa cualquiera de estos enlaces en **XUI.o
 
 * **XML Directo**:
   ```text
-  https://raw.githubusercontent.com/TU_USUARIO/epg-peru/main/epg_peru.xml
+  https://raw.githubusercontent.com/123cuesta123/EPG-PERU/main/epg_peru.xml
   ```
 * **XML Comprimido (.gz)**:
   ```text
-  https://raw.githubusercontent.com/TU_USUARIO/epg-peru/main/epg_peru.xml.gz
+  https://raw.githubusercontent.com/123cuesta123/EPG-PERU/main/epg_peru.xml.gz
   ```
 
 ---
