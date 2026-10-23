@@ -1,193 +1,193 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv source-info-name="EPG Peru AkyHay" generator-info-name="EPG_Peru_XUI_Generator">
   <channel id="america-tv.pe">
-    <display-name lang="es">AMERICA TV</display-name>
+    <display-name lang="es">PERU ®| AMERICA TV</display-name>
     <display-name lang="es">PERU ®| AMERICA TV SD</display-name>
     <display-name lang="es">PERU ®| AMERICA TV HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" />
   </channel>
   <channel id="latina-tv.pe">
-    <display-name lang="es">LATINA TV</display-name>
+    <display-name lang="es">PERU ®| LATINA TV</display-name>
     <display-name lang="es">PERU ®| LATINA TV SD</display-name>
     <display-name lang="es">PERU ®| LATINA TV HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" />
   </channel>
   <channel id="latina-noticias.pe">
-    <display-name lang="es">LATINA NOTICIAS</display-name>
+    <display-name lang="es">PERU ®| LATINA NOTICIAS</display-name>
     <display-name lang="es">PERU ®| LATINA NOTICIAS HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" />
   </channel>
   <channel id="latina-clasicos.pe">
-    <display-name lang="es">LATINA CLASICOS</display-name>
+    <display-name lang="es">PERU ®| LATINA CLASICOS</display-name>
     <display-name lang="es">PERU ®| LATINA CLASICOS HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" />
   </channel>
   <channel id="atv.pe">
-    <display-name lang="es">ATV</display-name>
+    <display-name lang="es">PERU ®| ATV</display-name>
     <display-name lang="es">PERU ®| ATV HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/pe_atv_m.png" />
   </channel>
   <channel id="atv-mas.pe">
-    <display-name lang="es">ATV+</display-name>
+    <display-name lang="es">PERU ®| ATV+</display-name>
     <display-name lang="es">PERU ®| ATV+ HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/pe_atv-1_m.png" />
   </channel>
   <channel id="atv-sur.pe">
-    <display-name lang="es">ATV SUR</display-name>
+    <display-name lang="es">PERU ®| ATV SUR</display-name>
     <display-name lang="es">PERU ®| ATV SUR HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/pe_atv-sur_m.png" />
   </channel>
   <channel id="willax.pe">
-    <display-name lang="es">WILLAX TV</display-name>
+    <display-name lang="es">PERU ®| WILLAX TV</display-name>
     <display-name lang="es">PERU ®| WILLAX SD</display-name>
     <display-name lang="es">PERU ®| WILLAX HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/pe_willax_m.png" />
   </channel>
   <channel id="panamericana.pe">
-    <display-name lang="es">PANAMERICANA TV</display-name>
+    <display-name lang="es">PERU ®| PANAMERICANA TV</display-name>
     <display-name lang="es">PERU ®| PANAMERICANA SD</display-name>
     <display-name lang="es">PERU ®| PANAMERICANA HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png" />
   </channel>
   <channel id="rpp-tv.pe">
-    <display-name lang="es">RPP TV</display-name>
+    <display-name lang="es">PERU ®| RPP TV</display-name>
     <display-name lang="es">PERU ®| RPP HD</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/RPP_logo.svg/512px-RPP_logo.svg.png" />
   </channel>
   <channel id="pbo-tv.pe">
-    <display-name lang="es">PBO TV</display-name>
+    <display-name lang="es">PERU ®| PBO TV</display-name>
     <display-name lang="es">PERU ®| PBO TV HD</display-name>
   </channel>
   <channel id="canal-n.pe">
-    <display-name lang="es">CANAL N</display-name>
+    <display-name lang="es">PERU ®| CANAL N</display-name>
     <display-name lang="es">PERU ®| CANAL N HD</display-name>
   </channel>
   <channel id="tv-peru.pe">
-    <display-name lang="es">TV PERU</display-name>
+    <display-name lang="es">PERU ®| TV PERU</display-name>
     <display-name lang="es">PERU ®| TV PERU HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/pe_tv-peru_m.png" />
   </channel>
   <channel id="peru-magico.pe">
-    <display-name lang="es">PERU MAGICO</display-name>
+    <display-name lang="es">PERU ®| PERU MAGICO</display-name>
     <display-name lang="es">PERU ®| PERU MAGICO HD</display-name>
   </channel>
   <channel id="global-tv.pe">
-    <display-name lang="es">GLOBAL TV</display-name>
+    <display-name lang="es">PERU ®| GLOBAL TV</display-name>
     <display-name lang="es">PERU ®| GLOBAL TV HD</display-name>
   </channel>
   <channel id="tv-cosmos.pe">
-    <display-name lang="es">TV COSMOS</display-name>
+    <display-name lang="es">PERU ®| TV COSMOS</display-name>
     <display-name lang="es">PERU ®| TV COSMOS HD</display-name>
   </channel>
   <channel id="karibena-tv.pe">
-    <display-name lang="es">KARIBEÑA TV</display-name>
+    <display-name lang="es">PERU ®| KARIBEÑA TV</display-name>
     <display-name lang="es">PERU ®| KARIBEÑA</display-name>
   </channel>
   <channel id="cultura24.pe">
-    <display-name lang="es">CULTURA 24 TV</display-name>
+    <display-name lang="es">PERU ®| CULTURA 24 TV</display-name>
     <display-name lang="es">PERU ®| CULTURA 24 TV HD</display-name>
   </channel>
   <channel id="ovacion-tv.pe">
-    <display-name lang="es">OVACION TV</display-name>
+    <display-name lang="es">PERU ®| OVACION TV</display-name>
     <display-name lang="es">PERU ®| OVACION TV HD</display-name>
   </channel>
   <channel id="exitosa-tv.pe">
-    <display-name lang="es">EXITOSA TV</display-name>
+    <display-name lang="es">PERU ®| EXITOSA TV</display-name>
     <display-name lang="es">PERU ®| EXITOSA TV HD</display-name>
   </channel>
   <channel id="creo-tv.pe">
-    <display-name lang="es">CREO TV</display-name>
+    <display-name lang="es">PERU ®| CREO TV</display-name>
     <display-name lang="es">PERU ®| CREO TV HD</display-name>
   </channel>
   <channel id="bh-tv.pe">
-    <display-name lang="es">BH TV (BETHEL)</display-name>
+    <display-name lang="es">PERU ®| BH TV (BETHEL)</display-name>
     <display-name lang="es">PERU ®| BH TV HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/pe_bethel_m.png" />
   </channel>
   <channel id="doble-c.pe">
-    <display-name lang="es">DOBLE C TV</display-name>
+    <display-name lang="es">PERU ®| DOBLE C TV</display-name>
     <display-name lang="es">PERU ®| DOBLE C HD</display-name>
   </channel>
   <channel id="fabulosa-tv.pe">
-    <display-name lang="es">FABULOSA TV</display-name>
+    <display-name lang="es">PERU ®| FABULOSA TV</display-name>
     <display-name lang="es">PERU ®| FABULOSA TV HD</display-name>
   </channel>
   <channel id="inkavision.pe">
-    <display-name lang="es">INKAVISION</display-name>
+    <display-name lang="es">PERU ®| INKAVISION</display-name>
     <display-name lang="es">PERU ®| INKAVISION HD</display-name>
   </channel>
   <channel id="nativa-tv.pe">
-    <display-name lang="es">NATIVA TV</display-name>
+    <display-name lang="es">PERU ®| NATIVA TV</display-name>
     <display-name lang="es">PERU ®| NATIVA HD</display-name>
   </channel>
   <channel id="antares-tv.pe">
-    <display-name lang="es">ANTARES TV</display-name>
+    <display-name lang="es">PERU ®| ANTARES TV</display-name>
     <display-name lang="es">PERU ®| ANTARES TV HD</display-name>
   </channel>
   <channel id="andes-tv.pe">
-    <display-name lang="es">ANDES TV</display-name>
+    <display-name lang="es">PERU ®| ANDES TV</display-name>
     <display-name lang="es">PERU ®| ANDES TV HD</display-name>
   </channel>
   <channel id="a-uno-tv.pe">
-    <display-name lang="es">A UNO TV</display-name>
+    <display-name lang="es">PERU ®| A UNO TV</display-name>
     <display-name lang="es">PERU ®| A UNO TV HD</display-name>
   </channel>
   <channel id="andina-rtv.pe">
-    <display-name lang="es">ANDINA RTV</display-name>
+    <display-name lang="es">PERU ®| ANDINA RTV</display-name>
     <display-name lang="es">PERU ®| ANDINA RTV HD</display-name>
   </channel>
   <channel id="region-tv-callao.pe">
-    <display-name lang="es">REGION TV CALLAO</display-name>
+    <display-name lang="es">PERU ®| REGION TV CALLAO</display-name>
     <display-name lang="es">PERU ®| REGION TV CALLAO HD</display-name>
   </channel>
   <channel id="sol-tv.pe">
-    <display-name lang="es">SOL TV</display-name>
+    <display-name lang="es">PERU ®| SOL TV</display-name>
     <display-name lang="es">PERU ®| SOL TV HD</display-name>
   </channel>
   <channel id="abc-tv.pe">
-    <display-name lang="es">ABC TV</display-name>
+    <display-name lang="es">PERU ®| ABC TV</display-name>
     <display-name lang="es">PERU ®| ABC TV HD</display-name>
   </channel>
   <channel id="amazonia-tv.pe">
-    <display-name lang="es">AMAZONIA TV</display-name>
+    <display-name lang="es">PERU ®| AMAZONIA TV</display-name>
     <display-name lang="es">PERU ®| AMAZONIA TV HD</display-name>
   </channel>
   <channel id="36-huacho-tv.pe">
-    <display-name lang="es">36 HUACHO TV</display-name>
+    <display-name lang="es">PERU ®| 36 HUACHO TV</display-name>
     <display-name lang="es">PERU ®| 36 HUACHO TV HD</display-name>
   </channel>
   <channel id="xtremo-tv.pe">
-    <display-name lang="es">XTREMO TV</display-name>
+    <display-name lang="es">PERU ®| XTREMO TV</display-name>
     <display-name lang="es">PERU ®| XTREMO TV HD</display-name>
   </channel>
   <channel id="lider-tv.pe">
-    <display-name lang="es">LIDER TV</display-name>
+    <display-name lang="es">PERU ®| LIDER TV</display-name>
     <display-name lang="es">PERU ®| LIDER TV HD</display-name>
   </channel>
   <channel id="millenium-tv.pe">
-    <display-name lang="es">MILLENIUM TV</display-name>
+    <display-name lang="es">PERU ®| MILLENIUM TV</display-name>
     <display-name lang="es">PERU ®| MILLENIUM TV HD</display-name>
   </channel>
   <channel id="via-television.pe">
-    <display-name lang="es">VIA TELEVISION</display-name>
+    <display-name lang="es">PERU ®| VIA TELEVISION</display-name>
     <display-name lang="es">PERU ®| VIA TELEVISION HD</display-name>
   </channel>
   <channel id="usmptv.pe">
-    <display-name lang="es">USMPTV</display-name>
+    <display-name lang="es">PERU ®| USMPTV</display-name>
     <display-name lang="es">PERU ®| USMPTV HD</display-name>
   </channel>
   <channel id="liga-1.pe">
-    <display-name lang="es">LIGA 1</display-name>
+    <display-name lang="es">PERU ®| LIGA 1</display-name>
     <display-name lang="es">PERU ®| LIGA 1 SD</display-name>
     <display-name lang="es">PERU ®| LIGA 1 HD</display-name>
   </channel>
   <channel id="liga-1-max.pe">
-    <display-name lang="es">LIGA 1 MAX</display-name>
+    <display-name lang="es">PERU ®| LIGA 1 MAX</display-name>
     <display-name lang="es">PERU ®| LIGA 1 MAX SD</display-name>
     <display-name lang="es">PERU ®| LIGA 1 MAX HD</display-name>
   </channel>
   <channel id="movistar-deportes.pe">
-    <display-name lang="es">MOVISTAR DEPORTES</display-name>
+    <display-name lang="es">PERU ®| MOVISTAR DEPORTES</display-name>
     <display-name lang="es">PERU ®| MOVISTAR DEPORTES SD</display-name>
     <display-name lang="es">PERU ®| MOVISTAR DEPORTES HD</display-name>
   </channel>

@@ -855,12 +855,12 @@ def main():
         streams = ch["streams"]
         icon = ch.get("icon", "")
 
-        # 1. Agregar canal principal (por ID limpio ej. america-tv.pe)
+        # 1. Agregar canal principal con prefijo PERU ®| para que el Auto-Assign de XC_VM haga match al 100%
         ch_elem = ET.SubElement(tv, "channel", {"id": ch_id})
         dn_main = ET.SubElement(ch_elem, "display-name", {"lang": "es"})
-        dn_main.text = ch_name
+        dn_main.text = f"PERU ®| {ch_name}"
 
-        # Agregar también los nombres exactos de los streams en XUI.one para auto-match
+        # Agregar también los nombres exactos de los streams en XUI.one / XC_VM
         for st_name in streams:
             dn_st = ET.SubElement(ch_elem, "display-name", {"lang": "es"})
             dn_st.text = st_name
