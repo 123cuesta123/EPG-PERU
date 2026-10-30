@@ -3591,364 +3591,364 @@
     <desc lang="es">Krismers Baca conduce un espacio dedicado a la música andina tradicional y contemporánea. El objetivo del programa es dinfundir y revalorizar las expresiones musicales autóctonas de Perú a través de las presentaciones de diversos artistas.</desc>
     <category lang="es">Musical</category>
   </programme>
-  <programme start="20261028230000 -0500" stop="20261029003000 -0500" channel="peru-magico.pe">
-    <title lang="es">Al ángulo</title>
-    <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261028003000 -0500" stop="20261028010000 -0500" channel="peru-magico.pe">
-    <title lang="es">Ximena en Casa</title>
-    <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261028010000 -0500" stop="20261028030000 -0500" channel="peru-magico.pe">
+  <programme start="20261028000000 -0500" stop="20261028020000 -0500" channel="peru-magico.pe">
     <title lang="es">Fútbol Peruano Primera División</title>
     <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261028020000 -0500" stop="20261028023000 -0500" channel="peru-magico.pe">
+    <title lang="es">Perú Surf</title>
+    <desc lang="es">Programación de Perú Surf por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261028023000 -0500" stop="20261028030000 -0500" channel="peru-magico.pe">
+    <title lang="es">Ximena en Casa</title>
+    <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261028030000 -0500" stop="20261028033000 -0500" channel="peru-magico.pe">
-    <title lang="es">Perú Surf</title>
-    <desc lang="es">Programación de Perú Surf por Perú Mágico.</desc>
+    <title lang="es">Celebra Perú</title>
+    <desc lang="es">Programación de Celebra Perú por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261028033000 -0500" stop="20261028040000 -0500" channel="peru-magico.pe">
-    <title lang="es">Ximena en Casa</title>
-    <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261028040000 -0500" stop="20261028043000 -0500" channel="peru-magico.pe">
-    <title lang="es">Celebra Perú</title>
-    <desc lang="es">Programación de Celebra Perú por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261028043000 -0500" stop="20261028050000 -0500" channel="peru-magico.pe">
     <title lang="es">Dulces Secretos</title>
     <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261028050000 -0500" stop="20261028063000 -0500" channel="peru-magico.pe">
+  <programme start="20261028040000 -0500" stop="20261028053000 -0500" channel="peru-magico.pe">
     <title lang="es">Al ángulo</title>
     <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261028063000 -0500" stop="20261028070000 -0500" channel="peru-magico.pe">
+  <programme start="20261028053000 -0500" stop="20261028060000 -0500" channel="peru-magico.pe">
     <title lang="es">La gran despensa</title>
     <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261028070000 -0500" stop="20261028100000 -0500" channel="peru-magico.pe">
+  <programme start="20261028060000 -0500" stop="20261028090000 -0500" channel="peru-magico.pe">
     <title lang="es">N Noticias</title>
     <desc lang="es">Programación de N Noticias por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261028100000 -0500" stop="20261028103000 -0500" channel="peru-magico.pe">
+  <programme start="20261028090000 -0500" stop="20261028093000 -0500" channel="peru-magico.pe">
     <title lang="es">Dulces Secretos</title>
     <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261028103000 -0500" stop="20261028110000 -0500" channel="peru-magico.pe">
+  <programme start="20261028093000 -0500" stop="20261028100000 -0500" channel="peru-magico.pe">
     <title lang="es">Más rico</title>
     <desc lang="es">Programación de Más rico por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261028100000 -0500" stop="20261028110000 -0500" channel="peru-magico.pe">
+    <title lang="es">El camerino</title>
+    <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261028110000 -0500" stop="20261028120000 -0500" channel="peru-magico.pe">
-    <title lang="es">El camerino</title>
-    <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261028120000 -0500" stop="20261028130000 -0500" channel="peru-magico.pe">
     <title lang="es">Wantan digital</title>
     <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261028130000 -0500" stop="20261028133000 -0500" channel="peru-magico.pe">
+  <programme start="20261028120000 -0500" stop="20261028123000 -0500" channel="peru-magico.pe">
     <title lang="es">Entre cuchillos y fuego</title>
     <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261028133000 -0500" stop="20261028150000 -0500" channel="peru-magico.pe">
+  <programme start="20261028123000 -0500" stop="20261028140000 -0500" channel="peru-magico.pe">
     <title lang="es">Al ángulo</title>
     <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261028150000 -0500" stop="20261028180000 -0500" channel="peru-magico.pe">
+  <programme start="20261028140000 -0500" stop="20261028170000 -0500" channel="peru-magico.pe">
     <title lang="es">N Noticias</title>
     <desc lang="es">Programación de N Noticias por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261028180000 -0500" stop="20261028190000 -0500" channel="peru-magico.pe">
+  <programme start="20261028170000 -0500" stop="20261028180000 -0500" channel="peru-magico.pe">
     <title lang="es">El camerino</title>
     <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261028190000 -0500" stop="20261028193000 -0500" channel="peru-magico.pe">
+  <programme start="20261028180000 -0500" stop="20261028183000 -0500" channel="peru-magico.pe">
     <title lang="es">La 4ta pantalla</title>
     <desc lang="es">Programación de La 4ta pantalla por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261028193000 -0500" stop="20261028200000 -0500" channel="peru-magico.pe">
+  <programme start="20261028183000 -0500" stop="20261028190000 -0500" channel="peru-magico.pe">
     <title lang="es">Ximena en Casa</title>
     <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261028190000 -0500" stop="20261028200000 -0500" channel="peru-magico.pe">
+    <title lang="es">Wantan digital</title>
+    <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261028200000 -0500" stop="20261028210000 -0500" channel="peru-magico.pe">
-    <title lang="es">Wantan digital</title>
-    <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
+    <title lang="es">Primero a las 8</title>
+    <desc lang="es">Programación de Primero a las 8 por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261028210000 -0500" stop="20261028220000 -0500" channel="peru-magico.pe">
-    <title lang="es">Primero a las 8</title>
-    <desc lang="es">Programación de Primero a las 8 por Perú Mágico.</desc>
+    <title lang="es">2021 con Mávila Huertas</title>
+    <desc lang="es">Programación de 2021 con Mávila Huertas por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261028220000 -0500" stop="20261028230000 -0500" channel="peru-magico.pe">
-    <title lang="es">2021 con Mávila Huertas</title>
-    <desc lang="es">Programación de 2021 con Mávila Huertas por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261028230000 -0500" stop="20261029000000 -0500" channel="peru-magico.pe">
     <title lang="es">Jamás perfectas</title>
     <desc lang="es">Programación de Jamás perfectas por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029230000 -0500" stop="20261030003000 -0500" channel="peru-magico.pe">
-    <title lang="es">Al ángulo</title>
-    <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
+  <programme start="20261028230000 -0500" stop="20261028233000 -0500" channel="peru-magico.pe">
+    <title lang="es">Entre cuchillos y fuego</title>
+    <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029003000 -0500" stop="20261029010000 -0500" channel="peru-magico.pe">
-    <title lang="es">Ximena en Casa</title>
-    <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
+  <programme start="20261028233000 -0500" stop="20261029000000 -0500" channel="peru-magico.pe">
+    <title lang="es">La gran despensa</title>
+    <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029010000 -0500" stop="20261029030000 -0500" channel="peru-magico.pe">
+  <programme start="20261029000000 -0500" stop="20261029020000 -0500" channel="peru-magico.pe">
     <title lang="es">Fútbol Peruano Primera División</title>
     <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261029020000 -0500" stop="20261029023000 -0500" channel="peru-magico.pe">
+    <title lang="es">Perú Surf</title>
+    <desc lang="es">Programación de Perú Surf por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261029023000 -0500" stop="20261029030000 -0500" channel="peru-magico.pe">
+    <title lang="es">Ximena en Casa</title>
+    <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261029030000 -0500" stop="20261029033000 -0500" channel="peru-magico.pe">
-    <title lang="es">Perú Surf</title>
-    <desc lang="es">Programación de Perú Surf por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261029033000 -0500" stop="20261029040000 -0500" channel="peru-magico.pe">
-    <title lang="es">Ximena en Casa</title>
-    <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261029040000 -0500" stop="20261029043000 -0500" channel="peru-magico.pe">
     <title lang="es">Celebra Perú</title>
     <desc lang="es">Programación de Celebra Perú por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029043000 -0500" stop="20261029050000 -0500" channel="peru-magico.pe">
+  <programme start="20261029033000 -0500" stop="20261029040000 -0500" channel="peru-magico.pe">
     <title lang="es">Dulces Secretos</title>
     <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029050000 -0500" stop="20261029063000 -0500" channel="peru-magico.pe">
+  <programme start="20261029040000 -0500" stop="20261029053000 -0500" channel="peru-magico.pe">
     <title lang="es">Al ángulo</title>
     <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029063000 -0500" stop="20261029070000 -0500" channel="peru-magico.pe">
+  <programme start="20261029053000 -0500" stop="20261029060000 -0500" channel="peru-magico.pe">
     <title lang="es">La gran despensa</title>
     <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029070000 -0500" stop="20261029100000 -0500" channel="peru-magico.pe">
+  <programme start="20261029060000 -0500" stop="20261029090000 -0500" channel="peru-magico.pe">
     <title lang="es">N Noticias</title>
     <desc lang="es">Programación de N Noticias por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029100000 -0500" stop="20261029103000 -0500" channel="peru-magico.pe">
+  <programme start="20261029090000 -0500" stop="20261029093000 -0500" channel="peru-magico.pe">
     <title lang="es">Dulces Secretos</title>
     <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029103000 -0500" stop="20261029110000 -0500" channel="peru-magico.pe">
+  <programme start="20261029093000 -0500" stop="20261029100000 -0500" channel="peru-magico.pe">
     <title lang="es">Más rico</title>
     <desc lang="es">Programación de Más rico por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029110000 -0500" stop="20261029120000 -0500" channel="peru-magico.pe">
+  <programme start="20261029100000 -0500" stop="20261029110000 -0500" channel="peru-magico.pe">
     <title lang="es">El camerino</title>
     <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029120000 -0500" stop="20261029130000 -0500" channel="peru-magico.pe">
+  <programme start="20261029110000 -0500" stop="20261029120000 -0500" channel="peru-magico.pe">
     <title lang="es">Wantan digital</title>
     <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029130000 -0500" stop="20261029133000 -0500" channel="peru-magico.pe">
+  <programme start="20261029120000 -0500" stop="20261029123000 -0500" channel="peru-magico.pe">
     <title lang="es">Entre cuchillos y fuego</title>
     <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029133000 -0500" stop="20261029150000 -0500" channel="peru-magico.pe">
+  <programme start="20261029123000 -0500" stop="20261029140000 -0500" channel="peru-magico.pe">
     <title lang="es">Al ángulo</title>
     <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029150000 -0500" stop="20261029180000 -0500" channel="peru-magico.pe">
+  <programme start="20261029140000 -0500" stop="20261029170000 -0500" channel="peru-magico.pe">
     <title lang="es">N Noticias</title>
     <desc lang="es">Programación de N Noticias por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029180000 -0500" stop="20261029190000 -0500" channel="peru-magico.pe">
+  <programme start="20261029170000 -0500" stop="20261029180000 -0500" channel="peru-magico.pe">
     <title lang="es">El camerino</title>
     <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029190000 -0500" stop="20261029193000 -0500" channel="peru-magico.pe">
+  <programme start="20261029180000 -0500" stop="20261029183000 -0500" channel="peru-magico.pe">
     <title lang="es">La 4ta pantalla</title>
     <desc lang="es">Programación de La 4ta pantalla por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029193000 -0500" stop="20261029200000 -0500" channel="peru-magico.pe">
+  <programme start="20261029183000 -0500" stop="20261029190000 -0500" channel="peru-magico.pe">
     <title lang="es">Ximena en Casa</title>
     <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029200000 -0500" stop="20261029210000 -0500" channel="peru-magico.pe">
+  <programme start="20261029190000 -0500" stop="20261029200000 -0500" channel="peru-magico.pe">
     <title lang="es">Wantan digital</title>
     <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029210000 -0500" stop="20261029220000 -0500" channel="peru-magico.pe">
+  <programme start="20261029200000 -0500" stop="20261029210000 -0500" channel="peru-magico.pe">
     <title lang="es">Primero a las 8</title>
     <desc lang="es">Programación de Primero a las 8 por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029220000 -0500" stop="20261029230000 -0500" channel="peru-magico.pe">
+  <programme start="20261029210000 -0500" stop="20261029220000 -0500" channel="peru-magico.pe">
     <title lang="es">2021 con Mávila Huertas</title>
     <desc lang="es">Programación de 2021 con Mávila Huertas por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261029230000 -0500" stop="20261030000000 -0500" channel="peru-magico.pe">
+  <programme start="20261029220000 -0500" stop="20261029230000 -0500" channel="peru-magico.pe">
     <title lang="es">Jamás perfectas</title>
     <desc lang="es">Programación de Jamás perfectas por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030230000 -0500" stop="20261031003000 -0500" channel="peru-magico.pe">
-    <title lang="es">Al ángulo</title>
-    <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
+  <programme start="20261029230000 -0500" stop="20261029233000 -0500" channel="peru-magico.pe">
+    <title lang="es">Entre cuchillos y fuego</title>
+    <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030003000 -0500" stop="20261030010000 -0500" channel="peru-magico.pe">
-    <title lang="es">Ximena en Casa</title>
-    <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
+  <programme start="20261029233000 -0500" stop="20261030000000 -0500" channel="peru-magico.pe">
+    <title lang="es">La gran despensa</title>
+    <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030010000 -0500" stop="20261030030000 -0500" channel="peru-magico.pe">
+  <programme start="20261030000000 -0500" stop="20261030020000 -0500" channel="peru-magico.pe">
     <title lang="es">Fútbol Peruano Primera División</title>
     <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030030000 -0500" stop="20261030033000 -0500" channel="peru-magico.pe">
+  <programme start="20261030020000 -0500" stop="20261030023000 -0500" channel="peru-magico.pe">
     <title lang="es">Perú Surf</title>
     <desc lang="es">Programación de Perú Surf por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030033000 -0500" stop="20261030040000 -0500" channel="peru-magico.pe">
+  <programme start="20261030023000 -0500" stop="20261030030000 -0500" channel="peru-magico.pe">
     <title lang="es">Ximena en Casa</title>
     <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030040000 -0500" stop="20261030043000 -0500" channel="peru-magico.pe">
+  <programme start="20261030030000 -0500" stop="20261030033000 -0500" channel="peru-magico.pe">
     <title lang="es">Celebra Perú</title>
     <desc lang="es">Programación de Celebra Perú por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030043000 -0500" stop="20261030050000 -0500" channel="peru-magico.pe">
+  <programme start="20261030033000 -0500" stop="20261030040000 -0500" channel="peru-magico.pe">
     <title lang="es">Dulces Secretos</title>
     <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030050000 -0500" stop="20261030063000 -0500" channel="peru-magico.pe">
+  <programme start="20261030040000 -0500" stop="20261030053000 -0500" channel="peru-magico.pe">
     <title lang="es">Al ángulo</title>
     <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030063000 -0500" stop="20261030070000 -0500" channel="peru-magico.pe">
+  <programme start="20261030053000 -0500" stop="20261030060000 -0500" channel="peru-magico.pe">
     <title lang="es">La gran despensa</title>
     <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030070000 -0500" stop="20261030100000 -0500" channel="peru-magico.pe">
+  <programme start="20261030060000 -0500" stop="20261030090000 -0500" channel="peru-magico.pe">
     <title lang="es">N Noticias</title>
     <desc lang="es">Programación de N Noticias por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030100000 -0500" stop="20261030103000 -0500" channel="peru-magico.pe">
+  <programme start="20261030090000 -0500" stop="20261030093000 -0500" channel="peru-magico.pe">
     <title lang="es">Dulces Secretos</title>
     <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030103000 -0500" stop="20261030110000 -0500" channel="peru-magico.pe">
+  <programme start="20261030093000 -0500" stop="20261030100000 -0500" channel="peru-magico.pe">
     <title lang="es">Más rico</title>
     <desc lang="es">Programación de Más rico por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030110000 -0500" stop="20261030120000 -0500" channel="peru-magico.pe">
+  <programme start="20261030100000 -0500" stop="20261030110000 -0500" channel="peru-magico.pe">
     <title lang="es">El camerino</title>
     <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030120000 -0500" stop="20261030130000 -0500" channel="peru-magico.pe">
+  <programme start="20261030110000 -0500" stop="20261030120000 -0500" channel="peru-magico.pe">
     <title lang="es">Wantan digital</title>
     <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030130000 -0500" stop="20261030133000 -0500" channel="peru-magico.pe">
+  <programme start="20261030120000 -0500" stop="20261030123000 -0500" channel="peru-magico.pe">
     <title lang="es">Entre cuchillos y fuego</title>
     <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030133000 -0500" stop="20261030150000 -0500" channel="peru-magico.pe">
+  <programme start="20261030123000 -0500" stop="20261030140000 -0500" channel="peru-magico.pe">
     <title lang="es">Al ángulo</title>
     <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030150000 -0500" stop="20261030180000 -0500" channel="peru-magico.pe">
+  <programme start="20261030140000 -0500" stop="20261030170000 -0500" channel="peru-magico.pe">
     <title lang="es">N Noticias</title>
     <desc lang="es">Programación de N Noticias por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030180000 -0500" stop="20261030190000 -0500" channel="peru-magico.pe">
+  <programme start="20261030170000 -0500" stop="20261030180000 -0500" channel="peru-magico.pe">
     <title lang="es">El camerino</title>
     <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030190000 -0500" stop="20261030193000 -0500" channel="peru-magico.pe">
+  <programme start="20261030180000 -0500" stop="20261030183000 -0500" channel="peru-magico.pe">
     <title lang="es">La 4ta pantalla</title>
     <desc lang="es">Programación de La 4ta pantalla por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030193000 -0500" stop="20261030200000 -0500" channel="peru-magico.pe">
+  <programme start="20261030183000 -0500" stop="20261030190000 -0500" channel="peru-magico.pe">
     <title lang="es">Ximena en Casa</title>
     <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030200000 -0500" stop="20261030210000 -0500" channel="peru-magico.pe">
+  <programme start="20261030190000 -0500" stop="20261030200000 -0500" channel="peru-magico.pe">
     <title lang="es">Wantan digital</title>
     <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030210000 -0500" stop="20261030220000 -0500" channel="peru-magico.pe">
+  <programme start="20261030200000 -0500" stop="20261030210000 -0500" channel="peru-magico.pe">
     <title lang="es">Primero a las 8</title>
     <desc lang="es">Programación de Primero a las 8 por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030220000 -0500" stop="20261030230000 -0500" channel="peru-magico.pe">
+  <programme start="20261030210000 -0500" stop="20261030220000 -0500" channel="peru-magico.pe">
     <title lang="es">2021 con Mávila Huertas</title>
     <desc lang="es">Programación de 2021 con Mávila Huertas por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261030230000 -0500" stop="20261031000000 -0500" channel="peru-magico.pe">
+  <programme start="20261030220000 -0500" stop="20261030230000 -0500" channel="peru-magico.pe">
     <title lang="es">Jamás perfectas</title>
     <desc lang="es">Programación de Jamás perfectas por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261030230000 -0500" stop="20261030233000 -0500" channel="peru-magico.pe">
+    <title lang="es">Entre cuchillos y fuego</title>
+    <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261030233000 -0500" stop="20261031000000 -0500" channel="peru-magico.pe">
+    <title lang="es">La gran despensa</title>
+    <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261028000000 -0500" stop="20261028060000 -0500" channel="global-tv.pe">
