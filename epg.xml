@@ -297,9 +297,9 @@
     <category lang="es">Entretenimientos</category>
   </programme>
   <programme start="20261112003000 -0500" stop="20261112011000 -0500" channel="america-tv.pe">
-    <title lang="es">Destilando amor</title>
-    <desc lang="es">En el hermoso pueblo de Tequila, Jalisco, surge un amor ardiente, puro y fuerte, como el famoso destilado que lleva el nombre de esta cálida y fértil región donde se produce.</desc>
-    <category lang="es">Telenovela</category>
+    <title lang="es">América noticias - Edición mediodía</title>
+    <desc lang="es">El resumen diario más ágil del acontecer nacional e internacional, de lunes a viernes con la juventud y el profesionalismo de Karina Borrero, Alvina Ruíz y Natalie Vertiz.</desc>
+    <category lang="es">Noticiero</category>
   </programme>
   <programme start="20261112011000 -0500" stop="20261112013000 -0500" channel="america-tv.pe">
     <title lang="es">+ Espectáculos</title>
@@ -312,17 +312,22 @@
     <category lang="es">Noticiero</category>
   </programme>
   <programme start="20261112023000 -0500" stop="20261112033000 -0500" channel="america-tv.pe">
-    <title lang="es">Cocina Nostra</title>
-    <desc lang="es">Los chefs Giacomo Bocchio y Carolina León nos transmitirán sus versiones de la fusión ítalo-peruana, con recetas italianas con insumos y técnicas peruanas.</desc>
-    <category lang="es">Cocina</category>
+    <title lang="es">Fusión</title>
+    <desc lang="es" />
+    <category lang="es">- Cocina nostra</category>
   </programme>
   <programme start="20261112033000 -0500" stop="20261112050000 -0500" channel="america-tv.pe">
     <title lang="es">Mande quien mande</title>
     <desc lang="es">Un magazine conducido por María Pía y Carlota, quienes abordan novedades, chismes, concursos y mucho másl. El público podrá informarse de forma distentida y divertirse con ambos conductores y sus invitados.</desc>
     <category lang="es">Magazine</category>
   </programme>
-  <programme start="20261112050000 -0500" stop="20261112070000 -0500" channel="america-tv.pe">
-    <title lang="es">América noticias - Primera edición local</title>
+  <programme start="20261112050000 -0500" stop="20261112051600 -0500" channel="america-tv.pe">
+    <title lang="es">América noticias - Primera edición</title>
+    <desc lang="es">Veracidad, agilidad y carisma. El primer contacto del público con la información, de la mano de nuestro equipo de periodistas.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261112051600 -0500" stop="20261112070000 -0500" channel="america-tv.pe">
+    <title lang="es">América noticias - Primera edición</title>
     <desc lang="es">Veracidad, agilidad y carisma. El primer contacto del público con la información, de la mano de nuestro equipo de periodistas.</desc>
     <category lang="es">Noticiero</category>
   </programme>
@@ -1446,20 +1451,15 @@
     <desc lang="es">Divertido espacio con mucho entretenimiento que presenta a buen ritmo vídeos inéditos, realizados por los espectadores para compartir los momentos más divertidos de sus mascotas favoritas y las personas.</desc>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20261112053000 -0500" stop="20261112103000 -0500" channel="atv-mas.pe">
+  <programme start="20261112053000 -0500" stop="20261112093000 -0500" channel="atv-mas.pe">
     <title lang="es">ATV Noticias - Edición matinal</title>
     <desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261112103000 -0500" stop="20261112120000 -0500" channel="atv-mas.pe">
-    <title lang="es">Así de simple</title>
-    <desc lang="es">Una pareja interpretada por seis actores representan el ruido mental de todas nuestras opiniones contrapuestas a la hora de amar a una persona, con todo lo bueno y todo lo malo de una relación.</desc>
-    <category lang="es">Teatro</category>
-  </programme>
-  <programme start="20261112120000 -0500" stop="20261112130000 -0500" channel="atv-mas.pe">
-    <title lang="es">ATV noticias - Edición mediodía</title>
-    <desc lang="es">Manténgase informado a mitad de la jornada. Acompáñenos en la Edición Mediodía de ATV Noticias para repasar el acontecer nacional e internacional. Un reporte completo, riguroso y con la objetividad que usted exige.</desc>
-    <category lang="es">Noticiero</category>
+  <programme start="20261112093000 -0500" stop="20261112130000 -0500" channel="atv-mas.pe">
+    <title lang="es">Visita Papa León XIV</title>
+    <desc lang="es">Sigue la gira del Papa León XIV por América Latina y las distintas actividades programadas en cada país.</desc>
+    <category lang="es">Especial</category>
   </programme>
   <programme start="20261112130000 -0500" stop="20261112140000 -0500" channel="atv-mas.pe">
     <title lang="es">En contacto</title>
@@ -1467,49 +1467,24 @@
     <category lang="es">Noticiero</category>
   </programme>
   <programme start="20261112140000 -0500" stop="20261112150000 -0500" channel="atv-mas.pe">
-    <title lang="es">Steve Romero</title>
-    <desc lang="es">Un segmento informativo que repasa lo último del deporte, especialmente fútbol, con análisis breves, datos clave y opinión.</desc>
-    <category lang="es">Steve Romero</category>
-  </programme>
-  <programme start="20261112150000 -0500" stop="20261112160000 -0500" channel="atv-mas.pe">
-    <title lang="es">Fé de erratas</title>
-    <desc lang="es">El análisis de las noticias más relevantes con una mirada crítica y conversaciones abiertas.</desc>
-    <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261112160000 -0500" stop="20261112170000 -0500" channel="atv-mas.pe">
-    <title lang="es">Fé de erratas</title>
-    <desc lang="es">El análisis de las noticias más relevantes con una mirada crítica y conversaciones abiertas.</desc>
-    <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261112170000 -0500" stop="20261112180000 -0500" channel="atv-mas.pe">
-    <title lang="es">Matinal</title>
-    <desc lang="es" />
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112180000 -0500" stop="20261112190000 -0500" channel="atv-mas.pe">
-    <title lang="es">Matinal</title>
-    <desc lang="es" />
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112190000 -0500" stop="20261112200000 -0500" channel="atv-mas.pe">
     <title lang="es">El deportivo digital</title>
     <desc lang="es">Repasamos toda la actualidad del mundo del deporte. El programa se centra en la Liga 1 2026, el desempeño de los clubes peruanos en la Copa Libertadores y el seguimiento de la Selección Peruana.</desc>
     <category lang="es">El deportivo digital</category>
   </programme>
-  <programme start="20261112200000 -0500" stop="20261112213000 -0500" channel="atv-mas.pe">
-    <title lang="es">Así de simple</title>
-    <desc lang="es">Una pareja interpretada por seis actores representan el ruido mental de todas nuestras opiniones contrapuestas a la hora de amar a una persona, con todo lo bueno y todo lo malo de una relación.</desc>
-    <category lang="es">Teatro</category>
+  <programme start="20261112150000 -0500" stop="20261112173000 -0500" channel="atv-mas.pe">
+    <title lang="es">Papa León XIV: el regreso a casa</title>
+    <desc lang="es">Acompaña el viaje del Santo Padre en su visita apostólica por Latinoamérica.</desc>
+    <category lang="es">Especial</category>
   </programme>
-  <programme start="20261112213000 -0500" stop="20261112223000 -0500" channel="atv-mas.pe">
-    <title lang="es">ATV noticias - Edición mediodía</title>
-    <desc lang="es">Manténgase informado a mitad de la jornada. Acompáñenos en la Edición Mediodía de ATV Noticias para repasar el acontecer nacional e internacional. Un reporte completo, riguroso y con la objetividad que usted exige.</desc>
-    <category lang="es">Noticiero</category>
+  <programme start="20261112173000 -0500" stop="20261112200000 -0500" channel="atv-mas.pe">
+    <title lang="es">Visita Papa León XIV</title>
+    <desc lang="es">Sigue la gira del Papa León XIV por América Latina y las distintas actividades programadas en cada país.</desc>
+    <category lang="es">Especial</category>
   </programme>
-  <programme start="20261112223000 -0500" stop="20261112233000 -0500" channel="atv-mas.pe">
-    <title lang="es">En contacto</title>
-    <desc lang="es">Cobertura en profundidad de las últimas noticias y eventos relevantes.</desc>
-    <category lang="es">Noticiero</category>
+  <programme start="20261112200000 -0500" stop="20261112233000 -0500" channel="atv-mas.pe">
+    <title lang="es">Visita Papa León XIV</title>
+    <desc lang="es">Sigue la gira del Papa León XIV por América Latina y las distintas actividades programadas en cada país.</desc>
+    <category lang="es">Especial</category>
   </programme>
   <programme start="20261112233000 -0500" stop="20261113000000 -0500" channel="atv-mas.pe">
     <title lang="es">Cámara loca</title>
@@ -1571,20 +1546,15 @@
     <desc lang="es">Divertido espacio con mucho entretenimiento que presenta a buen ritmo vídeos inéditos, realizados por los espectadores para compartir los momentos más divertidos de sus mascotas favoritas y las personas.</desc>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20261113053000 -0500" stop="20261113103000 -0500" channel="atv-mas.pe">
+  <programme start="20261113053000 -0500" stop="20261113074000 -0500" channel="atv-mas.pe">
     <title lang="es">ATV Noticias - Edición matinal</title>
     <desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261113103000 -0500" stop="20261113120000 -0500" channel="atv-mas.pe">
-    <title lang="es">Así de simple</title>
-    <desc lang="es">Una pareja interpretada por seis actores representan el ruido mental de todas nuestras opiniones contrapuestas a la hora de amar a una persona, con todo lo bueno y todo lo malo de una relación.</desc>
-    <category lang="es">Teatro</category>
-  </programme>
-  <programme start="20261113120000 -0500" stop="20261113130000 -0500" channel="atv-mas.pe">
-    <title lang="es">ATV noticias - Edición mediodía</title>
-    <desc lang="es">Manténgase informado a mitad de la jornada. Acompáñenos en la Edición Mediodía de ATV Noticias para repasar el acontecer nacional e internacional. Un reporte completo, riguroso y con la objetividad que usted exige.</desc>
-    <category lang="es">Noticiero</category>
+  <programme start="20261113074000 -0500" stop="20261113130000 -0500" channel="atv-mas.pe">
+    <title lang="es">Visita Papa León XIV</title>
+    <desc lang="es">Sigue la gira del Papa León XIV por América Latina y las distintas actividades programadas en cada país.</desc>
+    <category lang="es">Especial</category>
   </programme>
   <programme start="20261113130000 -0500" stop="20261113140000 -0500" channel="atv-mas.pe">
     <title lang="es">En contacto</title>
@@ -1592,54 +1562,24 @@
     <category lang="es">Noticiero</category>
   </programme>
   <programme start="20261113140000 -0500" stop="20261113150000 -0500" channel="atv-mas.pe">
-    <title lang="es">Steve Romero</title>
-    <desc lang="es">Un segmento informativo que repasa lo último del deporte, especialmente fútbol, con análisis breves, datos clave y opinión.</desc>
-    <category lang="es">Steve Romero</category>
-  </programme>
-  <programme start="20261113150000 -0500" stop="20261113160000 -0500" channel="atv-mas.pe">
-    <title lang="es">Fé de erratas</title>
-    <desc lang="es">El análisis de las noticias más relevantes con una mirada crítica y conversaciones abiertas.</desc>
-    <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261113160000 -0500" stop="20261113170000 -0500" channel="atv-mas.pe">
-    <title lang="es">Fé de erratas</title>
-    <desc lang="es">El análisis de las noticias más relevantes con una mirada crítica y conversaciones abiertas.</desc>
-    <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261113170000 -0500" stop="20261113180000 -0500" channel="atv-mas.pe">
-    <title lang="es">Matinal</title>
-    <desc lang="es" />
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261113180000 -0500" stop="20261113190000 -0500" channel="atv-mas.pe">
-    <title lang="es">Matinal</title>
-    <desc lang="es" />
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261113190000 -0500" stop="20261113200000 -0500" channel="atv-mas.pe">
     <title lang="es">El deportivo digital</title>
     <desc lang="es">Repasamos toda la actualidad del mundo del deporte. El programa se centra en la Liga 1 2026, el desempeño de los clubes peruanos en la Copa Libertadores y el seguimiento de la Selección Peruana.</desc>
     <category lang="es">El deportivo digital</category>
   </programme>
-  <programme start="20261113200000 -0500" stop="20261113213000 -0500" channel="atv-mas.pe">
-    <title lang="es">Así de simple</title>
-    <desc lang="es">Una pareja interpretada por seis actores representan el ruido mental de todas nuestras opiniones contrapuestas a la hora de amar a una persona, con todo lo bueno y todo lo malo de una relación.</desc>
-    <category lang="es">Teatro</category>
+  <programme start="20261113150000 -0500" stop="20261113160000 -0500" channel="atv-mas.pe">
+    <title lang="es">Papa León XIV: el regreso a casa</title>
+    <desc lang="es">Acompaña el viaje del Santo Padre en su visita apostólica por Latinoamérica.</desc>
+    <category lang="es">Especial</category>
   </programme>
-  <programme start="20261113213000 -0500" stop="20261113223000 -0500" channel="atv-mas.pe">
-    <title lang="es">ATV noticias - Edición mediodía</title>
-    <desc lang="es">Manténgase informado a mitad de la jornada. Acompáñenos en la Edición Mediodía de ATV Noticias para repasar el acontecer nacional e internacional. Un reporte completo, riguroso y con la objetividad que usted exige.</desc>
-    <category lang="es">Noticiero</category>
+  <programme start="20261113160000 -0500" stop="20261113200000 -0500" channel="atv-mas.pe">
+    <title lang="es">Visita Papa León XIV</title>
+    <desc lang="es">Sigue la gira del Papa León XIV por América Latina y las distintas actividades programadas en cada país.</desc>
+    <category lang="es">Especial</category>
   </programme>
-  <programme start="20261113223000 -0500" stop="20261113233000 -0500" channel="atv-mas.pe">
-    <title lang="es">En contacto</title>
-    <desc lang="es">Cobertura en profundidad de las últimas noticias y eventos relevantes.</desc>
-    <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261113233000 -0500" stop="20261114000000 -0500" channel="atv-mas.pe">
-    <title lang="es">Cámara loca</title>
-    <desc lang="es">Divertido espacio con mucho entretenimiento que presenta a buen ritmo vídeos inéditos, realizados por los espectadores para compartir los momentos más divertidos de sus mascotas favoritas y las personas.</desc>
-    <category lang="es">Comedia</category>
+  <programme start="20261113200000 -0500" stop="20261114000000 -0500" channel="atv-mas.pe">
+    <title lang="es">Visita Papa León XIV</title>
+    <desc lang="es">Sigue la gira del Papa León XIV por América Latina y las distintas actividades programadas en cada país.</desc>
+    <category lang="es">Especial</category>
   </programme>
   <programme start="20261114000000 -0500" stop="20261114003000 -0500" channel="atv-mas.pe">
     <title lang="es">Geoherbal</title>
@@ -1698,13 +1638,13 @@
   </programme>
   <programme start="20261111060000 -0500" stop="20261111090000 -0500" channel="atv-sur.pe">
     <title lang="es">Nuevo día</title>
-    <desc lang="es">La mejor opción para disfrutar las mañanas con información, cultura y entretenimiento de alta calidad.</desc>
-    <category lang="es">Magazine</category>
+    <desc lang="es">El televidente puede disfrutar de los mejores segmentos de noticias nacionales e internacionales, los últimos acontecimientos deportivos a nivel mundial y entrevistas con los más destacados personajes del medio político, económico y social.</desc>
+    <category lang="es">Periodístico</category>
   </programme>
   <programme start="20261111090000 -0500" stop="20261111130000 -0500" channel="atv-sur.pe">
     <title lang="es">Nuevo día</title>
-    <desc lang="es">La mejor opción para disfrutar las mañanas con información, cultura y entretenimiento de alta calidad.</desc>
-    <category lang="es">Magazine</category>
+    <desc lang="es">El televidente puede disfrutar de los mejores segmentos de noticias nacionales e internacionales, los últimos acontecimientos deportivos a nivel mundial y entrevistas con los más destacados personajes del medio político, económico y social.</desc>
+    <category lang="es">Periodístico</category>
   </programme>
   <programme start="20261111130000 -0500" stop="20261111140000 -0500" channel="atv-sur.pe">
     <title lang="es">ATV noticias</title>
@@ -1813,13 +1753,28 @@
   </programme>
   <programme start="20261112060000 -0500" stop="20261112090000 -0500" channel="atv-sur.pe">
     <title lang="es">Nuevo día</title>
-    <desc lang="es">La mejor opción para disfrutar las mañanas con información, cultura y entretenimiento de alta calidad.</desc>
-    <category lang="es">Magazine</category>
+    <desc lang="es">El televidente puede disfrutar de los mejores segmentos de noticias nacionales e internacionales, los últimos acontecimientos deportivos a nivel mundial y entrevistas con los más destacados personajes del medio político, económico y social.</desc>
+    <category lang="es">Periodístico</category>
   </programme>
-  <programme start="20261112090000 -0500" stop="20261112130000 -0500" channel="atv-sur.pe">
+  <programme start="20261112090000 -0500" stop="20261112093000 -0500" channel="atv-sur.pe">
     <title lang="es">Nuevo día</title>
-    <desc lang="es">La mejor opción para disfrutar las mañanas con información, cultura y entretenimiento de alta calidad.</desc>
-    <category lang="es">Magazine</category>
+    <desc lang="es">El televidente puede disfrutar de los mejores segmentos de noticias nacionales e internacionales, los últimos acontecimientos deportivos a nivel mundial y entrevistas con los más destacados personajes del medio político, económico y social.</desc>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20261112093000 -0500" stop="20261112102000 -0500" channel="atv-sur.pe">
+    <title lang="es">Visita Papa León XIV</title>
+    <desc lang="es">Sigue la gira del Papa León XIV por América Latina y las distintas actividades programadas en cada país.</desc>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20261112102000 -0500" stop="20261112113000 -0500" channel="atv-sur.pe">
+    <title lang="es">Visita Papa León XIV</title>
+    <desc lang="es">Sigue la gira del Papa León XIV por América Latina y las distintas actividades programadas en cada país.</desc>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20261112113000 -0500" stop="20261112130000 -0500" channel="atv-sur.pe">
+    <title lang="es">Visita Papa León XIV</title>
+    <desc lang="es">Sigue la gira del Papa León XIV por América Latina y las distintas actividades programadas en cada país.</desc>
+    <category lang="es">Especial</category>
   </programme>
   <programme start="20261112130000 -0500" stop="20261112140000 -0500" channel="atv-sur.pe">
     <title lang="es">ATV noticias</title>
@@ -1831,25 +1786,20 @@
     <desc lang="es">Espacio publicitario de Geoherbal.</desc>
     <category lang="es">Publicidad</category>
   </programme>
-  <programme start="20261112143000 -0500" stop="20261112170000 -0500" channel="atv-sur.pe">
+  <programme start="20261112143000 -0500" stop="20261112173000 -0500" channel="atv-sur.pe">
     <title lang="es">Geoherbal</title>
     <desc lang="es">Espacio publicitario de Geoherbal.</desc>
     <category lang="es">Publicidad</category>
   </programme>
-  <programme start="20261112170000 -0500" stop="20261112180000 -0500" channel="atv-sur.pe">
-    <title lang="es">Desafío Súper Humanos</title>
-    <desc lang="es">Una competencia en la que los participantes deben superar desafíos extremos para seguir en juego. Un concurso que pondrá a prueba la fuerza, destreza y resistencia de los participantes mientras compiten entre sí por ganar.</desc>
-    <category lang="es">Reality Show</category>
-  </programme>
-  <programme start="20261112180000 -0500" stop="20261112190000 -0500" channel="atv-sur.pe">
-    <title lang="es">Soy Luna</title>
-    <desc lang="es">Luna, una simple joven que desea ser patinadora profesional, debe afrontar un cambio rotundo en su vida cuando se muda con su familia a otro país. Ahora, tendrá que adaptarse a su nuevo y lujoso entorno, que poco tiene que ver con ella.</desc>
-    <category lang="es">Musical</category>
+  <programme start="20261112173000 -0500" stop="20261112190000 -0500" channel="atv-sur.pe">
+    <title lang="es">Visita Papa León XIV</title>
+    <desc lang="es">Sigue la gira del Papa León XIV por América Latina y las distintas actividades programadas en cada país.</desc>
+    <category lang="es">Especial</category>
   </programme>
   <programme start="20261112190000 -0500" stop="20261112200000 -0500" channel="atv-sur.pe">
-    <title lang="es">Desafío Marruecos</title>
-    <desc lang="es">Veintiún concursantes viajarán hasta la tierra árabe para enfrentarse a las pruebas físicas más extremas y a la convivencia con una sociedad milenaria de reglas y costumbres fascinantes.</desc>
-    <category lang="es">Reality Show</category>
+    <title lang="es">Visita Papa León XIV</title>
+    <desc lang="es">Sigue la gira del Papa León XIV por América Latina y las distintas actividades programadas en cada país.</desc>
+    <category lang="es">Especial</category>
   </programme>
   <programme start="20261112200000 -0500" stop="20261112210000 -0500" channel="atv-sur.pe">
     <title lang="es">Revenge</title>
@@ -1926,15 +1876,25 @@
     <desc lang="es">Un programa de contenido musical que comparte diversos géneros como la salsa, la pachanga, la cumbia, y muchos ritmos más de todas las épocas. El programa presenta entrevistas con exponentes de la música.</desc>
     <category lang="es">Musical</category>
   </programme>
-  <programme start="20261113060000 -0500" stop="20261113090000 -0500" channel="atv-sur.pe">
+  <programme start="20261113060000 -0500" stop="20261113074000 -0500" channel="atv-sur.pe">
     <title lang="es">Nuevo día</title>
-    <desc lang="es">La mejor opción para disfrutar las mañanas con información, cultura y entretenimiento de alta calidad.</desc>
-    <category lang="es">Magazine</category>
+    <desc lang="es">El televidente puede disfrutar de los mejores segmentos de noticias nacionales e internacionales, los últimos acontecimientos deportivos a nivel mundial y entrevistas con los más destacados personajes del medio político, económico y social.</desc>
+    <category lang="es">Periodístico</category>
   </programme>
-  <programme start="20261113090000 -0500" stop="20261113130000 -0500" channel="atv-sur.pe">
-    <title lang="es">Nuevo día</title>
-    <desc lang="es">La mejor opción para disfrutar las mañanas con información, cultura y entretenimiento de alta calidad.</desc>
-    <category lang="es">Magazine</category>
+  <programme start="20261113074000 -0500" stop="20261113091000 -0500" channel="atv-sur.pe">
+    <title lang="es">Visita Papa León XIV</title>
+    <desc lang="es">Sigue la gira del Papa León XIV por América Latina y las distintas actividades programadas en cada país.</desc>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20261113091000 -0500" stop="20261113103000 -0500" channel="atv-sur.pe">
+    <title lang="es">Visita Papa León XIV</title>
+    <desc lang="es">Sigue la gira del Papa León XIV por América Latina y las distintas actividades programadas en cada país.</desc>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20261113103000 -0500" stop="20261113130000 -0500" channel="atv-sur.pe">
+    <title lang="es">Visita Papa León XIV</title>
+    <desc lang="es">Sigue la gira del Papa León XIV por América Latina y las distintas actividades programadas en cada país.</desc>
+    <category lang="es">Especial</category>
   </programme>
   <programme start="20261113130000 -0500" stop="20261113140000 -0500" channel="atv-sur.pe">
     <title lang="es">ATV noticias</title>
@@ -1946,25 +1906,30 @@
     <desc lang="es">Espacio publicitario de Geoherbal.</desc>
     <category lang="es">Publicidad</category>
   </programme>
-  <programme start="20261113143000 -0500" stop="20261113170000 -0500" channel="atv-sur.pe">
+  <programme start="20261113143000 -0500" stop="20261113160000 -0500" channel="atv-sur.pe">
     <title lang="es">Geoherbal</title>
     <desc lang="es">Espacio publicitario de Geoherbal.</desc>
     <category lang="es">Publicidad</category>
   </programme>
+  <programme start="20261113160000 -0500" stop="20261113170000 -0500" channel="atv-sur.pe">
+    <title lang="es">Visita Papa León XIV</title>
+    <desc lang="es">Sigue la gira del Papa León XIV por América Latina y las distintas actividades programadas en cada país.</desc>
+    <category lang="es">Especial</category>
+  </programme>
   <programme start="20261113170000 -0500" stop="20261113180000 -0500" channel="atv-sur.pe">
-    <title lang="es">Desafío Súper Humanos</title>
-    <desc lang="es">Una competencia en la que los participantes deben superar desafíos extremos para seguir en juego. Un concurso que pondrá a prueba la fuerza, destreza y resistencia de los participantes mientras compiten entre sí por ganar.</desc>
-    <category lang="es">Reality Show</category>
+    <title lang="es">Visita Papa León XIV</title>
+    <desc lang="es">Sigue la gira del Papa León XIV por América Latina y las distintas actividades programadas en cada país.</desc>
+    <category lang="es">Especial</category>
   </programme>
   <programme start="20261113180000 -0500" stop="20261113190000 -0500" channel="atv-sur.pe">
-    <title lang="es">Soy Luna</title>
-    <desc lang="es">Luna, una simple joven que desea ser patinadora profesional, debe afrontar un cambio rotundo en su vida cuando se muda con su familia a otro país. Ahora, tendrá que adaptarse a su nuevo y lujoso entorno, que poco tiene que ver con ella.</desc>
-    <category lang="es">Musical</category>
+    <title lang="es">Visita Papa León XIV</title>
+    <desc lang="es">Sigue la gira del Papa León XIV por América Latina y las distintas actividades programadas en cada país.</desc>
+    <category lang="es">Especial</category>
   </programme>
   <programme start="20261113190000 -0500" stop="20261113200000 -0500" channel="atv-sur.pe">
-    <title lang="es">Desafío Marruecos</title>
-    <desc lang="es">Veintiún concursantes viajarán hasta la tierra árabe para enfrentarse a las pruebas físicas más extremas y a la convivencia con una sociedad milenaria de reglas y costumbres fascinantes.</desc>
-    <category lang="es">Reality Show</category>
+    <title lang="es">Visita Papa León XIV</title>
+    <desc lang="es">Sigue la gira del Papa León XIV por América Latina y las distintas actividades programadas en cada país.</desc>
+    <category lang="es">Especial</category>
   </programme>
   <programme start="20261113200000 -0500" stop="20261113210000 -0500" channel="atv-sur.pe">
     <title lang="es">Revenge</title>
@@ -3356,362 +3321,377 @@
     <desc lang="es">Programa con toda la información, preparativos, agenda y el impacto social y cultural del viaje del Sumo Pontífice por Perú.</desc>
     <category lang="es">Religioso</category>
   </programme>
-  <programme start="20261111000000 -0500" stop="20261111003000 -0500" channel="peru-magico.pe">
-    <title lang="es">Perú Surf</title>
-    <desc lang="es">Programación de Perú Surf por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261111003000 -0500" stop="20261111010000 -0500" channel="peru-magico.pe">
-    <title lang="es">Ximena en Casa</title>
-    <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
+  <programme start="20261111230000 -0500" stop="20261112010000 -0500" channel="peru-magico.pe">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261111010000 -0500" stop="20261111013000 -0500" channel="peru-magico.pe">
-    <title lang="es">Celebra Perú</title>
-    <desc lang="es">Programación de Celebra Perú por Perú Mágico.</desc>
+    <title lang="es">Perú Surf</title>
+    <desc lang="es">Programación de Perú Surf por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261111013000 -0500" stop="20261111020000 -0500" channel="peru-magico.pe">
+    <title lang="es">Ximena en Casa</title>
+    <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261111020000 -0500" stop="20261111023000 -0500" channel="peru-magico.pe">
+    <title lang="es">Celebra Perú</title>
+    <desc lang="es">Programación de Celebra Perú por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261111023000 -0500" stop="20261111030000 -0500" channel="peru-magico.pe">
     <title lang="es">Dulces Secretos</title>
     <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261111020000 -0500" stop="20261111033000 -0500" channel="peru-magico.pe">
+  <programme start="20261111030000 -0500" stop="20261111043000 -0500" channel="peru-magico.pe">
     <title lang="es">Al ángulo</title>
     <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261111033000 -0500" stop="20261111040000 -0500" channel="peru-magico.pe">
+  <programme start="20261111043000 -0500" stop="20261111050000 -0500" channel="peru-magico.pe">
     <title lang="es">La gran despensa</title>
     <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261111040000 -0500" stop="20261111070000 -0500" channel="peru-magico.pe">
+  <programme start="20261111050000 -0500" stop="20261111080000 -0500" channel="peru-magico.pe">
     <title lang="es">N Noticias</title>
     <desc lang="es">Programación de N Noticias por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261111070000 -0500" stop="20261111073000 -0500" channel="peru-magico.pe">
+  <programme start="20261111080000 -0500" stop="20261111083000 -0500" channel="peru-magico.pe">
     <title lang="es">Dulces Secretos</title>
     <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261111073000 -0500" stop="20261111080000 -0500" channel="peru-magico.pe">
+  <programme start="20261111083000 -0500" stop="20261111090000 -0500" channel="peru-magico.pe">
     <title lang="es">Más rico</title>
     <desc lang="es">Programación de Más rico por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261111080000 -0500" stop="20261111090000 -0500" channel="peru-magico.pe">
-    <title lang="es">El camerino</title>
-    <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261111090000 -0500" stop="20261111100000 -0500" channel="peru-magico.pe">
-    <title lang="es">Wantan digital</title>
-    <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261111100000 -0500" stop="20261111103000 -0500" channel="peru-magico.pe">
-    <title lang="es">Entre cuchillos y fuego</title>
-    <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261111103000 -0500" stop="20261111120000 -0500" channel="peru-magico.pe">
-    <title lang="es">Al ángulo</title>
-    <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261111120000 -0500" stop="20261111150000 -0500" channel="peru-magico.pe">
-    <title lang="es">N Noticias</title>
-    <desc lang="es">Programación de N Noticias por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261111150000 -0500" stop="20261111160000 -0500" channel="peru-magico.pe">
     <title lang="es">El camerino</title>
     <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261111160000 -0500" stop="20261111163000 -0500" channel="peru-magico.pe">
+  <programme start="20261111100000 -0500" stop="20261111110000 -0500" channel="peru-magico.pe">
+    <title lang="es">Wantan digital</title>
+    <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261111110000 -0500" stop="20261111113000 -0500" channel="peru-magico.pe">
+    <title lang="es">Entre cuchillos y fuego</title>
+    <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261111113000 -0500" stop="20261111130000 -0500" channel="peru-magico.pe">
+    <title lang="es">Al ángulo</title>
+    <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261111130000 -0500" stop="20261111160000 -0500" channel="peru-magico.pe">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Programación de N Noticias por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261111160000 -0500" stop="20261111170000 -0500" channel="peru-magico.pe">
+    <title lang="es">El camerino</title>
+    <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261111170000 -0500" stop="20261111173000 -0500" channel="peru-magico.pe">
     <title lang="es">La 4ta pantalla</title>
     <desc lang="es">Programación de La 4ta pantalla por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261111163000 -0500" stop="20261111170000 -0500" channel="peru-magico.pe">
+  <programme start="20261111173000 -0500" stop="20261111180000 -0500" channel="peru-magico.pe">
     <title lang="es">Ximena en Casa</title>
     <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261111170000 -0500" stop="20261111180000 -0500" channel="peru-magico.pe">
-    <title lang="es">Wantan digital</title>
-    <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261111180000 -0500" stop="20261111190000 -0500" channel="peru-magico.pe">
-    <title lang="es">Primero a las 8</title>
-    <desc lang="es">Programación de Primero a las 8 por Perú Mágico.</desc>
+    <title lang="es">Wantan digital</title>
+    <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261111190000 -0500" stop="20261111200000 -0500" channel="peru-magico.pe">
-    <title lang="es">2021 con Mávila Huertas</title>
-    <desc lang="es">Programación de 2021 con Mávila Huertas por Perú Mágico.</desc>
+    <title lang="es">Primero a las 8</title>
+    <desc lang="es">Programación de Primero a las 8 por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261111200000 -0500" stop="20261111210000 -0500" channel="peru-magico.pe">
+    <title lang="es">2021 con Mávila Huertas</title>
+    <desc lang="es">Programación de 2021 con Mávila Huertas por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261111210000 -0500" stop="20261111220000 -0500" channel="peru-magico.pe">
     <title lang="es">Jamás perfectas</title>
     <desc lang="es">Programación de Jamás perfectas por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261111210000 -0500" stop="20261111213000 -0500" channel="peru-magico.pe">
+  <programme start="20261111220000 -0500" stop="20261111223000 -0500" channel="peru-magico.pe">
     <title lang="es">Entre cuchillos y fuego</title>
     <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261111213000 -0500" stop="20261111220000 -0500" channel="peru-magico.pe">
+  <programme start="20261111223000 -0500" stop="20261111230000 -0500" channel="peru-magico.pe">
     <title lang="es">La gran despensa</title>
     <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261111220000 -0500" stop="20261112000000 -0500" channel="peru-magico.pe">
+  <programme start="20261111230000 -0500" stop="20261112010000 -0500" channel="peru-magico.pe">
     <title lang="es">Fútbol Peruano Primera División</title>
     <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261112000000 -0500" stop="20261112003000 -0500" channel="peru-magico.pe">
-    <title lang="es">Perú Surf</title>
-    <desc lang="es">Programación de Perú Surf por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112003000 -0500" stop="20261112010000 -0500" channel="peru-magico.pe">
-    <title lang="es">Ximena en Casa</title>
-    <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
+  <programme start="20261112230000 -0500" stop="20261113010000 -0500" channel="peru-magico.pe">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261112010000 -0500" stop="20261112013000 -0500" channel="peru-magico.pe">
-    <title lang="es">Celebra Perú</title>
-    <desc lang="es">Programación de Celebra Perú por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112013000 -0500" stop="20261112020000 -0500" channel="peru-magico.pe">
-    <title lang="es">Dulces Secretos</title>
-    <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112020000 -0500" stop="20261112033000 -0500" channel="peru-magico.pe">
-    <title lang="es">Al ángulo</title>
-    <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112033000 -0500" stop="20261112040000 -0500" channel="peru-magico.pe">
-    <title lang="es">La gran despensa</title>
-    <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112040000 -0500" stop="20261112070000 -0500" channel="peru-magico.pe">
-    <title lang="es">N Noticias</title>
-    <desc lang="es">Programación de N Noticias por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112070000 -0500" stop="20261112073000 -0500" channel="peru-magico.pe">
-    <title lang="es">Dulces Secretos</title>
-    <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112073000 -0500" stop="20261112080000 -0500" channel="peru-magico.pe">
-    <title lang="es">Más rico</title>
-    <desc lang="es">Programación de Más rico por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112080000 -0500" stop="20261112090000 -0500" channel="peru-magico.pe">
-    <title lang="es">El camerino</title>
-    <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112090000 -0500" stop="20261112100000 -0500" channel="peru-magico.pe">
-    <title lang="es">Wantan digital</title>
-    <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112100000 -0500" stop="20261112103000 -0500" channel="peru-magico.pe">
-    <title lang="es">Entre cuchillos y fuego</title>
-    <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112103000 -0500" stop="20261112120000 -0500" channel="peru-magico.pe">
-    <title lang="es">Al ángulo</title>
-    <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112120000 -0500" stop="20261112150000 -0500" channel="peru-magico.pe">
-    <title lang="es">N Noticias</title>
-    <desc lang="es">Programación de N Noticias por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112150000 -0500" stop="20261112160000 -0500" channel="peru-magico.pe">
-    <title lang="es">El camerino</title>
-    <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112160000 -0500" stop="20261112163000 -0500" channel="peru-magico.pe">
-    <title lang="es">La 4ta pantalla</title>
-    <desc lang="es">Programación de La 4ta pantalla por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112163000 -0500" stop="20261112170000 -0500" channel="peru-magico.pe">
-    <title lang="es">Ximena en Casa</title>
-    <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112170000 -0500" stop="20261112180000 -0500" channel="peru-magico.pe">
-    <title lang="es">Wantan digital</title>
-    <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112180000 -0500" stop="20261112190000 -0500" channel="peru-magico.pe">
-    <title lang="es">Primero a las 8</title>
-    <desc lang="es">Programación de Primero a las 8 por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112190000 -0500" stop="20261112200000 -0500" channel="peru-magico.pe">
-    <title lang="es">2021 con Mávila Huertas</title>
-    <desc lang="es">Programación de 2021 con Mávila Huertas por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112200000 -0500" stop="20261112210000 -0500" channel="peru-magico.pe">
-    <title lang="es">Jamás perfectas</title>
-    <desc lang="es">Programación de Jamás perfectas por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112210000 -0500" stop="20261112213000 -0500" channel="peru-magico.pe">
-    <title lang="es">Entre cuchillos y fuego</title>
-    <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112213000 -0500" stop="20261112220000 -0500" channel="peru-magico.pe">
-    <title lang="es">La gran despensa</title>
-    <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261112220000 -0500" stop="20261113000000 -0500" channel="peru-magico.pe">
-    <title lang="es">Fútbol Peruano Primera División</title>
-    <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261113000000 -0500" stop="20261113003000 -0500" channel="peru-magico.pe">
     <title lang="es">Perú Surf</title>
     <desc lang="es">Programación de Perú Surf por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113003000 -0500" stop="20261113010000 -0500" channel="peru-magico.pe">
+  <programme start="20261112013000 -0500" stop="20261112020000 -0500" channel="peru-magico.pe">
     <title lang="es">Ximena en Casa</title>
     <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113010000 -0500" stop="20261113013000 -0500" channel="peru-magico.pe">
+  <programme start="20261112020000 -0500" stop="20261112023000 -0500" channel="peru-magico.pe">
     <title lang="es">Celebra Perú</title>
     <desc lang="es">Programación de Celebra Perú por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113013000 -0500" stop="20261113020000 -0500" channel="peru-magico.pe">
+  <programme start="20261112023000 -0500" stop="20261112030000 -0500" channel="peru-magico.pe">
     <title lang="es">Dulces Secretos</title>
     <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113020000 -0500" stop="20261113033000 -0500" channel="peru-magico.pe">
+  <programme start="20261112030000 -0500" stop="20261112043000 -0500" channel="peru-magico.pe">
     <title lang="es">Al ángulo</title>
     <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113033000 -0500" stop="20261113040000 -0500" channel="peru-magico.pe">
+  <programme start="20261112043000 -0500" stop="20261112050000 -0500" channel="peru-magico.pe">
     <title lang="es">La gran despensa</title>
     <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113040000 -0500" stop="20261113070000 -0500" channel="peru-magico.pe">
+  <programme start="20261112050000 -0500" stop="20261112080000 -0500" channel="peru-magico.pe">
     <title lang="es">N Noticias</title>
     <desc lang="es">Programación de N Noticias por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113070000 -0500" stop="20261113073000 -0500" channel="peru-magico.pe">
+  <programme start="20261112080000 -0500" stop="20261112083000 -0500" channel="peru-magico.pe">
     <title lang="es">Dulces Secretos</title>
     <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113073000 -0500" stop="20261113080000 -0500" channel="peru-magico.pe">
+  <programme start="20261112083000 -0500" stop="20261112090000 -0500" channel="peru-magico.pe">
     <title lang="es">Más rico</title>
     <desc lang="es">Programación de Más rico por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113080000 -0500" stop="20261113090000 -0500" channel="peru-magico.pe">
+  <programme start="20261112090000 -0500" stop="20261112100000 -0500" channel="peru-magico.pe">
     <title lang="es">El camerino</title>
     <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113090000 -0500" stop="20261113100000 -0500" channel="peru-magico.pe">
+  <programme start="20261112100000 -0500" stop="20261112110000 -0500" channel="peru-magico.pe">
     <title lang="es">Wantan digital</title>
     <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113100000 -0500" stop="20261113103000 -0500" channel="peru-magico.pe">
+  <programme start="20261112110000 -0500" stop="20261112113000 -0500" channel="peru-magico.pe">
     <title lang="es">Entre cuchillos y fuego</title>
     <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113103000 -0500" stop="20261113120000 -0500" channel="peru-magico.pe">
+  <programme start="20261112113000 -0500" stop="20261112130000 -0500" channel="peru-magico.pe">
     <title lang="es">Al ángulo</title>
     <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113120000 -0500" stop="20261113150000 -0500" channel="peru-magico.pe">
+  <programme start="20261112130000 -0500" stop="20261112160000 -0500" channel="peru-magico.pe">
     <title lang="es">N Noticias</title>
     <desc lang="es">Programación de N Noticias por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113150000 -0500" stop="20261113160000 -0500" channel="peru-magico.pe">
+  <programme start="20261112160000 -0500" stop="20261112170000 -0500" channel="peru-magico.pe">
     <title lang="es">El camerino</title>
     <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113160000 -0500" stop="20261113163000 -0500" channel="peru-magico.pe">
+  <programme start="20261112170000 -0500" stop="20261112173000 -0500" channel="peru-magico.pe">
     <title lang="es">La 4ta pantalla</title>
     <desc lang="es">Programación de La 4ta pantalla por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113163000 -0500" stop="20261113170000 -0500" channel="peru-magico.pe">
+  <programme start="20261112173000 -0500" stop="20261112180000 -0500" channel="peru-magico.pe">
     <title lang="es">Ximena en Casa</title>
     <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113170000 -0500" stop="20261113180000 -0500" channel="peru-magico.pe">
+  <programme start="20261112180000 -0500" stop="20261112190000 -0500" channel="peru-magico.pe">
     <title lang="es">Wantan digital</title>
     <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113180000 -0500" stop="20261113190000 -0500" channel="peru-magico.pe">
+  <programme start="20261112190000 -0500" stop="20261112200000 -0500" channel="peru-magico.pe">
     <title lang="es">Primero a las 8</title>
     <desc lang="es">Programación de Primero a las 8 por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113190000 -0500" stop="20261113200000 -0500" channel="peru-magico.pe">
+  <programme start="20261112200000 -0500" stop="20261112210000 -0500" channel="peru-magico.pe">
     <title lang="es">2021 con Mávila Huertas</title>
     <desc lang="es">Programación de 2021 con Mávila Huertas por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113200000 -0500" stop="20261113210000 -0500" channel="peru-magico.pe">
+  <programme start="20261112210000 -0500" stop="20261112220000 -0500" channel="peru-magico.pe">
     <title lang="es">Jamás perfectas</title>
     <desc lang="es">Programación de Jamás perfectas por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113210000 -0500" stop="20261113213000 -0500" channel="peru-magico.pe">
+  <programme start="20261112220000 -0500" stop="20261112223000 -0500" channel="peru-magico.pe">
     <title lang="es">Entre cuchillos y fuego</title>
     <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113213000 -0500" stop="20261113220000 -0500" channel="peru-magico.pe">
+  <programme start="20261112223000 -0500" stop="20261112230000 -0500" channel="peru-magico.pe">
     <title lang="es">La gran despensa</title>
     <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261113220000 -0500" stop="20261114000000 -0500" channel="peru-magico.pe">
+  <programme start="20261112230000 -0500" stop="20261113010000 -0500" channel="peru-magico.pe">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113230000 -0500" stop="20261114010000 -0500" channel="peru-magico.pe">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113010000 -0500" stop="20261113013000 -0500" channel="peru-magico.pe">
+    <title lang="es">Perú Surf</title>
+    <desc lang="es">Programación de Perú Surf por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113013000 -0500" stop="20261113020000 -0500" channel="peru-magico.pe">
+    <title lang="es">Ximena en Casa</title>
+    <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113020000 -0500" stop="20261113023000 -0500" channel="peru-magico.pe">
+    <title lang="es">Celebra Perú</title>
+    <desc lang="es">Programación de Celebra Perú por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113023000 -0500" stop="20261113030000 -0500" channel="peru-magico.pe">
+    <title lang="es">Dulces Secretos</title>
+    <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113030000 -0500" stop="20261113043000 -0500" channel="peru-magico.pe">
+    <title lang="es">Al ángulo</title>
+    <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113043000 -0500" stop="20261113050000 -0500" channel="peru-magico.pe">
+    <title lang="es">La gran despensa</title>
+    <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113050000 -0500" stop="20261113080000 -0500" channel="peru-magico.pe">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Programación de N Noticias por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113080000 -0500" stop="20261113083000 -0500" channel="peru-magico.pe">
+    <title lang="es">Dulces Secretos</title>
+    <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113083000 -0500" stop="20261113090000 -0500" channel="peru-magico.pe">
+    <title lang="es">Más rico</title>
+    <desc lang="es">Programación de Más rico por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113090000 -0500" stop="20261113100000 -0500" channel="peru-magico.pe">
+    <title lang="es">El camerino</title>
+    <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113100000 -0500" stop="20261113110000 -0500" channel="peru-magico.pe">
+    <title lang="es">Wantan digital</title>
+    <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113110000 -0500" stop="20261113113000 -0500" channel="peru-magico.pe">
+    <title lang="es">Entre cuchillos y fuego</title>
+    <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113113000 -0500" stop="20261113130000 -0500" channel="peru-magico.pe">
+    <title lang="es">Al ángulo</title>
+    <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113130000 -0500" stop="20261113160000 -0500" channel="peru-magico.pe">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Programación de N Noticias por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113160000 -0500" stop="20261113170000 -0500" channel="peru-magico.pe">
+    <title lang="es">El camerino</title>
+    <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113170000 -0500" stop="20261113173000 -0500" channel="peru-magico.pe">
+    <title lang="es">La 4ta pantalla</title>
+    <desc lang="es">Programación de La 4ta pantalla por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113173000 -0500" stop="20261113180000 -0500" channel="peru-magico.pe">
+    <title lang="es">Ximena en Casa</title>
+    <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113180000 -0500" stop="20261113190000 -0500" channel="peru-magico.pe">
+    <title lang="es">Wantan digital</title>
+    <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113190000 -0500" stop="20261113200000 -0500" channel="peru-magico.pe">
+    <title lang="es">Primero a las 8</title>
+    <desc lang="es">Programación de Primero a las 8 por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113200000 -0500" stop="20261113210000 -0500" channel="peru-magico.pe">
+    <title lang="es">2021 con Mávila Huertas</title>
+    <desc lang="es">Programación de 2021 con Mávila Huertas por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113210000 -0500" stop="20261113220000 -0500" channel="peru-magico.pe">
+    <title lang="es">Jamás perfectas</title>
+    <desc lang="es">Programación de Jamás perfectas por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113220000 -0500" stop="20261113223000 -0500" channel="peru-magico.pe">
+    <title lang="es">Entre cuchillos y fuego</title>
+    <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113223000 -0500" stop="20261113230000 -0500" channel="peru-magico.pe">
+    <title lang="es">La gran despensa</title>
+    <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261113230000 -0500" stop="20261114010000 -0500" channel="peru-magico.pe">
     <title lang="es">Fútbol Peruano Primera División</title>
     <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
