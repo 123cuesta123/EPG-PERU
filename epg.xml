@@ -191,107 +191,137 @@
     <display-name lang="es">PERU ®| MOVISTAR DEPORTES SD</display-name>
     <display-name lang="es">PERU ®| MOVISTAR DEPORTES HD</display-name>
   </channel>
-  <programme start="20261123060000 -0500" stop="20261123070000 -0500" channel="america-tv.pe">
-    <title lang="es">América noticias: Edición dominical - Matutino</title>
-    <desc lang="es">Un programa con los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo de periodistas analiza los acontecimientos diarios para que el público se informe de la forma más completa sobre Perú y el mundo.</desc>
+  <programme start="20261123051600 -0500" stop="20261123070000 -0500" channel="america-tv.pe">
+    <title lang="es">América noticias - Primera edición local</title>
+    <desc lang="es">Veracidad, agilidad y carisma. El primer contacto del público con la información, de la mano de nuestro equipo de periodistas.</desc>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261123070000 -0500" stop="20261123083000 -0500" channel="america-tv.pe">
-    <title lang="es">América noticias: Edición dominical</title>
-    <desc lang="es">Alternativa informativa que presenta los hechos más importantes del ámbito local, nacional e internacional, con reportajes, entrevistas y comentarios acertados, manteniendo un toque de objetividad y credibilidad.</desc>
-    <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261123083000 -0500" stop="20261123105000 -0500" channel="america-tv.pe">
-    <title lang="es">Domingo al día</title>
-    <desc lang="es">Presenta de manera veraz y objetiva informes exclusivos, en un resumen de las informaciones más destacadas de la semana y los sucesos más importantes del ámbito político, nacional e internacional.</desc>
-    <category lang="es">Interés general</category>
-  </programme>
-  <programme start="20261123105000 -0500" stop="20261123110000 -0500" channel="america-tv.pe">
-    <title lang="es">Previa - Liga Femenina Apuesta Total</title>
-    <desc lang="es">Vive la previa de los partidos de la máxima categoría de fútbol femenino de Perú. Los equipos se enfrentan bajo el sistema de todos contra todos y el campeón clasifica a la Copa Libertadores de América Femenina 2027.</desc>
-    <category lang="es">Previa - Liga Femenina Apuesta Total</category>
-  </programme>
-  <programme start="20261123110000 -0500" stop="20261123130000 -0500" channel="america-tv.pe">
-    <title lang="es">Alianza Lima vs. Universitario</title>
-    <desc lang="es">Vive lo mejor de los partidos del Torneo Clausura 2026 de la Liga Femenina Apuesta Total. Los equipos juegan bajo el sistema de todos contra todos y el campeón clasifica a la Copa Libertadores de América Femenina 2027.</desc>
-    <category lang="es">Liga Femenina Apuesta Total</category>
-  </programme>
-  <programme start="20261123130000 -0500" stop="20261123140000 -0500" channel="america-tv.pe">
-    <title lang="es">Solamente milagros</title>
-    <desc lang="es">Son historias inspiradas en hechos reales y cotidianos de nuestra sociedad peruana, hechos que nos han afectado y aún nos afectan, todos ellos tocados por un evento extraordinario: un milagro.</desc>
-    <category lang="es">Drama</category>
-  </programme>
-  <programme start="20261123140000 -0500" stop="20261123150000 -0500" channel="america-tv.pe">
-    <title lang="es">El Chavo</title>
-    <desc lang="es">La historia de un niño que vive en una vecindad. En cada alocado episodio, el Chavo es acompañado por la Chilindrina, Kiko, Don Ramón, la Bruja del 71, Doña Florinda, el profesor Jirafales y Ñoño.</desc>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261123150000 -0500" stop="20261123163000 -0500" channel="america-tv.pe">
-    <title lang="es">Los Picapiedra</title>
-    <desc lang="es" />
-    <category lang="es">Los picapiedra</category>
-  </programme>
-  <programme start="20261123163000 -0500" stop="20261123180000 -0500" channel="america-tv.pe">
-    <title lang="es">Alvin y las ardillas 2</title>
-    <desc lang="es">Las ardillas más famosas y divertidas regresan para enfrentarse a la presión de la escuela, a los problemas que trae ser famoso, y a un grupo de chicas ardilla que les está haciendo la competencia: The Chipettes.</desc>
-    <category lang="es">Alvin and the Chipmunks: The Squeakquel</category>
-  </programme>
-  <programme start="20261123180000 -0500" stop="20261123184000 -0500" channel="america-tv.pe">
-    <title lang="es">Los milagros de la rosa</title>
-    <desc lang="es">La adaptación peruana del drama mexicano "La rosa de Guadalupe", que cuenta historias de personas con dificultades en su vida que experimentan milagros propiciados gracias a la Virgen de Guadalupe.</desc>
-    <category lang="es">Telenovela</category>
-  </programme>
-  <programme start="20261123184000 -0500" stop="20261123192000 -0500" channel="america-tv.pe">
-    <title lang="es">En los zapatos del Papa</title>
-    <desc lang="es">Destaca la historia de Antonio Arellano, un maestro zapatero peruano en Roma que ha diseñado calzado para las máximas autoridades de la Iglesia Católica.</desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20261123192000 -0500" stop="20261123200000 -0500" channel="america-tv.pe">
-    <title lang="es">Los milagros de la rosa</title>
-    <desc lang="es">La adaptación peruana del drama mexicano "La rosa de Guadalupe", que cuenta historias de personas con dificultades en su vida que experimentan milagros propiciados gracias a la Virgen de Guadalupe.</desc>
-    <category lang="es">Telenovela</category>
-  </programme>
-  <programme start="20261123200000 -0500" stop="20261123220000 -0500" channel="america-tv.pe">
-    <title lang="es">Cuarto poder</title>
-    <desc lang="es">Segmento periodístico peruano, conducido por Sol Carreño y Augusto Thorndike. Acompañados por un excelente equipo de reporteros, nos presentan los mejores reportajes de investigación.</desc>
-    <category lang="es">Periodístico</category>
-  </programme>
-  <programme start="20261123220000 -0500" stop="20261123225000 -0500" channel="america-tv.pe">
-    <title lang="es">Fútbol en América</title>
-    <desc lang="es">El resumen más completo del fútbol local, así como también la cobertura de todos los partidos de la Segunda División y la Copa Perú. Seguimos a los jugadores que participan en el extranjero y la selección peruana.</desc>
-    <category lang="es">Fútbol en América</category>
-  </programme>
-  <programme start="20261123225000 -0500" stop="20261123225300 -0500" channel="america-tv.pe">
-    <title lang="es">La tinka</title>
-    <desc lang="es">Como cada domingo, se comparten los números ganadores del sorteo millonario de la Tinka.</desc>
-    <category lang="es">Juegos</category>
-  </programme>
-  <programme start="20261123225300 -0500" stop="20261123233000 -0500" channel="america-tv.pe">
-    <title lang="es">Fútbol en América</title>
-    <desc lang="es">El resumen más completo del fútbol local, así como también la cobertura de todos los partidos de la Segunda División y la Copa Perú. Seguimos a los jugadores que participan en el extranjero y la selección peruana.</desc>
-    <category lang="es">Fútbol en América</category>
-  </programme>
-  <programme start="20261123233000 -0500" stop="20261124010000 -0500" channel="america-tv.pe">
-    <title lang="es">El refugio</title>
-    <desc lang="es" />
-    <category lang="es">Película</category>
-  </programme>
-  <programme start="20261124010000 -0500" stop="20261124030000 -0500" channel="america-tv.pe">
-    <title lang="es">La casa del caracol</title>
-    <desc lang="es">Antonio Prieto decide pasar el verano en un pueblo donde espera encontrar inspiración para su siguiente novela. Allí conoce a Berta, una mujer por la que siente una atracción, así como a algunos personajes sobre los que empieza investigar.</desc>
-    <category lang="es">Suspenso / 2021</category>
-  </programme>
-  <programme start="20261124030000 -0500" stop="20261124050000 -0500" channel="america-tv.pe">
-    <title lang="es">Cuarto poder</title>
-    <desc lang="es">Segmento periodístico peruano, conducido por Sol Carreño y Augusto Thorndike. Acompañados por un excelente equipo de reporteros, nos presentan los mejores reportajes de investigación.</desc>
-    <category lang="es">Periodístico</category>
-  </programme>
-  <programme start="20261124050000 -0500" stop="20261124051600 -0500" channel="america-tv.pe">
+  <programme start="20261123070000 -0500" stop="20261123085000 -0500" channel="america-tv.pe">
     <title lang="es">América noticias - Primera edición</title>
     <desc lang="es">Veracidad, agilidad y carisma. El primer contacto del público con la información, de la mano de nuestro equipo de periodistas.</desc>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261124051600 -0500" stop="20261124070000 -0500" channel="america-tv.pe">
+  <programme start="20261123085000 -0500" stop="20261123091000 -0500" channel="america-tv.pe">
+    <title lang="es">América deportes</title>
+    <desc lang="es">Descubre los acontecimientos más importantes en el mundo del deporte.</desc>
+    <category lang="es">América deportes</category>
+  </programme>
+  <programme start="20261123091000 -0500" stop="20261123093000 -0500" channel="america-tv.pe">
+    <title lang="es">América espectáculos</title>
+    <desc lang="es">Lo último de la información del mundo del espectáculo nacional e internacional. Las entrevistas más entretenidas con música en vivo la encontrarás aquí en América Espectáculos.</desc>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20261123093000 -0500" stop="20261123110000 -0500" channel="america-tv.pe">
+    <title lang="es">América hoy</title>
+    <desc lang="es">Haz tus mañanas divertidas junto a Ethel, Renzo, Natalia y Edson.</desc>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20261123110000 -0500" stop="20261123120000 -0500" channel="america-tv.pe">
+    <title lang="es">+ Espectáculos</title>
+    <desc lang="es">Lo último de la información del mundo del espectáculo nacional e internacional con la amena conducción de Rebeca Escribens. Las entrevistas más entretenidas con música en vivo la encontrarás aquí en América Espectáculos.</desc>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20261123120000 -0500" stop="20261123123500 -0500" channel="america-tv.pe">
+    <title lang="es">América noticias - Edición mediodía</title>
+    <desc lang="es">El resumen diario más ágil del acontecer nacional e internacional, de lunes a viernes con la juventud y el profesionalismo de Karina Borrero, Alvina Ruíz y Natalie Vertiz.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261123123500 -0500" stop="20261123124500 -0500" channel="america-tv.pe">
+    <title lang="es">América deportes</title>
+    <desc lang="es">Descubre los acontecimientos más importantes en el mundo del deporte.</desc>
+    <category lang="es">América deportes</category>
+  </programme>
+  <programme start="20261123124500 -0500" stop="20261123130000 -0500" channel="america-tv.pe">
+    <title lang="es">América espectáculos</title>
+    <desc lang="es">Lo último de la información del mundo del espectáculo nacional e internacional. Las entrevistas más entretenidas con música en vivo la encontrarás aquí en América Espectáculos.</desc>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20261123130000 -0500" stop="20261123134000 -0500" channel="america-tv.pe">
+    <title lang="es">Destilando amor</title>
+    <desc lang="es">En el hermoso pueblo de Tequila, Jalisco, surge un amor ardiente, puro y fuerte, como el famoso destilado que lleva el nombre de esta cálida y fértil región donde se produce.</desc>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20261123134000 -0500" stop="20261123160000 -0500" channel="america-tv.pe">
+    <title lang="es">Mande quien mande</title>
+    <desc lang="es">Un magazine conducido por María Pía y Carlota, quienes abordan novedades, chismes, concursos y mucho másl. El público podrá informarse de forma distentida y divertirse con ambos conductores y sus invitados.</desc>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20261123160000 -0500" stop="20261123170000 -0500" channel="america-tv.pe">
+    <title lang="es">Los hilos del pasado</title>
+    <desc lang="es">Carolina, una reconocida diseñadora de moda, se obsesiona con arruinarle la vida a Cristina, una joven modelo, por enamorarse de su hijastro.</desc>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20261123170000 -0500" stop="20261123180000 -0500" channel="america-tv.pe">
+    <title lang="es">El Chavo</title>
+    <desc lang="es">La historia de un niño que vive en una vecindad. En cada alocado episodio, el Chavo es acompañado por la Chilindrina, Kiko, Don Ramón, la Bruja del 71, Doña Florinda, el profesor Jirafales y Ñoño.</desc>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20261123180000 -0500" stop="20261123193000 -0500" channel="america-tv.pe">
+    <title lang="es">Los milagros de la rosa</title>
+    <desc lang="es">La adaptación peruana del drama mexicano "La rosa de Guadalupe", que cuenta historias de personas con dificultades en su vida que experimentan milagros propiciados gracias a la Virgen de Guadalupe.</desc>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20261123193000 -0500" stop="20261123220000 -0500" channel="america-tv.pe">
+    <title lang="es">Esto es guerra</title>
+    <desc lang="es">Segmento en el que un equipo de hombres y otro de mujeres compiten a diario por ver cuál de los dos sexos es el más fuerte. Ellos deberán realizar pruebas de conocimiento, rapidez mental, destreza física y pruebas de alto riesgo.</desc>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20261123220000 -0500" stop="20261123230000 -0500" channel="america-tv.pe">
+    <title lang="es">La vida que me robaste</title>
+    <desc lang="es">Mariana es encarcelada y pasa diez años en prisión tras recibir una condena injusta por un homicidio. Sin embargo, logra conseguir la libertad condicional y regresa para recuperar a sus dos hijas, Melissa y Stephany.</desc>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20261123230000 -0500" stop="20261123231700 -0500" channel="america-tv.pe">
+    <title lang="es">América noticias - Edición central</title>
+    <desc lang="es">Sinónimo de objetividad, credibilidad y experiencia, Un espacio que presenta la más completa información del acontecer nacional e internacional.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261123231700 -0500" stop="20261123232400 -0500" channel="america-tv.pe">
+    <title lang="es">América deportes</title>
+    <desc lang="es">Descubre los acontecimientos más importantes en el mundo del deporte.</desc>
+    <category lang="es">América deportes</category>
+  </programme>
+  <programme start="20261123232400 -0500" stop="20261123232700 -0500" channel="america-tv.pe">
+    <title lang="es">América noticias - Edición central</title>
+    <desc lang="es">Sinónimo de objetividad, credibilidad y experiencia, Un espacio que presenta la más completa información del acontecer nacional e internacional.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261123232700 -0500" stop="20261123234500 -0500" channel="america-tv.pe">
+    <title lang="es">América espectáculos</title>
+    <desc lang="es">Lo último de la información del mundo del espectáculo nacional e internacional. Las entrevistas más entretenidas con música en vivo la encontrarás aquí en América Espectáculos.</desc>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20261123234500 -0500" stop="20261124003000 -0500" channel="america-tv.pe">
+    <title lang="es">Desvelados</title>
+    <desc lang="es">Un programa dedicado para los que se van a dormir tarde que promete diversión, incursiones urbanas, viajes inesperados y premios en efectivo con la conducción de Korina Riverdeneira y Renato Luna.</desc>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20261124003000 -0500" stop="20261124013000 -0500" channel="america-tv.pe">
+    <title lang="es">Los hilos del pasado</title>
+    <desc lang="es">Carolina, una reconocida diseñadora de moda, se obsesiona con arruinarle la vida a Cristina, una joven modelo, por enamorarse de su hijastro.</desc>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20261124013000 -0500" stop="20261124021000 -0500" channel="america-tv.pe">
+    <title lang="es">Destilando amor</title>
+    <desc lang="es">En el hermoso pueblo de Tequila, Jalisco, surge un amor ardiente, puro y fuerte, como el famoso destilado que lleva el nombre de esta cálida y fértil región donde se produce.</desc>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20261124021000 -0500" stop="20261124023000 -0500" channel="america-tv.pe">
+    <title lang="es">América espectáculos</title>
+    <desc lang="es">Lo último de la información del mundo del espectáculo nacional e internacional. Las entrevistas más entretenidas con música en vivo la encontrarás aquí en América Espectáculos.</desc>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20261124023000 -0500" stop="20261124033000 -0500" channel="america-tv.pe">
+    <title lang="es">+ Espectáculos</title>
+    <desc lang="es">Lo último de la información del mundo del espectáculo nacional e internacional con la amena conducción de Rebeca Escribens. Las entrevistas más entretenidas con música en vivo la encontrarás aquí en América Espectáculos.</desc>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20261124033000 -0500" stop="20261124050000 -0500" channel="america-tv.pe">
+    <title lang="es">Mande quien mande</title>
+    <desc lang="es">Un magazine conducido por María Pía y Carlota, quienes abordan novedades, chismes, concursos y mucho másl. El público podrá informarse de forma distentida y divertirse con ambos conductores y sus invitados.</desc>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20261124050000 -0500" stop="20261124070000 -0500" channel="america-tv.pe">
     <title lang="es">América noticias - Primera edición local</title>
     <desc lang="es">Veracidad, agilidad y carisma. El primer contacto del público con la información, de la mano de nuestro equipo de periodistas.</desc>
     <category lang="es">Noticiero</category>
@@ -356,9 +386,14 @@
     <desc lang="es">La historia de un niño que vive en una vecindad. En cada alocado episodio, el Chavo es acompañado por la Chilindrina, Kiko, Don Ramón, la Bruja del 71, Doña Florinda, el profesor Jirafales y Ñoño.</desc>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20261124180000 -0500" stop="20261124193000 -0500" channel="america-tv.pe">
+  <programme start="20261124180000 -0500" stop="20261124185000 -0500" channel="america-tv.pe">
     <title lang="es">Los milagros de la rosa</title>
     <desc lang="es">La adaptación peruana del drama mexicano "La rosa de Guadalupe", que cuenta historias de personas con dificultades en su vida que experimentan milagros propiciados gracias a la Virgen de Guadalupe.</desc>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20261124185000 -0500" stop="20261124193000 -0500" channel="america-tv.pe">
+    <title lang="es">Los milagros de la rosa: Perú</title>
+    <desc lang="es">Diversas historias que siguen la línea de la gran producción mexicana, adaptándose al contexto y las costumbres peruanas. Se cuentan historias dramáticas cuyos protagonistas experimentan milagros provenientes de la Virgen de Guadalupe.</desc>
     <category lang="es">Telenovela</category>
   </programme>
   <programme start="20261124193000 -0500" stop="20261124220000 -0500" channel="america-tv.pe">
@@ -486,14 +521,9 @@
     <desc lang="es">La historia de un niño que vive en una vecindad. En cada alocado episodio, el Chavo es acompañado por la Chilindrina, Kiko, Don Ramón, la Bruja del 71, Doña Florinda, el profesor Jirafales y Ñoño.</desc>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20261125180000 -0500" stop="20261125185000 -0500" channel="america-tv.pe">
+  <programme start="20261125180000 -0500" stop="20261125193000 -0500" channel="america-tv.pe">
     <title lang="es">Los milagros de la rosa</title>
     <desc lang="es">La adaptación peruana del drama mexicano "La rosa de Guadalupe", que cuenta historias de personas con dificultades en su vida que experimentan milagros propiciados gracias a la Virgen de Guadalupe.</desc>
-    <category lang="es">Telenovela</category>
-  </programme>
-  <programme start="20261125185000 -0500" stop="20261125193000 -0500" channel="america-tv.pe">
-    <title lang="es">Los milagros de la rosa: Perú</title>
-    <desc lang="es">Diversas historias que siguen la línea de la gran producción mexicana, adaptándose al contexto y las costumbres peruanas. Se cuentan historias dramáticas cuyos protagonistas experimentan milagros provenientes de la Virgen de Guadalupe.</desc>
     <category lang="es">Telenovela</category>
   </programme>
   <programme start="20261125193000 -0500" stop="20261125220000 -0500" channel="america-tv.pe">
@@ -501,10 +531,15 @@
     <desc lang="es">Segmento en el que un equipo de hombres y otro de mujeres compiten a diario por ver cuál de los dos sexos es el más fuerte. Ellos deberán realizar pruebas de conocimiento, rapidez mental, destreza física y pruebas de alto riesgo.</desc>
     <category lang="es">Reality Show</category>
   </programme>
-  <programme start="20261125220000 -0500" stop="20261125230000 -0500" channel="america-tv.pe">
+  <programme start="20261125220000 -0500" stop="20261125225000 -0500" channel="america-tv.pe">
     <title lang="es">La vida que me robaste</title>
     <desc lang="es">Mariana es encarcelada y pasa diez años en prisión tras recibir una condena injusta por un homicidio. Sin embargo, logra conseguir la libertad condicional y regresa para recuperar a sus dos hijas, Melissa y Stephany.</desc>
     <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20261125225000 -0500" stop="20261125230000 -0500" channel="america-tv.pe">
+    <title lang="es">La tinka</title>
+    <desc lang="es">Como cada domingo, se comparten los números ganadores del sorteo millonario de la Tinka.</desc>
+    <category lang="es">Juegos</category>
   </programme>
   <programme start="20261125230000 -0500" stop="20261125231700 -0500" channel="america-tv.pe">
     <title lang="es">América noticias - Edición central</title>
@@ -561,50 +596,70 @@
     <desc lang="es">Veracidad, agilidad y carisma. El primer contacto del público con la información, de la mano de nuestro equipo de periodistas.</desc>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261123060000 -0500" stop="20261123083000 -0500" channel="latina-tv.pe">
-    <title lang="es">Latina noticias - Fin de semana</title>
-    <desc lang="es">Un espacio informativo con los hechos más relevantes a nivel nacional e internacional, de la mano de un equipo periodístico que analiza de forma objetiva los hechos.</desc>
+  <programme start="20261123060000 -0500" stop="20261123070000 -0500" channel="latina-tv.pe">
+    <title lang="es">Latina noticias - Matinal nacional</title>
+    <desc lang="es">Conéctate con la fuerza informativa de Latina con lo último del acontecer nacional e internacional.</desc>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261123083000 -0500" stop="20261123120000 -0500" channel="latina-tv.pe">
-    <title lang="es">Latina noticias - Reporte semanal</title>
-    <desc lang="es">Latina noticias: Reporte semanal es un magazine matinal peruano, de corte informativo, que se emite los sábados y domingos por Latina Televisión. Es dirigido por el periodista Juan Subauste y conducido por María Teresa Braschi.</desc>
+  <programme start="20261123070000 -0500" stop="20261123090000 -0500" channel="latina-tv.pe">
+    <title lang="es">Latina noticias - Matinal</title>
+    <desc lang="es">Espacio informativo que presenta noticias de actualidad nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre los acontecimientos diarios más relevantes.</desc>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261123120000 -0500" stop="20261123140000 -0500" channel="latina-tv.pe">
+  <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="latina-tv.pe">
+    <title lang="es">Arriba mi gente</title>
+    <desc lang="es">El programa combina actualidad, noticias, entretenimiento, música y notas de espectáculos, renovándose para mejorar su sintonía.</desc>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20261123120000 -0500" stop="20261123150000 -0500" channel="latina-tv.pe">
     <title lang="es">Latina noticias - Mediodía</title>
     <desc lang="es">Un programa que repasa los hechos más destacados de la agenda de noticias nacional e internacional. La presentadora Alicia Retto presenta reportajes y entrevista a expertos para que el público se informe al completo sobre la realidad.</desc>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261123140000 -0500" stop="20261123161500 -0500" channel="latina-tv.pe">
-    <title lang="es">Géminis vs. Equipo Perú</title>
-    <desc lang="es">Cobertura de los partidos de vóley de la Liga Peruana de Vóley Apuesta Total. Doce equipos se enfrentan en un evento que comenzará con una fase de grupos y que pondrá a prueba la destreza de los jugadores.</desc>
-    <category lang="es">Liga Peruana de Vóley</category>
+  <programme start="20261123150000 -0500" stop="20261123160000 -0500" channel="latina-tv.pe">
+    <title lang="es">Cuando los ángeles caen</title>
+    <desc lang="es">Un espacio que muestra testimonios de historias inspiradoras y cómo existen los ángeles en la tierra que impactan en la vida de las personas. El presentador recorre los distintos relatos y ofrece profundas reflexiones.</desc>
+    <category lang="es">Entretenimientos</category>
   </programme>
-  <programme start="20261123161500 -0500" stop="20261123181500 -0500" channel="latina-tv.pe">
-    <title lang="es">San Martín vs. Olva Latino</title>
-    <desc lang="es">Cobertura de los partidos de vóley de la Liga Peruana de Vóley Apuesta Total. Doce equipos se enfrentan en un evento que comenzará con una fase de grupos y que pondrá a prueba la destreza de los jugadores.</desc>
-    <category lang="es">Liga Peruana de Vóley</category>
+  <programme start="20261123160000 -0500" stop="20261123170000 -0500" channel="latina-tv.pe">
+    <title lang="es">Las vueltas del amor</title>
+    <desc lang="es">Un padre dispuesto a entregar a su hija, un hombre lleno de mentiras y un amor que se niega a morir.</desc>
+    <category lang="es">Drama</category>
   </programme>
-  <programme start="20261123181500 -0500" stop="20261123210000 -0500" channel="latina-tv.pe">
-    <title lang="es">Alianza Lima vs. Atenea</title>
-    <desc lang="es">Cobertura de los partidos de vóley de la Liga Peruana de Vóley Apuesta Total. Doce equipos se enfrentan en un evento que comenzará con una fase de grupos y que pondrá a prueba la destreza de los jugadores.</desc>
-    <category lang="es">Liga Peruana de Vóley</category>
+  <programme start="20261123170000 -0500" stop="20261123180000 -0500" channel="latina-tv.pe">
+    <title lang="es">Promesa de hermanos</title>
+    <desc lang="es">Seis hermanos huérfanos luchan por sobrevivir en las calles de Estambul mientras evaden amenazas de autoridades y delincuentes. Liderados por la hermana mayor Azize, buscan desesperadamente un refugio seguro y una nueva vida juntos.</desc>
+    <category lang="es">Telenovela</category>
   </programme>
-  <programme start="20261123210000 -0500" stop="20261123230000 -0500" channel="latina-tv.pe">
-    <title lang="es">Latina noticias - Punto final</title>
-    <desc lang="es">Programa informativo que realiza coberturas especiales de los principales sucesos de América Latina mostrando los hechos desde un punto de vista objetivo y con una óptica completamente diferente, además de entrevistas con los protagonsitas.</desc>
-    <category lang="es">Periodístico</category>
+  <programme start="20261123180000 -0500" stop="20261123190000 -0500" channel="latina-tv.pe">
+    <title lang="es">Doble Kara</title>
+    <desc lang="es">Gira en torno a dos hermanas gemelas idénticas que crecieron en una familia feliz a pesar de ser pobres y cuyas vidas estarán entrelazadas por amor, identidad, engaño, ambición y riqueza cuando el destino obliga a burlarse de sus vidas.</desc>
+    <category lang="es">Telenovela</category>
   </programme>
-  <programme start="20261123230000 -0500" stop="20261124000000 -0500" channel="latina-tv.pe">
-    <title lang="es">Latina deportes</title>
-    <desc lang="es">Noticias sobre el fútbol peruano, la Selección de Perú y otros deportes como voleibol, boxeo, natación y más.</desc>
-    <category lang="es">Latina deportes</category>
+  <programme start="20261123190000 -0500" stop="20261123203000 -0500" channel="latina-tv.pe">
+    <title lang="es">Latina noticias - Edición central</title>
+    <desc lang="es">Para complementar la información, Latina Noticias Edición Central cierra con el desarrollo de todas las noticias más importantes del día.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261123203000 -0500" stop="20261123212000 -0500" channel="latina-tv.pe">
+    <title lang="es">Valentina Valiente</title>
+    <desc lang="es">Valentina, una joven humilde que canta en buses para mantener a su familia, ve su vida dar un giro al descubrir que es heredera de una gran fortuna. Un romance donde el barrio y la alta sociedad chocan entre secretos y prejuicios.</desc>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20261123212000 -0500" stop="20261123232000 -0500" channel="latina-tv.pe">
+    <title lang="es">Yo soy</title>
+    <desc lang="es">Un programa de entretenimientos que busca descubrir a los mejores imitadores nacionales. Los participantes deberán demostrar no solo un gran parecido físico con sus artistas favoritos, sino también una destacada capacidad interpretativa.</desc>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20261123232000 -0500" stop="20261124000000 -0500" channel="latina-tv.pe">
+    <title lang="es">Corazón ajeno</title>
+    <desc lang="es">Después de recibir el corazón de Melike Alkan, Asli se ve envuelta en un mundo de dolor, poder y amor prohibido, mientras todos dudan si la muerte de Melike fue accidente o asesinato.</desc>
+    <category lang="es">Telenovela</category>
   </programme>
   <programme start="20261124000000 -0500" stop="20261124003000 -0500" channel="latina-tv.pe">
-    <title lang="es">Expertos en belleza</title>
-    <desc lang="es">Médicos expertos en belleza se unirán cada semana para contarnos sobre tratamientos innovadores, sus aplicaciones y sus beneficios</desc>
-    <category lang="es">Salud</category>
+    <title lang="es">Problemas y soluciones</title>
+    <desc lang="es">Es un programa religioso donde pastores del exterior predican la palabra de Dios a todos los creyentes.</desc>
+    <category lang="es">Religioso</category>
   </programme>
   <programme start="20261124003000 -0500" stop="20261124013000 -0500" channel="latina-tv.pe">
     <title lang="es">Nutrisa</title>
@@ -612,19 +667,29 @@
     <category lang="es">Salud</category>
   </programme>
   <programme start="20261124013000 -0500" stop="20261124023000 -0500" channel="latina-tv.pe">
-    <title lang="es">Gênesis</title>
-    <desc lang="es">La historia de los primeros dos mil trescientos años de la humanidad, con grandes acontecimientos exclusivos, que dan cuenta del origen de todos los problemas sociales y raciales.</desc>
-    <category lang="es">Telenovela</category>
+    <title lang="es">El chico de oro</title>
+    <desc lang="es">Ferit es obligado a casarse con una joven. Pero él, además de ser rico, vive una vida sin restricciones ni obligaciones. ¿La vida matrimonial cambiará sus hábitos? ¿Y cómo será aceptado un hombre así por una esposa de buen corazón?</desc>
+    <category lang="es">Romántica</category>
   </programme>
   <programme start="20261124023000 -0500" stop="20261124030000 -0500" channel="latina-tv.pe">
-    <title lang="es">Habla serio</title>
-    <desc lang="es">Un espacio de conversación sincera donde influencers, cantantes y diversas personalidades de la televisión comparten aspectos ocultos de su profesión. Cada conversación promete ser un encuentro ameno, entretenido y revelador.</desc>
-    <category lang="es">Interés general</category>
+    <title lang="es">Perdidos de amor</title>
+    <desc lang="es">Las familias adineradas de Mete y Naz planean que ambos se casen cuando crezcan. Cuando Incila, quien ha estado con Naz desde su infancia, se presenta ante Mete, esto cambia la situación.</desc>
+    <category lang="es">Telenovela</category>
   </programme>
-  <programme start="20261124030000 -0500" stop="20261124043000 -0500" channel="latina-tv.pe">
-    <title lang="es">Reporte semanal</title>
-    <desc lang="es">Aborda temas de interés nacional e internacional desde todos sus ángulos y los expresa como un destape, una primicia, una crónica social, una nota humana, una denuncia policial, en un formato simple.</desc>
-    <category lang="es">Periodístico</category>
+  <programme start="20261124030000 -0500" stop="20261124033000 -0500" channel="latina-tv.pe">
+    <title lang="es">Corazón abandonado</title>
+    <desc lang="es">La familia Sayar es una de las más respetadas y adineradas de Ankara. Sin embargo, todo se complica cuando el hijo mayor decide rechazar casarse con la hija del socio de su padre.</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20261124033000 -0500" stop="20261124040000 -0500" channel="latina-tv.pe">
+    <title lang="es">Buenas nuevas, malas nuevas</title>
+    <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo periodístico presenta reportajes, realiza entrevistas y discute la realidad.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261124040000 -0500" stop="20261124043000 -0500" channel="latina-tv.pe">
+    <title lang="es">Buenas nuevas, malas nuevas</title>
+    <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo periodístico presenta reportajes, realiza entrevistas y discute la realidad.</desc>
+    <category lang="es">Noticiero</category>
   </programme>
   <programme start="20261124043000 -0500" stop="20261124050000 -0500" channel="latina-tv.pe">
     <title lang="es">Telebrands</title>
@@ -678,7 +743,7 @@
   </programme>
   <programme start="20261124190000 -0500" stop="20261124203000 -0500" channel="latina-tv.pe">
     <title lang="es">Latina noticias - Edición central</title>
-    <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. El conductor Martin Riepl analiza los acontecimientos diarios para que el público se informe al completo sobre la realidad.</desc>
+    <desc lang="es">Para complementar la información, Latina Noticias Edición Central cierra con el desarrollo de todas las noticias más importantes del día.</desc>
     <category lang="es">Noticiero</category>
   </programme>
   <programme start="20261124203000 -0500" stop="20261124212000 -0500" channel="latina-tv.pe">
@@ -783,7 +848,7 @@
   </programme>
   <programme start="20261125190000 -0500" stop="20261125203000 -0500" channel="latina-tv.pe">
     <title lang="es">Latina noticias - Edición central</title>
-    <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. El conductor Martin Riepl analiza los acontecimientos diarios para que el público se informe al completo sobre la realidad.</desc>
+    <desc lang="es">Para complementar la información, Latina Noticias Edición Central cierra con el desarrollo de todas las noticias más importantes del día.</desc>
     <category lang="es">Noticiero</category>
   </programme>
   <programme start="20261125203000 -0500" stop="20261125212000 -0500" channel="latina-tv.pe">
@@ -812,34 +877,24 @@
     <category lang="es">Salud</category>
   </programme>
   <programme start="20261126013000 -0500" stop="20261126023000 -0500" channel="latina-tv.pe">
-    <title lang="es">El chico de oro</title>
-    <desc lang="es">Ferit es obligado a casarse con una joven. Pero él, además de ser rico, vive una vida sin restricciones ni obligaciones. ¿La vida matrimonial cambiará sus hábitos? ¿Y cómo será aceptado un hombre así por una esposa de buen corazón?</desc>
-    <category lang="es">Romántica</category>
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Una reflexión de la vida misma, historias, consejos y problemas que viven actualmente las mujeres en su entorno social.</desc>
+    <category lang="es">Drama</category>
   </programme>
   <programme start="20261126023000 -0500" stop="20261126030000 -0500" channel="latina-tv.pe">
     <title lang="es">Perdidos de amor</title>
     <desc lang="es">Las familias adineradas de Mete y Naz planean que ambos se casen cuando crezcan. Cuando Incila, quien ha estado con Naz desde su infancia, se presenta ante Mete, esto cambia la situación.</desc>
     <category lang="es">Telenovela</category>
   </programme>
-  <programme start="20261126030000 -0500" stop="20261126033000 -0500" channel="latina-tv.pe">
+  <programme start="20261126030000 -0500" stop="20261126040000 -0500" channel="latina-tv.pe">
     <title lang="es">Corazón abandonado</title>
     <desc lang="es">La familia Sayar es una de las más respetadas y adineradas de Ankara. Sin embargo, todo se complica cuando el hijo mayor decide rechazar casarse con la hija del socio de su padre.</desc>
     <category lang="es">Drama</category>
   </programme>
-  <programme start="20261126033000 -0500" stop="20261126040000 -0500" channel="latina-tv.pe">
+  <programme start="20261126040000 -0500" stop="20261126050000 -0500" channel="latina-tv.pe">
     <title lang="es">Buenas nuevas, malas nuevas</title>
     <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo periodístico presenta reportajes, realiza entrevistas y discute la realidad.</desc>
     <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261126040000 -0500" stop="20261126043000 -0500" channel="latina-tv.pe">
-    <title lang="es">Buenas nuevas, malas nuevas</title>
-    <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo periodístico presenta reportajes, realiza entrevistas y discute la realidad.</desc>
-    <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261126043000 -0500" stop="20261126050000 -0500" channel="latina-tv.pe">
-    <title lang="es">Telebrands</title>
-    <desc lang="es">Espacio publicitario de Telebrands.</desc>
-    <category lang="es">Publicidad</category>
   </programme>
   <programme start="20261126050000 -0500" stop="20261126070000 -0500" channel="latina-tv.pe">
     <title lang="es">Latina noticias - Despierta con matinal</title>
@@ -1146,70 +1201,60 @@
     <desc lang="es">Miniseries y producciones estelares de colección.</desc>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20261123060000 -0500" stop="20261123063000 -0500" channel="atv.pe">
+  <programme start="20261123053000 -0500" stop="20261123063000 -0500" channel="atv.pe">
+    <title lang="es">ATV Noticias - Edición matinal</title>
+    <desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261123063000 -0500" stop="20261123103000 -0500" channel="atv.pe">
+    <title lang="es">ATV Noticias - Edición matinal</title>
+    <desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261123103000 -0500" stop="20261123120000 -0500" channel="atv.pe">
+    <title lang="es">Así de simple</title>
+    <desc lang="es">Una pareja interpretada por seis actores representan el ruido mental de todas nuestras opiniones contrapuestas a la hora de amar a una persona, con todo lo bueno y todo lo malo de una relación.</desc>
+    <category lang="es">Teatro</category>
+  </programme>
+  <programme start="20261123120000 -0500" stop="20261123130000 -0500" channel="atv.pe">
+    <title lang="es">ATV Noticias</title>
+    <desc lang="es">Disfruta de los hechos más relevantes y actuales que la mejor unidad de investigación de la televisión peruana trae para ti. Con la mejor información y primicias que actúan como termómetro de la coyuntura mediática.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261123130000 -0500" stop="20261123140000 -0500" channel="atv.pe">
+    <title lang="es">Andrea</title>
+    <desc lang="es">Un programa con historias reales donde Andrea Llosa ayudará a darle solución a problemas que muchos vivimos a diario. El público se emocionará con anécdotas y vivencias de todo tipo mientras la conductora ofrece soluciones.</desc>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20261123140000 -0500" stop="20261123153000 -0500" channel="atv.pe">
+    <title lang="es">La mujer en el espejo</title>
+    <desc lang="es">Juliana Soler sentía que la soledad era la constante de su vida y, el amor, algo que nunca podría conocer. Y todo, porque ella era una joven sencilla e inteligente, pero fea... Sin embargo, el destino le dará una oportunidad.</desc>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20261123153000 -0500" stop="20261123200000 -0500" channel="atv.pe">
+    <title lang="es">Amor eterno</title>
+    <desc lang="es">Kemal es hijo de una familia de clase media. En su último año en ingeniería de minas, una chica llamada Nihan entra en su monótona vida, convirtiéndose el amor en algo imposible por la diferencia de clases.</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20261123200000 -0500" stop="20261123213000 -0500" channel="atv.pe">
+    <title lang="es">Ocurre ahora</title>
+    <desc lang="es">Lo más relevante de la coyuntura nacional e internacional a nivel social y político, con la conducción de Mávila Huertas.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261123213000 -0500" stop="20261123230000 -0500" channel="atv.pe">
+    <title lang="es">Magaly TV, la firme</title>
+    <desc lang="es">Espacio de entretenimiento y espectáculos para toda la familia. Magaly Medina regresó para meter en problemas a todos.</desc>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20261123230000 -0500" stop="20261123235000 -0500" channel="atv.pe">
+    <title lang="es">ATV Noticias</title>
+    <desc lang="es">Disfruta de los hechos más relevantes y actuales que la mejor unidad de investigación de la televisión peruana trae para ti. Con la mejor información y primicias que actúan como termómetro de la coyuntura mediática.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261123235000 -0500" stop="20261124010000 -0500" channel="atv.pe">
     <title lang="es">En otra cancha</title>
     <desc lang="es">Un programa que combina entrevistas, invitados especiales y análisis de actualidad deportiva. Paco Bazán conduce este late night show que informa y entretiene al público con diversas secciones y charlas.</desc>
     <category lang="es">Entretenimientos</category>
-  </programme>
-  <programme start="20261123063000 -0500" stop="20261123092000 -0500" channel="atv.pe">
-    <title lang="es">Canto andino</title>
-    <desc lang="es">Un emblemático ciclo que nos muestra a las estrellas del folclore peruano y que se convirtió en el referente televisivo de la tradición del Perú profundo.</desc>
-    <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261123092000 -0500" stop="20261123101000 -0500" channel="atv.pe">
-    <title lang="es">Warner Cartoons</title>
-    <desc lang="es">Los mejores dibujos animados de la Warner Brothers.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme start="20261123101000 -0500" stop="20261123103500 -0500" channel="atv.pe">
-    <title lang="es">Bugs Bunny show</title>
-    <desc lang="es">Disfrute con los clásicos cortos animados de Looney Tunes.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme start="20261123103500 -0500" stop="20261123110000 -0500" channel="atv.pe">
-    <title lang="es">Tom and Jerry Theatricals</title>
-    <desc lang="es">Sigue las alocadas aventuras del juego original del gato y el ratón mientras Tom, un gato doméstico, y Jerry, un ratón ingenioso luchan.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme start="20261123110000 -0500" stop="20261123113000 -0500" channel="atv.pe">
-    <title lang="es">Don Gato y su pandilla</title>
-    <desc lang="es">Don Gato es el líder de un grupo de gatos de callejón de Nueva York, que siempre busca salirse con la suya.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme start="20261123113000 -0500" stop="20261123133000 -0500" channel="atv.pe">
-    <title lang="es">Los Picapiedra</title>
-    <desc lang="es">Desde el pueblo de Pietrópolis, Pedro, Vilma y su hija Pebbles hacen que los problemas prehistóricos se transformen en carcajadas del siglo XXI, junto a sus vecinos Pablo y Betty Mármol.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme start="20261123133000 -0500" stop="20261123160000 -0500" channel="atv.pe">
-    <title lang="es">Piratas del Caribe: La maldición del Perla Negra</title>
-    <desc lang="es">Cuando la tripulación del Perla Negra, liderada por el capitán Barbosa, secuestra a la hija del gobernador de Port Royal para romper una maldición, un joven herrero se une a Jack Sparrow, ex capitán del buque pirata, para rescatarla.</desc>
-    <category lang="es">Pirates of the Caribbean: The Curse of the Black Pearl</category>
-  </programme>
-  <programme start="20261123160000 -0500" stop="20261123180000 -0500" channel="atv.pe">
-    <title lang="es">Junior</title>
-    <desc lang="es">Arnold Schwarzenegger es un estrafalario científico que es sometido por su colega, Danny DeVito, para ser inseminado con esperma masculino y un óvulo para que un embarazo fecunde. La comedia tiene un humor ilimitado.</desc>
-    <category lang="es">Comedia / 1994 / 4.6</category>
-  </programme>
-  <programme start="20261123180000 -0500" stop="20261123200000 -0500" channel="atv.pe">
-    <title lang="es">Flipper</title>
-    <desc lang="es">Para Sandy, lo que parece otro verano aburrido se convierte en las vacaciones más divertidas de su vida cuando se topa con el mejor amigo que podría encontrar: Flipper, un delfín huérfano.</desc>
-    <category lang="es">Aventura / 1996 / 5.4</category>
-  </programme>
-  <programme start="20261123200000 -0500" stop="20261123215500 -0500" channel="atv.pe">
-    <title lang="es">Cars</title>
-    <desc lang="es">Rayo McQueen es un coche de carreras novato y egoísta que va camino a participar de un gran torneo. Cuando se pierde en la Ruta 66, conoce a un grupo de habitantes que le enseñarán que hay cosas más importantes que la fama y los trofeos.</desc>
-    <category lang="es">Familiar / 2006 / 7.2</category>
-  </programme>
-  <programme start="20261123215500 -0500" stop="20261124000000 -0500" channel="atv.pe">
-    <title lang="es">Día D</title>
-    <desc lang="es">Segmento periodístico dominical, bajo la conducción de Pamela Vértiz y con la labor incansable de un reconocido equipo de reporteros e investigadores.</desc>
-    <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261124000000 -0500" stop="20261124010000 -0500" channel="atv.pe">
-    <title lang="es">Alto al crimen</title>
-    <desc lang="es">Ciclo que emite reportajes de operativos policiales contra la delincuencia, drogas y terrorismo con el fin de mantener informada a la población.</desc>
-    <category lang="es">Periodístico</category>
   </programme>
   <programme start="20261124010000 -0500" stop="20261124053000 -0500" channel="atv.pe">
     <title lang="es">Los hombres de Paco</title>
@@ -1341,85 +1386,75 @@
     <desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261123060000 -0500" stop="20261123070000 -0500" channel="atv-mas.pe">
-    <title lang="es">Cámara loca</title>
-    <desc lang="es">Divertido espacio con mucho entretenimiento que presenta a buen ritmo vídeos inéditos, realizados por los espectadores para compartir los momentos más divertidos de sus mascotas favoritas y las personas.</desc>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261123070000 -0500" stop="20261123100000 -0500" channel="atv-mas.pe">
-    <title lang="es">Al extremo</title>
-    <desc lang="es">Un magazine con las imágenes más impactantes, así como también con las historias que otros programas no se atreven a contar.</desc>
+  <programme start="20261123053000 -0500" stop="20261123103000 -0500" channel="atv-mas.pe">
+    <title lang="es">ATV Noticias - Edición matinal</title>
+    <desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261123100000 -0500" stop="20261123110000 -0500" channel="atv-mas.pe">
-    <title lang="es">Al extremo</title>
-    <desc lang="es">Un magazine con las imágenes más impactantes, así como también con las historias que otros programas no se atreven a contar.</desc>
+  <programme start="20261123103000 -0500" stop="20261123120000 -0500" channel="atv-mas.pe">
+    <title lang="es">Así de simple</title>
+    <desc lang="es">Una pareja interpretada por seis actores representan el ruido mental de todas nuestras opiniones contrapuestas a la hora de amar a una persona, con todo lo bueno y todo lo malo de una relación.</desc>
+    <category lang="es">Teatro</category>
+  </programme>
+  <programme start="20261123120000 -0500" stop="20261123130000 -0500" channel="atv-mas.pe">
+    <title lang="es">ATV noticias - Edición mediodía</title>
+    <desc lang="es">Manténgase informado a mitad de la jornada. Acompáñenos en la Edición Mediodía de ATV Noticias para repasar el acontecer nacional e internacional. Un reporte completo, riguroso y con la objetividad que usted exige.</desc>
     <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20261123110000 -0500" stop="20261123113000 -0500" channel="atv-mas.pe">
-    <title lang="es">Geoherbal</title>
-    <desc lang="es">Espacio publicitario de Geoherbal.</desc>
-    <category lang="es">Publicidad</category>
-  </programme>
-  <programme start="20261123113000 -0500" stop="20261123120000 -0500" channel="atv-mas.pe">
-    <title lang="es">Geoherbal</title>
-    <desc lang="es">Espacio publicitario de Geoherbal.</desc>
-    <category lang="es">Publicidad</category>
-  </programme>
-  <programme start="20261123120000 -0500" stop="20261123123000 -0500" channel="atv-mas.pe">
-    <title lang="es">Geoherbal</title>
-    <desc lang="es">Espacio publicitario de Geoherbal.</desc>
-    <category lang="es">Publicidad</category>
-  </programme>
-  <programme start="20261123123000 -0500" stop="20261123130000 -0500" channel="atv-mas.pe">
-    <title lang="es">Geoherbal</title>
-    <desc lang="es">Espacio publicitario de Geoherbal.</desc>
-    <category lang="es">Publicidad</category>
   </programme>
   <programme start="20261123130000 -0500" stop="20261123140000 -0500" channel="atv-mas.pe">
-    <title lang="es">Documentales</title>
-    <desc lang="es">Presentación de contenidos documentales.</desc>
-    <category lang="es">Documental</category>
+    <title lang="es">En contacto</title>
+    <desc lang="es">Cobertura en profundidad de las últimas noticias y eventos relevantes.</desc>
+    <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261123140000 -0500" stop="20261123180000 -0500" channel="atv-mas.pe">
+  <programme start="20261123140000 -0500" stop="20261123150000 -0500" channel="atv-mas.pe">
+    <title lang="es">El deportivo digital</title>
+    <desc lang="es">Repasamos toda la actualidad del mundo del deporte. El programa se centra en la Liga 1 2026, el desempeño de los clubes peruanos en la Copa Libertadores y el seguimiento de la Selección Peruana.</desc>
+    <category lang="es">El deportivo digital</category>
+  </programme>
+  <programme start="20261123150000 -0500" stop="20261123160000 -0500" channel="atv-mas.pe">
+    <title lang="es">Fé de erratas</title>
+    <desc lang="es">El análisis de las noticias más relevantes con una mirada crítica y conversaciones abiertas.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261123160000 -0500" stop="20261123170000 -0500" channel="atv-mas.pe">
+    <title lang="es">Fé de erratas</title>
+    <desc lang="es">El análisis de las noticias más relevantes con una mirada crítica y conversaciones abiertas.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261123170000 -0500" stop="20261123180000 -0500" channel="atv-mas.pe">
+    <title lang="es">Matinal</title>
+    <desc lang="es" />
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261123180000 -0500" stop="20261123190000 -0500" channel="atv-mas.pe">
+    <title lang="es">Matinal</title>
+    <desc lang="es" />
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261123190000 -0500" stop="20261123200000 -0500" channel="atv-mas.pe">
+    <title lang="es">El deportivo digital</title>
+    <desc lang="es">Repasamos toda la actualidad del mundo del deporte. El programa se centra en la Liga 1 2026, el desempeño de los clubes peruanos en la Copa Libertadores y el seguimiento de la Selección Peruana.</desc>
+    <category lang="es">El deportivo digital</category>
+  </programme>
+  <programme start="20261123200000 -0500" stop="20261123213000 -0500" channel="atv-mas.pe">
+    <title lang="es">Así de simple</title>
+    <desc lang="es">Una pareja interpretada por seis actores representan el ruido mental de todas nuestras opiniones contrapuestas a la hora de amar a una persona, con todo lo bueno y todo lo malo de una relación.</desc>
+    <category lang="es">Teatro</category>
+  </programme>
+  <programme start="20261123213000 -0500" stop="20261123223000 -0500" channel="atv-mas.pe">
+    <title lang="es">ATV noticias - Edición mediodía</title>
+    <desc lang="es">Manténgase informado a mitad de la jornada. Acompáñenos en la Edición Mediodía de ATV Noticias para repasar el acontecer nacional e internacional. Un reporte completo, riguroso y con la objetividad que usted exige.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261123223000 -0500" stop="20261123233000 -0500" channel="atv-mas.pe">
+    <title lang="es">En contacto</title>
+    <desc lang="es">Cobertura en profundidad de las últimas noticias y eventos relevantes.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261123233000 -0500" stop="20261124000000 -0500" channel="atv-mas.pe">
     <title lang="es">Cámara loca</title>
     <desc lang="es">Divertido espacio con mucho entretenimiento que presenta a buen ritmo vídeos inéditos, realizados por los espectadores para compartir los momentos más divertidos de sus mascotas favoritas y las personas.</desc>
     <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261123180000 -0500" stop="20261123190000 -0500" channel="atv-mas.pe">
-    <title lang="es">Alto al crimen</title>
-    <desc lang="es">Ciclo que emite reportajes de operativos policiales contra la delincuencia, drogas y terrorismo con el fin de mantener informada a la población.</desc>
-    <category lang="es">Periodístico</category>
-  </programme>
-  <programme start="20261123190000 -0500" stop="20261123210000 -0500" channel="atv-mas.pe">
-    <title lang="es">Tierra adentro</title>
-    <desc lang="es">Espacio económico con entrevistas a los personajes que mueven la industria y la economía del país.</desc>
-    <category lang="es">Economía</category>
-  </programme>
-  <programme start="20261123210000 -0500" stop="20261123220000 -0500" channel="atv-mas.pe">
-    <title lang="es">Tierra adentro</title>
-    <desc lang="es">Espacio económico con entrevistas a los personajes que mueven la industria y la economía del país.</desc>
-    <category lang="es">Economía</category>
-  </programme>
-  <programme start="20261123220000 -0500" stop="20261123223000 -0500" channel="atv-mas.pe">
-    <title lang="es">Geoherbal</title>
-    <desc lang="es">Espacio publicitario de Geoherbal.</desc>
-    <category lang="es">Publicidad</category>
-  </programme>
-  <programme start="20261123223000 -0500" stop="20261123230000 -0500" channel="atv-mas.pe">
-    <title lang="es">Geoherbal</title>
-    <desc lang="es">Espacio publicitario de Geoherbal.</desc>
-    <category lang="es">Publicidad</category>
-  </programme>
-  <programme start="20261123230000 -0500" stop="20261123233000 -0500" channel="atv-mas.pe">
-    <title lang="es">Geoherbal</title>
-    <desc lang="es">Espacio publicitario de Geoherbal.</desc>
-    <category lang="es">Publicidad</category>
-  </programme>
-  <programme start="20261123233000 -0500" stop="20261124000000 -0500" channel="atv-mas.pe">
-    <title lang="es">Geoherbal</title>
-    <desc lang="es">Espacio publicitario de Geoherbal.</desc>
-    <category lang="es">Publicidad</category>
   </programme>
   <programme start="20261124000000 -0500" stop="20261124003000 -0500" channel="atv-mas.pe">
     <title lang="es">Geoherbal</title>
@@ -1731,30 +1766,20 @@
     <desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261123060000 -0500" stop="20261123080000 -0500" channel="atv-sur.pe">
-    <title lang="es">Desafío India</title>
-    <desc lang="es">24 participantes que ya han participado en ediciones anteriores compiten por un premio de COL $600.000.000 y enfrentan desafíos en diversas ciudades de la India, como Pondicherry, Chengalpattu, Thirukalukundram y Kanchipuram.</desc>
-    <category lang="es">Reality Show</category>
+  <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="atv-sur.pe">
+    <title lang="es">Nuevo día</title>
+    <desc lang="es">La mejor opción para disfrutar las mañanas con información, cultura y entretenimiento de alta calidad.</desc>
+    <category lang="es">Magazine</category>
   </programme>
-  <programme start="20261123080000 -0500" stop="20261123090000 -0500" channel="atv-sur.pe">
-    <title lang="es">Tropimix</title>
-    <desc lang="es">Un programa de contenido musical que comparte diversos géneros como la salsa, la pachanga, la cumbia, y muchos ritmos más de todas las épocas. El programa presenta entrevistas con exponentes de la música.</desc>
-    <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261123090000 -0500" stop="20261123120000 -0500" channel="atv-sur.pe">
-    <title lang="es">3, 2, 1, ¡Vamos!</title>
-    <desc lang="es">Algunos de los personajes más queridos del mundo de Plaza Sésamo, reunidos en esta serie. Cada episodio incluye segmentos de Juega Conmigo Sésamo y El Mundo de Archibaldo, entre otros.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme start="20261123120000 -0500" stop="20261123130000 -0500" channel="atv-sur.pe">
-    <title lang="es">Desafío Marruecos</title>
-    <desc lang="es">Veintiún concursantes viajarán hasta la tierra árabe para enfrentarse a las pruebas físicas más extremas y a la convivencia con una sociedad milenaria de reglas y costumbres fascinantes.</desc>
-    <category lang="es">Reality Show</category>
+  <programme start="20261123090000 -0500" stop="20261123130000 -0500" channel="atv-sur.pe">
+    <title lang="es">Nuevo día</title>
+    <desc lang="es">La mejor opción para disfrutar las mañanas con información, cultura y entretenimiento de alta calidad.</desc>
+    <category lang="es">Magazine</category>
   </programme>
   <programme start="20261123130000 -0500" stop="20261123140000 -0500" channel="atv-sur.pe">
-    <title lang="es">Desafío Marruecos</title>
-    <desc lang="es">Veintiún concursantes viajarán hasta la tierra árabe para enfrentarse a las pruebas físicas más extremas y a la convivencia con una sociedad milenaria de reglas y costumbres fascinantes.</desc>
-    <category lang="es">Reality Show</category>
+    <title lang="es">ATV noticias</title>
+    <desc lang="es">Las últimas noticias y actualidad del Perú y de todo el mundo, con informes de investigación y especiales.</desc>
+    <category lang="es">Periodístico</category>
   </programme>
   <programme start="20261123140000 -0500" stop="20261123143000 -0500" channel="atv-sur.pe">
     <title lang="es">Geoherbal</title>
@@ -1767,29 +1792,39 @@
     <category lang="es">Publicidad</category>
   </programme>
   <programme start="20261123170000 -0500" stop="20261123180000 -0500" channel="atv-sur.pe">
-    <title lang="es">Desafío India</title>
-    <desc lang="es">24 participantes que ya han participado en ediciones anteriores compiten por un premio de COL $600.000.000 y enfrentan desafíos en diversas ciudades de la India, como Pondicherry, Chengalpattu, Thirukalukundram y Kanchipuram.</desc>
+    <title lang="es">Desafío Súper Humanos</title>
+    <desc lang="es">Una competencia en la que los participantes deben superar desafíos extremos para seguir en juego. Un concurso que pondrá a prueba la fuerza, destreza y resistencia de los participantes mientras compiten entre sí por ganar.</desc>
     <category lang="es">Reality Show</category>
   </programme>
-  <programme start="20261123180000 -0500" stop="20261123210000 -0500" channel="atv-sur.pe">
-    <title lang="es">Desafío India</title>
-    <desc lang="es">24 participantes que ya han participado en ediciones anteriores compiten por un premio de COL $600.000.000 y enfrentan desafíos en diversas ciudades de la India, como Pondicherry, Chengalpattu, Thirukalukundram y Kanchipuram.</desc>
+  <programme start="20261123180000 -0500" stop="20261123190000 -0500" channel="atv-sur.pe">
+    <title lang="es">Soy Luna</title>
+    <desc lang="es">Luna, una simple joven que desea ser patinadora profesional, debe afrontar un cambio rotundo en su vida cuando se muda con su familia a otro país. Ahora, tendrá que adaptarse a su nuevo y lujoso entorno, que poco tiene que ver con ella.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20261123190000 -0500" stop="20261123200000 -0500" channel="atv-sur.pe">
+    <title lang="es">Desafío Marruecos</title>
+    <desc lang="es">Veintiún concursantes viajarán hasta la tierra árabe para enfrentarse a las pruebas físicas más extremas y a la convivencia con una sociedad milenaria de reglas y costumbres fascinantes.</desc>
     <category lang="es">Reality Show</category>
   </programme>
-  <programme start="20261123210000 -0500" stop="20261123220000 -0500" channel="atv-sur.pe">
-    <title lang="es">Pompeya</title>
-    <desc lang="es">Drama épico de amor prohibido en Pompeya hasta la erupción del Vesubio en el año 79. Sigue a nobles, esclavos, gladiadores y las reuniones secretas de los primeros cristianos.</desc>
+  <programme start="20261123200000 -0500" stop="20261123210000 -0500" channel="atv-sur.pe">
+    <title lang="es">Revenge</title>
+    <desc lang="es">Hay una nueva vecina en el exclusivo pueblo de los Hamptons: Emily Thorne. Ella vivió allí años atrás hasta que alguien arruinó la vida de su familia y la suya para siempre. Ahora, vuelve para vengarse.</desc>
     <category lang="es">Drama</category>
   </programme>
-  <programme start="20261123220000 -0500" stop="20261123230000 -0500" channel="atv-sur.pe">
+  <programme start="20261123210000 -0500" stop="20261123223000 -0500" channel="atv-sur.pe">
+    <title lang="es">TV noticias central</title>
+    <desc lang="es">Con la conducción y credibilidad de Drusila Zileri y Carla Muschi, el grupo cuenta con la mejor Unidad de Investigación de la Televisión Peruana, cuyos destapes y primicias son el termómetro de la coyuntura mediática.</desc>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20261123223000 -0500" stop="20261123233000 -0500" channel="atv-sur.pe">
     <title lang="es">Anatomía según Grey</title>
     <desc lang="es">Meredith Grey, hija de una cirujana general de renombre, integra un grupo de jóvenes doctores en el Hospital Seattle Grace. Allí, al igual que sus colegas, Meredith lucha por equilibrar su vida personal con su agitado trabajo.</desc>
     <category lang="es">Drama</category>
   </programme>
-  <programme start="20261123230000 -0500" stop="20261124000000 -0500" channel="atv-sur.pe">
-    <title lang="es">Sin límites</title>
-    <desc lang="es" />
-    <category lang="es">Serie</category>
+  <programme start="20261123233000 -0500" stop="20261124000000 -0500" channel="atv-sur.pe">
+    <title lang="es">Geoherbal</title>
+    <desc lang="es">Espacio publicitario de Geoherbal.</desc>
+    <category lang="es">Publicidad</category>
   </programme>
   <programme start="20261124000000 -0500" stop="20261124003000 -0500" channel="atv-sur.pe">
     <title lang="es">Geoherbal</title>
@@ -2076,87 +2111,82 @@
     <desc lang="es">Un programa de contenido musical que comparte diversos géneros como la salsa, la pachanga, la cumbia, y muchos ritmos más de todas las épocas. El programa presenta entrevistas con exponentes de la música.</desc>
     <category lang="es">Musical</category>
   </programme>
-  <programme start="20261123060000 -0500" stop="20261123090000 -0500" channel="willax.pe">
-    <title lang="es">Hechos en Willax</title>
-    <desc lang="es">Un resumen de los hechos más relevantes de la semana en un bloque de opinión e informativo. Junto al presentador Gonzalo Iwasaki, el público podrá informarse al completo sobre la realidad.</desc>
-    <category lang="es">Periodístico</category>
+  <programme start="20261123060000 -0500" stop="20261123070000 -0500" channel="willax.pe">
+    <title lang="es">Al día con Willax Nacional</title>
+    <desc lang="es">Al Dia con Willax es un noticiero matutino que lleva hasta sus hogares lo último de la información local, nacional.</desc>
+    <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261123090000 -0500" stop="20261123100000 -0500" channel="willax.pe">
-    <title lang="es">El doctor del pueblo</title>
-    <desc lang="es">Narra la historia de José Gregorio Hernández, mejor conocido como "El Doctor del Pueblo". Cada historia está basada en la vida real y los milagros del Dr. José Gregorio Hernández, un doctor que ayudaba a la gente de bajos recursos.</desc>
+  <programme start="20261123070000 -0500" stop="20261123090000 -0500" channel="willax.pe">
+    <title lang="es">Al día con Willax</title>
+    <desc lang="es">Un noticiero matutino que lleva hasta sus hogares lo último de la información local, nacional e internacional. El formato lleva también el comentario deportivo actualizado.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261123090000 -0500" stop="20261123133000 -0500" channel="willax.pe">
+    <title lang="es">Willax en vivo: El especial del Papa peruano</title>
+    <desc lang="es">Mira la cobertura especial de la visita apostólica del Papa León XIV a Perú en el marco de su gira por América Latina en este 2026.</desc>
+    <category lang="es">- Misa Palmas</category>
+  </programme>
+  <programme start="20261123133000 -0500" stop="20261123134000 -0500" channel="willax.pe">
+    <title lang="es">Mi vida eres tú</title>
+    <desc lang="es">Cevdet es un comandante que lucha por su país en la Guerra de los Balcanes. Tras la caída del Imperio Otomano, Cevdet es dado por muerto, razón por la que su esposa decide irse del país. Ocho años después, Cevdet aparece con vida.</desc>
     <category lang="es">Drama</category>
   </programme>
-  <programme start="20261123100000 -0500" stop="20261123103000 -0500" channel="willax.pe">
-    <title lang="es">Bio Nutrition</title>
-    <desc lang="es">Espacio de televenta de Bio Nutrition para que los compradores puedan informarse sobre el producto y tomar una decisión responsable sobre sus futuras adquisiciones.</desc>
-    <category lang="es">Publicidad</category>
-  </programme>
-  <programme start="20261123103000 -0500" stop="20261123110000 -0500" channel="willax.pe">
-    <title lang="es">UDM</title>
-    <desc lang="es">Descubre los mejores consejos en moda, familia, salud, belleza y tips para el hogar que te ayudarán a llevar un mejor estilo de vida de una forma entretenida y divertida, y además cada día te sorprenderá con un invitado especial.</desc>
-    <category lang="es">Entretenimientos</category>
-  </programme>
-  <programme start="20261123110000 -0500" stop="20261123113000 -0500" channel="willax.pe">
-    <title lang="es">Patazas</title>
-    <desc lang="es">Patazas es un espacio que celebra el vínculo único entre las personas y sus mascotas. A través de consejos útiles, conmovedoras historias de rescate y encuentros llenos de amor y compañía.</desc>
-    <category lang="es">Magazine</category>
-  </programme>
-  <programme start="20261123113000 -0500" stop="20261123120000 -0500" channel="willax.pe">
-    <title lang="es">Espectáculos</title>
-    <desc lang="es" />
-    <category lang="es">Entretenimientos</category>
-  </programme>
-  <programme start="20261123120000 -0500" stop="20261123130000 -0500" channel="willax.pe">
-    <title lang="es">Virgen Morena</title>
-    <desc lang="es">Aferrados a la fe, los personajes consiguen que Nuestra Señora de Guadalupe, conocida como La Virgen Morena, les conceda el milagro. Una producción basada en hechos reales en la que la fe se pone a prueba en los momentos más difíciles.</desc>
-    <category lang="es">Drama</category>
-  </programme>
-  <programme start="20261123130000 -0500" stop="20261123140000 -0500" channel="willax.pe">
-    <title lang="es">UDM</title>
-    <desc lang="es">Descubre los mejores consejos en moda, familia, salud, belleza y tips para el hogar que te ayudarán a llevar un mejor estilo de vida de una forma entretenida y divertida, y además cada día te sorprenderá con un invitado especial.</desc>
-    <category lang="es">Entretenimientos</category>
-  </programme>
-  <programme start="20261123140000 -0500" stop="20261123160000 -0500" channel="willax.pe">
+  <programme start="20261123134000 -0500" stop="20261123143000 -0500" channel="willax.pe">
     <title lang="es">Esposa joven</title>
     <desc lang="es">Zehra, una niña de trece años, ve cómo sus sueños se desvanecen cuando es obligada a casarse con el hijo de un poderoso líder de un clan. Por este motivo, Zehra deberá abandonar la escuela y postergar sus grandes anhelos.</desc>
     <category lang="es">Romántica</category>
   </programme>
-  <programme start="20261123160000 -0500" stop="20261123170000 -0500" channel="willax.pe">
-    <title lang="es">Caso cerrado</title>
-    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.</desc>
-    <category lang="es">Talk Show</category>
+  <programme start="20261123143000 -0500" stop="20261123165500 -0500" channel="willax.pe">
+    <title lang="es">Amor y fuego</title>
+    <desc lang="es">Rodrigo González y Gigi Mitre comentan las últimas noticias de espectáculos y entretenimiento, con toda la diversión y picardía que los caracteriza.</desc>
+    <category lang="es">Entretenimientos</category>
   </programme>
-  <programme start="20261123170000 -0500" stop="20261123203000 -0500" channel="willax.pe">
-    <title lang="es">Ben Hur</title>
-    <desc lang="es" />
-    <category lang="es">Película / 6.4</category>
-  </programme>
-  <programme start="20261123203000 -0500" stop="20261123213000 -0500" channel="willax.pe">
-    <title lang="es">Especial Leon XIV, El Papa Peruano</title>
-    <desc lang="es">Acompaña la visita apostólica del Papa León XIV a Perú en el marco de su gira por América Latina en el 2026.</desc>
-    <category lang="es">Especial</category>
-  </programme>
-  <programme start="20261123213000 -0500" stop="20261123223000 -0500" channel="willax.pe">
-    <title lang="es">Willax Deporte</title>
-    <desc lang="es">Programa de análisis deportivo, comentarios y entrevistas.</desc>
-    <category lang="es">Willax Deporte</category>
-  </programme>
-  <programme start="20261123223000 -0500" stop="20261123230000 -0500" channel="willax.pe">
-    <title lang="es">Noche de luna</title>
-    <desc lang="es">Programa en el que podrás descubrir más sobre los personajes, historias y tradiciones de nuestro país.</desc>
-    <category lang="es">Entrevista</category>
-  </programme>
-  <programme start="20261123230000 -0500" stop="20261123233000 -0500" channel="willax.pe">
-    <title lang="es">Noche de luna</title>
-    <desc lang="es">Programa en el que podrás descubrir más sobre los personajes, historias y tradiciones de nuestro país.</desc>
-    <category lang="es">Entrevista</category>
-  </programme>
-  <programme start="20261123233000 -0500" stop="20261124000000 -0500" channel="willax.pe">
+  <programme start="20261123165500 -0500" stop="20261123180000 -0500" channel="willax.pe">
     <title lang="es">UDM</title>
     <desc lang="es">Descubre los mejores consejos en moda, familia, salud, belleza y tips para el hogar que te ayudarán a llevar un mejor estilo de vida de una forma entretenida y divertida, y además cada día te sorprenderá con un invitado especial.</desc>
     <category lang="es">Entretenimientos</category>
   </programme>
-  <programme start="20261124000000 -0500" stop="20261124003000 -0500" channel="willax.pe">
+  <programme start="20261123180000 -0500" stop="20261123190000 -0500" channel="willax.pe">
+    <title lang="es">Caso cerrado</title>
+    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.</desc>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20261123190000 -0500" stop="20261123195500 -0500" channel="willax.pe">
+    <title lang="es">Willax noticias - Edición central</title>
+    <desc lang="es">Edición central con el desarrollo y cobertura noticiosa de todos los acontecimientos nacionales e internacionales.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261123195500 -0500" stop="20261123205500 -0500" channel="willax.pe">
+    <title lang="es">Contracorriente</title>
+    <desc lang="es">Contracorriente es un programa de investigación periodística sobre temas políticos, económicos y sociales de actualidad. A través del espacio, un equipo de reporteros ofrece primicias de la coyuntura peruana.</desc>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20261123205500 -0500" stop="20261123220000 -0500" channel="willax.pe">
+    <title lang="es">Beto a saber</title>
+    <desc lang="es">Un espacio periodístico que incluye reportajes diarios centrados en la política peruana, donde el humor tiene un importante lugar.</desc>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20261123220000 -0500" stop="20261123230000 -0500" channel="willax.pe">
+    <title lang="es">Ahora y en la hora</title>
+    <desc lang="es">Christian Hudtwalcker aborda os temas que otros evitan y que son de interés nacional, especialmente de cara a las futuras elecciones 2026. El público podrá informarse al completo sobre la realidad nacional e internacional.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261123230000 -0500" stop="20261124000000 -0500" channel="willax.pe">
+    <title lang="es">La reina del sur</title>
+    <desc lang="es">Para salvar su vida, Teresa huye de México y se refugia en España, país en donde se sumergirá en el mundo del narco y se convertirá en la Reina de la mafia.</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20261124000000 -0500" stop="20261124000500 -0500" channel="willax.pe">
+    <title lang="es">Bio Nutrition</title>
+    <desc lang="es">Espacio de televenta de Bio Nutrition para que los compradores puedan informarse sobre el producto y tomar una decisión responsable sobre sus futuras adquisiciones.</desc>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20261124000500 -0500" stop="20261124001000 -0500" channel="willax.pe">
+    <title lang="es">Camotillo, el tinterillo</title>
+    <desc lang="es">Microprograma de humor político, sátira y de actualidad al estilo Camotillo, el tinterillo.</desc>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20261124001000 -0500" stop="20261124003000 -0500" channel="willax.pe">
     <title lang="es">Bio Nutrition</title>
     <desc lang="es">Espacio de televenta de Bio Nutrition para que los compradores puedan informarse sobre el producto y tomar una decisión responsable sobre sus futuras adquisiciones.</desc>
     <category lang="es">Publicidad</category>
@@ -2181,12 +2211,22 @@
     <desc lang="es">Un noticiero matutino que lleva hasta sus hogares lo último de la información local, nacional e internacional. El formato lleva también el comentario deportivo actualizado.</desc>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261124090000 -0500" stop="20261124133000 -0500" channel="willax.pe">
-    <title lang="es">Willax en vivo: El especial del Papa peruano</title>
-    <desc lang="es">Mira la cobertura especial de la visita apostólica del Papa León XIV a Perú en el marco de su gira por América Latina en este 2026.</desc>
-    <category lang="es">- Misa Palmas</category>
+  <programme start="20261124090000 -0500" stop="20261124093000 -0500" channel="willax.pe">
+    <title lang="es">Espectáculos</title>
+    <desc lang="es" />
+    <category lang="es">Entretenimientos</category>
   </programme>
-  <programme start="20261124133000 -0500" stop="20261124134000 -0500" channel="willax.pe">
+  <programme start="20261124093000 -0500" stop="20261124112500 -0500" channel="willax.pe">
+    <title lang="es">Qué mañana</title>
+    <desc lang="es">Un magazine que combina charlas sobre actualidad, espectáculos y tendencias. Junto a Gian Piero Díaz, Andrea Arana, Marycarmen Sjoo y Víctor Hugo Dávila, el público disfruta de juegos, personajes, expertos, historias, opiniones y más.</desc>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20261124112500 -0500" stop="20261124125000 -0500" channel="willax.pe">
+    <title lang="es">Willax noticias - Edición mediodía</title>
+    <desc lang="es">Noticiero del mediodía con el avance de los hechos más resaltante de la jornada periodística.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261124125000 -0500" stop="20261124134000 -0500" channel="willax.pe">
     <title lang="es">Mi vida eres tú</title>
     <desc lang="es">Cevdet es un comandante que lucha por su país en la Guerra de los Balcanes. Tras la caída del Imperio Otomano, Cevdet es dado por muerto, razón por la que su esposa decide irse del país. Ocho años después, Cevdet aparece con vida.</desc>
     <category lang="es">Drama</category>
@@ -2361,107 +2401,92 @@
     <desc lang="es">Descubre los mejores consejos en moda, familia, salud, belleza y tips para el hogar que te ayudarán a llevar un mejor estilo de vida de una forma entretenida y divertida, y además cada día te sorprenderá con un invitado especial.</desc>
     <category lang="es">Entretenimientos</category>
   </programme>
-  <programme start="20261123053000 -0500" stop="20261123080000 -0500" channel="panamericana.pe">
-    <title lang="es">Encantos del Perú</title>
-    <desc lang="es">Repleto de expresiones culturales, como la música y la danza, Perú es un país lleno de encanto y motivación. Lesly Cabello recorre estas tierras, mientras muestra los mejores shows musicales, documentales y mucho más.</desc>
-    <category lang="es">Turismo</category>
-  </programme>
-  <programme start="20261123080000 -0500" stop="20261123095500 -0500" channel="panamericana.pe">
-    <title lang="es">El dominical de Panamericana</title>
-    <desc lang="es">Las historias más conmovedoras y los reportajes que dieron que hablar en el magazine periodístico más completo del momento. Disfruta de una mañana distinta con nuestro equipo de expertos comunicacionales.</desc>
-    <category lang="es">Magazine</category>
-  </programme>
-  <programme start="20261123095500 -0500" stop="20261123101500 -0500" channel="panamericana.pe">
-    <title lang="es">Doctores al mando</title>
-    <desc lang="es">Los doctores Irvin Gonzalez, Yherson Mendoza y Hugo Salas se unen para brindarte la mejor información médica para tu bienestar.</desc>
-    <category lang="es">Salud</category>
-  </programme>
-  <programme start="20261123101500 -0500" stop="20261123103000 -0500" channel="panamericana.pe">
-    <title lang="es">Doctor Sol: el podcast</title>
-    <desc lang="es">Un espacio de entrevistas que mezcla el entretenimiento de la farándula peruana con la educación financiera, explorando las experiencias personales de figuras públicas con el dinero, el trabajo y las decisiones en pareja.</desc>
-    <category lang="es">Entrevista</category>
-  </programme>
-  <programme start="20261123103000 -0500" stop="20261123110000 -0500" channel="panamericana.pe">
-    <title lang="es">Clínica Ñahui</title>
-    <desc lang="es">Un espacio dedicado a la salud visual, donde el doctor Cirineo cuenta su experiencia como cirujano oftalmólogo, recorriendo Perú y viendo diversos casos de catarata, glaucoma y demás problemas de la visión.</desc>
-    <category lang="es">Salud</category>
-  </programme>
-  <programme start="20261123110000 -0500" stop="20261123111500 -0500" channel="panamericana.pe">
-    <title lang="es">Rejuvenece con la Dra. Ruth Guerra</title>
-    <desc lang="es">Un programa con técnicas para cuidar y rejuvenecer la piel así como tendencias en moda y belleza. De la mano de la Dra. Ruth Guerra, el público recibe consejos para mejorar sus cuidados y descubre todo tipo de innovaciones y tratamientos.</desc>
-    <category lang="es">Salud</category>
-  </programme>
-  <programme start="20261123111500 -0500" stop="20261123113000 -0500" channel="panamericana.pe">
-    <title lang="es">Patrimonio mundial</title>
-    <desc lang="es">Un micro programa que nos lleva a los lugares históricos más importantes de nuestro planeta y el por qué son considerados oatrimonios de la Humanidad</desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20261123113000 -0500" stop="20261123120000 -0500" channel="panamericana.pe">
-    <title lang="es">Dpaso, el legendario caballo peruano</title>
-    <desc lang="es">Un programa de corte cultural y educativo que va dirigido a apasionados del Caballo Peruano de Paso, a todo nacional y extranjero deseoso de conocer aspectos y características de la raza caballar.</desc>
-    <category lang="es">Cultural</category>
-  </programme>
-  <programme start="20261123120000 -0500" stop="20261123130000 -0500" channel="panamericana.pe">
-    <title lang="es">Casa facil</title>
-    <desc lang="es">Un espacio para orientar a las familias peruanas en la renovación de sus hogares con demostraciones prácticas, recomendaciones sobre materiales y nuevas ideas para transformar sus vivienda.</desc>
-    <category lang="es">Interés general</category>
-  </programme>
-  <programme start="20261123130000 -0500" stop="20261123133000 -0500" channel="panamericana.pe">
-    <title lang="es">Expedición al mundo animal</title>
-    <desc lang="es">Muestra el increíble comportamiento de los animales salvajes en sus diversos hábitats naturales, así como también el papel que estos desempeñan en el mantenimiento del equilibrio ecológico, además de brindar inspiración al ser humano.</desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20261123133000 -0500" stop="20261123143000 -0500" channel="panamericana.pe">
-    <title lang="es">Lo mejor de Risas y salsa</title>
-    <desc lang="es">Edición humorística en la cual podrás ver sketches como el novio, el jefe, la santa paciencia, correo sentimental, Betito, el pícaro, cosas de callejón, entrevista insólita, los trámites y mucho más, con el mejor son de la salsa.</desc>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261123143000 -0500" stop="20261123160000 -0500" channel="panamericana.pe">
-    <title lang="es">Trampolín para todo el mundo</title>
-    <desc lang="es">Homenaje especial al programa Trampolín a la fama, un espacio de entretenimiento donde las personas tenían la oportunidad de mostrar su talento, además de entrevistas, concursos, comentarios y trabajos especiales.</desc>
-    <category lang="es">Entretenimientos</category>
-  </programme>
-  <programme start="20261123160000 -0500" stop="20261123180000 -0500" channel="panamericana.pe">
-    <title lang="es">24 horas - Edición domingo</title>
-    <desc lang="es">Toda la actualidad social, política y económica a nivel nacional e internacional para estar bien informados.</desc>
+  <programme start="20261123060000 -0500" stop="20261123073000 -0500" channel="panamericana.pe">
+    <title lang="es">Buenos días, Perú - Primera edición</title>
+    <desc lang="es">La mejor información para empezar el día, los sucesos más impactantes de la jornada diaria, acompañados de entrevistas, enlaces en vivo y los mejores informes especiales en este espacio.</desc>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261123180000 -0500" stop="20261123190000 -0500" channel="panamericana.pe">
-    <title lang="es">Alerta aeropuerto</title>
-    <desc lang="es">Los oficiales responsables de hacer cumplir la ley resguardan la seguridad deteniendo a los delincuentes que intentan traficar mercancías ilegales, también ayudar a pasajeros en problemas en el interior del aeropuerto.</desc>
-    <category lang="es">Documental</category>
+  <programme start="20261123073000 -0500" stop="20261123093000 -0500" channel="panamericana.pe">
+    <title lang="es">Buenos días, Perú - Segunda edición</title>
+    <desc lang="es">La mejor información para empezar el día, los sucesos más impactantes de la jornada diaria, acompañados de entrevistas, enlaces en vivo y los mejores informes especiales en este espacio.</desc>
+    <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261123190000 -0500" stop="20261123195000 -0500" channel="panamericana.pe">
-    <title lang="es">JB Noticias</title>
-    <desc lang="es">Un espacio lleno de humor y risas.</desc>
-    <category lang="es">Interés general</category>
+  <programme start="20261123093000 -0500" stop="20261123100000 -0500" channel="panamericana.pe">
+    <title lang="es">Quality Products</title>
+    <desc lang="es">Con más de 20 años brindándote soluciones prácticas e innovadoras en salud, belleza, fitness, cocina y hogar, te traemos una selección de nuestros mejores productos para que puedas adquirirlos de la forma más segura y cómoda posible.</desc>
+    <category lang="es">Publicidad</category>
   </programme>
-  <programme start="20261123195000 -0500" stop="20261123220000 -0500" channel="panamericana.pe">
-    <title lang="es">Panorama</title>
-    <desc lang="es">Espacio pionero de la investigación periodística en Perú, con las primicias que dan que hablar y la información más completa, recabada y narrada por un equipo de profesionales serios y comprometidos con la colectividad.</desc>
+  <programme start="20261123100000 -0500" stop="20261123101500 -0500" channel="panamericana.pe">
+    <title lang="es">Fitosana - Vida sana</title>
+    <desc lang="es">Fitosana Vida Sana busca rescatar el conocimiento ancestral peruano sobre plantas medicinales y llevar naturaleza pura a millones de hogares a través de sus productos.</desc>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20261123101500 -0500" stop="20261123104500 -0500" channel="panamericana.pe">
+    <title lang="es">Telebrands</title>
+    <desc lang="es">Espacio publicitario de Telebrands.</desc>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20261123104500 -0500" stop="20261123120000 -0500" channel="panamericana.pe">
+    <title lang="es">Detrás de cámaras</title>
+    <desc lang="es">El programa ofrece una mirada al "backstage" de la televisión peruana, con entrevistas y contenido en vivo sobre la farándula.</desc>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20261123120000 -0500" stop="20261123130000 -0500" channel="panamericana.pe">
+    <title lang="es">24 horas - Edición mediodía</title>
+    <desc lang="es">Las últimas novedades con un estilo fresco y dinámico, sucesos, espectáculos, tecnología y todo lo que usted quiere ver para comenzar la tarde, con un toque informativo, serio e imparcial.</desc>
     <category lang="es">Periodístico</category>
   </programme>
+  <programme start="20261123130000 -0500" stop="20261123150000 -0500" channel="panamericana.pe">
+    <title lang="es">24 horas - Edición mediodía</title>
+    <desc lang="es">Las últimas novedades con un estilo fresco y dinámico, sucesos, espectáculos, tecnología y todo lo que usted quiere ver para comenzar la tarde, con un toque informativo, serio e imparcial.</desc>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20261123150000 -0500" stop="20261123163000 -0500" channel="panamericana.pe">
+    <title lang="es">La calle no calla</title>
+    <desc lang="es">Una producción que busca visibilizar el amplio abanico estético y temático que se desarrolla en el espacio público. Abarcamos diversas expresiones de las artes visuales como el muralismo, fotografía, teatro, grafiti, danza y música.</desc>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20261123163000 -0500" stop="20261123180000 -0500" channel="panamericana.pe">
+    <title lang="es">La hija del Mariachi</title>
+    <desc lang="es">La noche que Rosario ve a Emiliano en las puertas del bar, con huellas de haber sido atracado, decide ayudarlo sin saber que es un acaudalado joven que ha llegado a Bogotá huyendo de la justicia por un delito que no cometió.</desc>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20261123180000 -0500" stop="20261123193000 -0500" channel="panamericana.pe">
+    <title lang="es">La familia Ingalls</title>
+    <desc lang="es">Sigue a los Ingalls, una familia humilde que vive en el pueblo de Walnut Grove, Minnesota, a finales del siglo XIX. Exploran territorios inexplorados, enfrentándose a indígenas, animales salvajes y otros peligros.</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20261123193000 -0500" stop="20261123203000 -0500" channel="panamericana.pe">
+    <title lang="es">Novelas bíblicas</title>
+    <desc lang="es">Las Novelas Bíblicas son superproducciones de corte épico e histórico que adaptan las historias más famosas de la humanidad.</desc>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20261123203000 -0500" stop="20261123220000 -0500" channel="panamericana.pe">
+    <title lang="es">24 horas - Edición central</title>
+    <desc lang="es">Noticias, espectáculos, tecnología y todo lo que usted quiere ver para comenzar la tarde. Con la seriedad y objetividad de la fuerza informativa de Panamericana.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
   <programme start="20261123220000 -0500" stop="20261123230000 -0500" channel="panamericana.pe">
-    <title lang="es">Sin rodeos</title>
-    <desc lang="es">Milagros Leiva conduce un espacio centrado en entrevistas directas y preguntas incómodas. El objetivo del programa es proponer conversaciones frontales y el abordaje de temas de actualidad.</desc>
+    <title lang="es">Esta noche</title>
+    <desc lang="es">Un programa de entrevistas conducido por la carismática Chola Chabuca.</desc>
     <category lang="es">Entrevista</category>
   </programme>
-  <programme start="20261123230000 -0500" stop="20261123235500 -0500" channel="panamericana.pe">
-    <title lang="es">Teledeportes</title>
-    <desc lang="es">Todas las disciplinas, todos los campeonatos, en este espacio que cada domingo le trae la más completa información del acontecer deportivo. Los comentarios más acertados y la seriedad que usted ya conoce.</desc>
-    <category lang="es">Teledeportes</category>
+  <programme start="20261123230000 -0500" stop="20261123234500 -0500" channel="panamericana.pe">
+    <title lang="es">Vale todo</title>
+    <desc lang="es">Una serie que sigue el conflicto entre Raquel, una madre de valores firmes, y su hija María de Fátima, fría y ambiciosa. La jóven está dispuesta a traicionar a su familia y vender su hogar para conseguir fama y lujos en Río de Janeiro.</desc>
+    <category lang="es">Telenovela</category>
   </programme>
-  <programme start="20261123235500 -0500" stop="20261124000000 -0500" channel="panamericana.pe">
-    <title lang="es">Cazador de talentos</title>
-    <desc lang="es">Un ciclo que combina entretenimiento, diversión y la promoción de nuevos talentos. El reality contará con tres jurados y el premio incluirá la grabación de un EP y un contrato para trabajar en la cadena de restaurantes y hoteles Rústica.</desc>
-    <category lang="es">Reality Show</category>
+  <programme start="20261123234500 -0500" stop="20261124000000 -0500" channel="panamericana.pe">
+    <title lang="es">MacGyver</title>
+    <desc lang="es">MacGyver es un ex agente de las Fuerzas Especiales que ahora lucha contra los criminales y villanos de todo el mundo, apelando a su conocimiento e improvisando con elementos de la vida cotidiana.</desc>
+    <category lang="es">Acción</category>
   </programme>
-  <programme start="20261124000000 -0500" stop="20261124010000 -0500" channel="panamericana.pe">
-    <title lang="es">Cazador de talentos</title>
-    <desc lang="es">Un ciclo que combina entretenimiento, diversión y la promoción de nuevos talentos. El reality contará con tres jurados y el premio incluirá la grabación de un EP y un contrato para trabajar en la cadena de restaurantes y hoteles Rústica.</desc>
-    <category lang="es">Reality Show</category>
+  <programme start="20261124000000 -0500" stop="20261124003000 -0500" channel="panamericana.pe">
+    <title lang="es">MacGyver</title>
+    <desc lang="es">MacGyver es un ex agente de las Fuerzas Especiales que ahora lucha contra los criminales y villanos de todo el mundo, apelando a su conocimiento e improvisando con elementos de la vida cotidiana.</desc>
+    <category lang="es">Acción</category>
   </programme>
-  <programme start="20261124010000 -0500" stop="20261124050000 -0500" channel="panamericana.pe">
+  <programme start="20261124003000 -0500" stop="20261124050000 -0500" channel="panamericana.pe">
     <title lang="es">Geoherbal</title>
     <desc lang="es">Espacio publicitario de Geoherbal.</desc>
     <category lang="es">Publicidad</category>
@@ -3316,102 +3341,97 @@
     <desc lang="es">Cierre informativo con las noticias más destacadas del día.</desc>
     <category lang="es">Noticias</category>
   </programme>
-  <programme start="20261123060000 -0500" stop="20261123070000 -0500" channel="tv-peru.pe">
-    <title lang="es">La Santa Misa</title>
-    <desc lang="es">La misa es el acto más elevado de toda la Iglesia católica y otras denominaciones cristianas, Una hora de reflexión.</desc>
-    <category lang="es">- Con el Padre Manuel Rodriguez</category>
-  </programme>
-  <programme start="20261123070000 -0500" stop="20261123090000 -0500" channel="tv-peru.pe">
+  <programme start="20261123060000 -0500" stop="20261123083000 -0500" channel="tv-peru.pe">
     <title lang="es">Primera hora</title>
     <desc lang="es">El análisis de las noticias más importantes de la jornada.</desc>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261123090000 -0500" stop="20261123093000 -0500" channel="tv-peru.pe">
-    <title lang="es">Mercado peruano</title>
-    <desc lang="es">Productores y emprendedores de Perú cuentan cómo sus productos se cultivan, elaboran y comercializan. Cada historia explora los desafíos de la producción nacional y su llegada a los mercados.</desc>
-    <category lang="es">- Investigación y desarrollo de Amazonas</category>
+  <programme start="20261123083000 -0500" stop="20261123090000 -0500" channel="tv-peru.pe">
+    <title lang="es">Deporte Express</title>
+    <desc lang="es">Las noticias más importantes de la jornada y lo más reciente que publican los astros del deporte en sus redes sociales. A través del espacio, el público podrá acceder a todo lo que necesita saber sobre el deporte y sus protagonistas.</desc>
+    <category lang="es">Deporte Express</category>
   </programme>
-  <programme start="20261123093000 -0500" stop="20261123100000 -0500" channel="tv-peru.pe">
-    <title lang="es">La hora TAL</title>
-    <desc lang="es">Un encuentro de diversidad y riqueza promovido por las televisoras culturales de América Latina.</desc>
-    <category lang="es">- Protectores de vida</category>
+  <programme start="20261123090000 -0500" stop="20261123100000 -0500" channel="tv-peru.pe">
+    <title lang="es">Chicos IPe</title>
+    <desc lang="es">Te invitamos a descubrir un mundo lleno de aventuras, imaginación, historias y muchísima diversión. Explora, visita lugares nuevos, canta, baila, juega y disfruta de ser parte de nosotros.</desc>
+    <category lang="es">Entretenimientos</category>
   </programme>
-  <programme start="20261123100000 -0500" stop="20261123110000 -0500" channel="tv-peru.pe">
-    <title lang="es">A cuatro tiempos</title>
-    <desc lang="es">Un programa en donde aprenderemos más sobre nuestro Caballo Peruano de Paso y sus tradiciones.</desc>
-    <category lang="es">- Amazonitas de Jequetepeque - Trujillo</category>
-  </programme>
-  <programme start="20261123110000 -0500" stop="20261123120000 -0500" channel="tv-peru.pe">
-    <title lang="es">Misa dominical</title>
-    <desc lang="es">Un espacio para reencontrarse con la calidez de Dios y sus Sagradas Enseñanzas. El público podrá disfrutar de una misa dominical como espacio de adoración y reflexión espiritual a través de la interpretación de la Palabra de Cristo.</desc>
-    <category lang="es">Religioso</category>
+  <programme start="20261123100000 -0500" stop="20261123120000 -0500" channel="tv-peru.pe">
+    <title lang="es">Más conectados</title>
+    <desc lang="es">Música, cocina, salud, empoderamiento femenino y mucho más en un programa de entretenimientos. .</desc>
+    <category lang="es">Interés general</category>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123130000 -0500" channel="tv-peru.pe">
-    <title lang="es">Mediodía criollo</title>
-    <desc lang="es">Disfruta de un espacio con identidad, cultura y emoción que busca revaloriza el criollismo junto a los íconos del folclor costeño. Junto a Lucy Avilés y Carlos Ardiles, el público podrá disfrutar del talento de diversos cantantes y músicos.</desc>
-    <category lang="es">Cultural</category>
+    <title lang="es">Regiones ahora</title>
+    <desc lang="es">Un programa que acercalo más reciente e importante de todo el país para que el público se informe. El presentador Rony Mellán aborda todo tipo de tópicos acerca del acontecer nacional e internacional.</desc>
+    <category lang="es">Periodístico</category>
   </programme>
-  <programme start="20261123130000 -0500" stop="20261123150000 -0500" channel="tv-peru.pe">
-    <title lang="es">Miski Takiy</title>
-    <desc lang="es">Un espacio dedicado a la difusión y revaloración de las expresiones musicales autóctonas del Perú. Cientos de artistas nacionales han desfilado por el show difundiendo la música tradicional de nuestros pueblos.</desc>
-    <category lang="es">- Lalo Arroyo, Jonatan Soto, Krismers Baca</category>
+  <programme start="20261123130000 -0500" stop="20261123140000 -0500" channel="tv-peru.pe">
+    <title lang="es">Noticias ahora</title>
+    <desc lang="es">Fiorella León y Alex Vigo presentan las noticias más destacadas de la agenda nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo.</desc>
+    <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261123150000 -0500" stop="20261123170000 -0500" channel="tv-peru.pe">
-    <title lang="es">Domingos de fiesta</title>
-    <desc lang="es">La verdadera fiesta comienza los fines de semana. Disfruta junto a María Grazia Polanco y Santiago Suárez de los mejores grupos de cumbia, salsa y otros géneros peruanos en vivo y nadie podrá parar de bailar durante toda la transmisión.</desc>
-    <category lang="es">Musical</category>
+  <programme start="20261123140000 -0500" stop="20261123150000 -0500" channel="tv-peru.pe">
+    <title lang="es">Jiwasanaka / Ñuqanchik</title>
+    <desc lang="es">Noticieros en lenguas originarias.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261123150000 -0500" stop="20261123160000 -0500" channel="tv-peru.pe">
+    <title lang="es">Prevención y acción - Fenómeno El Niño</title>
+    <desc lang="es">Programa informativo para brindar orientación clara sobre cómo afrontar el fenómeno climático.</desc>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20261123160000 -0500" stop="20261123170000 -0500" channel="tv-peru.pe">
+    <title lang="es">Aliados por la seguridad</title>
+    <desc lang="es">Segmento periodístico donde no solo conocerá el fino trabajo policial desde el inicio de la investigación, sino donde usted será pieza clave para combatir la delincuencia con reportajes, informes e imágenes exclusivas.</desc>
+    <category lang="es">Periodístico</category>
   </programme>
   <programme start="20261123170000 -0500" stop="20261123180000 -0500" channel="tv-peru.pe">
-    <title lang="es">Reportaje al Perú</title>
-    <desc lang="es">Segmento que cumple con las aspiraciones de todos los peruanos que quieren ver reflejada en la pantalla la inmensidad del país, a través de sus imponentes paisajes, su historia y sus costumbres. Promueve el turismo e integra al Estado.</desc>
-    <category lang="es">- Cusco, montañas con aroma de café</category>
+    <title lang="es">Sucedió en el Perú</title>
+    <desc lang="es">Segmento de historia, único en su género, dedicado a reseñar los acontecimientos más importantes en el desarrollo socioeconómico y cultural del Perú, siendo un puente entre los conocimientos de especialistas y el público en general.</desc>
+    <category lang="es">- Angélica Palma</category>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123190000 -0500" channel="tv-peru.pe">
-    <title lang="es">Con sabor a Perú</title>
-    <desc lang="es">El chef Israel Laura nos invita a diferentes lugares del Perú para descubrir historias, personajes, recetas y a experimentar con nuevos sabores y alimentos.</desc>
-    <category lang="es">- Encurtidos y conservas sabores que perduran</category>
+    <title lang="es">León XIV en casa</title>
+    <desc lang="es" />
+    <category lang="es">Especial</category>
   </programme>
   <programme start="20261123190000 -0500" stop="20261123200000 -0500" channel="tv-peru.pe">
+    <title lang="es">GeoMundo</title>
+    <desc lang="es">Un programa que funciona de ventana para echar un vistazo al mundo y sus conflictos internacionales con un análisis profundo, por medio de conversaciones, informes y diversas entrevistas con expertos y protagonistas de los hechos.</desc>
+    <category lang="es">Político</category>
+  </programme>
+  <programme start="20261123200000 -0500" stop="20261123210000 -0500" channel="tv-peru.pe">
     <title lang="es">Hora central</title>
     <desc lang="es">El análisis de las noticias más importantes de la jornada.</desc>
     <category lang="es">Periodístico</category>
   </programme>
-  <programme start="20261123200000 -0500" stop="20261123220000 -0500" channel="tv-peru.pe">
-    <title lang="es">Todo fútbol</title>
-    <desc lang="es">Las noticias deportivas presentadas por el mejor equipo de periodistas deportivos, desde un enfoque distinto.</desc>
-    <category lang="es">Todo fútbol</category>
+  <programme start="20261123210000 -0500" stop="20261123220000 -0500" channel="tv-peru.pe">
+    <title lang="es">En pared</title>
+    <desc lang="es">Lucho Trisano y Joanna Boloña presentan las noticias más importantes de las distintas disciplinas deportivas.</desc>
+    <category lang="es">En pared</category>
   </programme>
   <programme start="20261123220000 -0500" stop="20261123230000 -0500" channel="tv-peru.pe">
-    <title lang="es">Honores policiales</title>
-    <desc lang="es">Sigue la vida y el trabajo de los oficiales de la comisaría de Balihe. Con la ayuda de los ancianos de la comisaría, aprenderán a gestionar su vida y su trabajo y, con el tiempo, se convertirán en policías destacados.</desc>
-    <category lang="es">Drama</category>
+    <title lang="es">El Congreso informa</title>
+    <desc lang="es">Desarrollo de los temas más importantes del hemiciclo. Entrevistas a los involucrados en la noticia e incluso análisis de los hechos que suceden en el Congreso y quienes participan de él.</desc>
+    <category lang="es">Político</category>
   </programme>
   <programme start="20261123230000 -0500" stop="20261124000000 -0500" channel="tv-peru.pe">
-    <title lang="es">Presencia cultural</title>
-    <desc lang="es">Segmento que brinda la oportunidad de conocer el patrimonio histórico, así como también los valores artísticos y culturales del Perú. Asimismo, trata de reflejar la actividad típica de sus ciudades, buscando resaltar su importancia.</desc>
-    <category lang="es">Cultural</category>
+    <title lang="es">Aliados por la seguridad</title>
+    <desc lang="es">Segmento periodístico donde no solo conocerá el fino trabajo policial desde el inicio de la investigación, sino donde usted será pieza clave para combatir la delincuencia con reportajes, informes e imágenes exclusivas.</desc>
+    <category lang="es">Periodístico</category>
   </programme>
-  <programme start="20261124000000 -0500" stop="20261124010000 -0500" channel="tv-peru.pe">
-    <title lang="es">Reportaje al Perú</title>
-    <desc lang="es">Un recorrido por la ciudad norteña donde conoceremos su gente, su gastronomía, sus paisajes y todo su encanto.</desc>
-    <category lang="es">- Chiclayo, Habemus Papa</category>
-  </programme>
-  <programme start="20261124010000 -0500" stop="20261124020000 -0500" channel="tv-peru.pe">
-    <title lang="es">Sucedió en el Perú</title>
-    <desc lang="es">Segmento de historia, único en su género, dedicado a reseñar los acontecimientos más importantes en el desarrollo socioeconómico y cultural del Perú, siendo un puente entre los conocimientos de especialistas y el público en general.</desc>
-    <category lang="es">- El fenómeno de el niño através de la historia</category>
+  <programme start="20261124000000 -0500" stop="20261124020000 -0500" channel="tv-peru.pe">
+    <title lang="es">Domingos de fiesta</title>
+    <desc lang="es">La verdadera fiesta comienza los fines de semana. Disfruta junto a María Grazia Polanco y Santiago Suárez de los mejores grupos de cumbia, salsa y otros géneros peruanos en vivo y nadie podrá parar de bailar durante toda la transmisión.</desc>
+    <category lang="es">Musical</category>
   </programme>
   <programme start="20261124020000 -0500" stop="20261124030000 -0500" channel="tv-peru.pe">
     <title lang="es">Con sabor a Perú</title>
     <desc lang="es">El chef Israel Laura nos invita a diferentes lugares del Perú para descubrir historias, personajes, recetas y a experimentar con nuevos sabores y alimentos.</desc>
-    <category lang="es">- Pescado, sabores para compartir</category>
+    <category lang="es">- Encurtidos y conservas</category>
   </programme>
-  <programme start="20261124030000 -0500" stop="20261124040000 -0500" channel="tv-peru.pe">
-    <title lang="es">Miski Takiy</title>
-    <desc lang="es">Un espacio dedicado a la difusión y revaloración de las expresiones musicales autóctonas del Perú. Cientos de artistas nacionales han desfilado por el show difundiendo la música tradicional de nuestros pueblos.</desc>
-    <category lang="es">Cultural</category>
-  </programme>
-  <programme start="20261124040000 -0500" stop="20261124050000 -0500" channel="tv-peru.pe">
+  <programme start="20261124030000 -0500" stop="20261124050000 -0500" channel="tv-peru.pe">
     <title lang="es">Todo fútbol</title>
     <desc lang="es">Las noticias deportivas presentadas por el mejor equipo de periodistas deportivos, desde un enfoque distinto.</desc>
     <category lang="es">Todo fútbol</category>
@@ -3474,7 +3494,7 @@
   <programme start="20261124170000 -0500" stop="20261124180000 -0500" channel="tv-peru.pe">
     <title lang="es">Sucedió en el Perú</title>
     <desc lang="es">Segmento de historia, único en su género, dedicado a reseñar los acontecimientos más importantes en el desarrollo socioeconómico y cultural del Perú, siendo un puente entre los conocimientos de especialistas y el público en general.</desc>
-    <category lang="es">- Angélica Palma</category>
+    <category lang="es">- Martín Chambi</category>
   </programme>
   <programme start="20261124180000 -0500" stop="20261124190000 -0500" channel="tv-peru.pe">
     <title lang="es">León XIV en casa</title>
@@ -3506,20 +3526,30 @@
     <desc lang="es">Segmento periodístico donde no solo conocerá el fino trabajo policial desde el inicio de la investigación, sino donde usted será pieza clave para combatir la delincuencia con reportajes, informes e imágenes exclusivas.</desc>
     <category lang="es">Periodístico</category>
   </programme>
-  <programme start="20261125000000 -0500" stop="20261125020000 -0500" channel="tv-peru.pe">
-    <title lang="es">Domingos de fiesta</title>
-    <desc lang="es">La verdadera fiesta comienza los fines de semana. Disfruta junto a María Grazia Polanco y Santiago Suárez de los mejores grupos de cumbia, salsa y otros géneros peruanos en vivo y nadie podrá parar de bailar durante toda la transmisión.</desc>
-    <category lang="es">Musical</category>
+  <programme start="20261125000000 -0500" stop="20261125010000 -0500" channel="tv-peru.pe">
+    <title lang="es">TVPerú Norte - Noticiero regional</title>
+    <desc lang="es">El análisis de las noticias más importantes de la jornada.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261125010000 -0500" stop="20261125020000 -0500" channel="tv-peru.pe">
+    <title lang="es">TVPerú Sur - Noticiero regional</title>
+    <desc lang="es">El análisis de las noticias más importantes de la jornada.</desc>
+    <category lang="es">Noticiero</category>
   </programme>
   <programme start="20261125020000 -0500" stop="20261125030000 -0500" channel="tv-peru.pe">
-    <title lang="es">Con sabor a Perú</title>
-    <desc lang="es">El chef Israel Laura nos invita a diferentes lugares del Perú para descubrir historias, personajes, recetas y a experimentar con nuevos sabores y alimentos.</desc>
-    <category lang="es">- Encurtidos y conservas</category>
+    <title lang="es">TVPerú Oriente - Noticiero regional</title>
+    <desc lang="es">Siga las principales noticias de Perú y del mundo y comience la semana bien informado.</desc>
+    <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20261125030000 -0500" stop="20261125050000 -0500" channel="tv-peru.pe">
-    <title lang="es">Todo fútbol</title>
-    <desc lang="es">Las noticias deportivas presentadas por el mejor equipo de periodistas deportivos, desde un enfoque distinto.</desc>
-    <category lang="es">Todo fútbol</category>
+  <programme start="20261125030000 -0500" stop="20261125040000 -0500" channel="tv-peru.pe">
+    <title lang="es">TVPerú centro - Noticiero regional</title>
+    <desc lang="es">Noticias, cultura y actualidad de las regiones de Junín, Huánuco, Pasco, Huancavelica, Ayacucho y Áncash.</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20261125040000 -0500" stop="20261125050000 -0500" channel="tv-peru.pe">
+    <title lang="es">En pared</title>
+    <desc lang="es">Lucho Trisano y Joanna Boloña presentan las noticias más importantes de las distintas disciplinas deportivas.</desc>
+    <category lang="es">En pared</category>
   </programme>
   <programme start="20261125050000 -0500" stop="20261125053000 -0500" channel="tv-peru.pe">
     <title lang="es">Jiwasanaka</title>
@@ -3579,7 +3609,7 @@
   <programme start="20261125170000 -0500" stop="20261125180000 -0500" channel="tv-peru.pe">
     <title lang="es">Sucedió en el Perú</title>
     <desc lang="es">Segmento de historia, único en su género, dedicado a reseñar los acontecimientos más importantes en el desarrollo socioeconómico y cultural del Perú, siendo un puente entre los conocimientos de especialistas y el público en general.</desc>
-    <category lang="es">- Martín Chambi</category>
+    <category lang="es">- Luis Guillermo Lumbreras</category>
   </programme>
   <programme start="20261125180000 -0500" stop="20261125190000 -0500" channel="tv-peru.pe">
     <title lang="es">León XIV en casa</title>
@@ -3646,54 +3676,34 @@
     <desc lang="es">Espacio que tiene la intención de llevar actualidad a cuatro millones de peruanos que son quechua hablantes. Un compromiso con el fomento de la educación intercultural, para así llevar más y mejor información a todos los peruanos.</desc>
     <category lang="es">- Clodomiro Landeo</category>
   </programme>
-  <programme start="20261123000000 -0500" stop="20261123003000 -0500" channel="peru-magico.pe">
-    <title lang="es">Entre cuchillos y fuego</title>
-    <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261123003000 -0500" stop="20261123010000 -0500" channel="peru-magico.pe">
-    <title lang="es">La gran despensa</title>
-    <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
+  <programme start="20261123230000 -0500" stop="20261124010000 -0500" channel="peru-magico.pe">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261123010000 -0500" stop="20261123013000 -0500" channel="peru-magico.pe">
-    <title lang="es">Dulces Secretos</title>
-    <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
+    <title lang="es">Perú Surf</title>
+    <desc lang="es">Programación de Perú Surf por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261123013000 -0500" stop="20261123020000 -0500" channel="peru-magico.pe">
-    <title lang="es">Más rico</title>
-    <desc lang="es">Programación de Más rico por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261123020000 -0500" stop="20261123023000 -0500" channel="peru-magico.pe">
     <title lang="es">La 4ta pantalla</title>
     <desc lang="es">Programación de La 4ta pantalla por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261123023000 -0500" stop="20261123030000 -0500" channel="peru-magico.pe">
-    <title lang="es">Ximena en Casa</title>
-    <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
+  <programme start="20261123020000 -0500" stop="20261123030000 -0500" channel="peru-magico.pe">
+    <title lang="es">Jamás perfectas</title>
+    <desc lang="es">Programación de Jamás perfectas por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261123030000 -0500" stop="20261123033000 -0500" channel="peru-magico.pe">
-    <title lang="es">Celebra Perú</title>
-    <desc lang="es">Programación de Celebra Perú por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261123033000 -0500" stop="20261123040000 -0500" channel="peru-magico.pe">
-    <title lang="es">Cocina en un Toque</title>
-    <desc lang="es">Programación de Cocina en un Toque por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261123040000 -0500" stop="20261123043000 -0500" channel="peru-magico.pe">
-    <title lang="es">Entre cuchillos y fuego</title>
-    <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
+  <programme start="20261123030000 -0500" stop="20261123043000 -0500" channel="peru-magico.pe">
+    <title lang="es">Al ángulo</title>
+    <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261123043000 -0500" stop="20261123050000 -0500" channel="peru-magico.pe">
-    <title lang="es">La gran despensa</title>
-    <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
+    <title lang="es">Celebra Perú</title>
+    <desc lang="es">Programación de Celebra Perú por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261123050000 -0500" stop="20261123080000 -0500" channel="peru-magico.pe">
@@ -3702,78 +3712,58 @@
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261123080000 -0500" stop="20261123090000 -0500" channel="peru-magico.pe">
-    <title lang="es">Wantan digital</title>
-    <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261123090000 -0500" stop="20261123093000 -0500" channel="peru-magico.pe">
-    <title lang="es">Perú Surf</title>
-    <desc lang="es">Programación de Perú Surf por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261123093000 -0500" stop="20261123100000 -0500" channel="peru-magico.pe">
-    <title lang="es">Full Ruedas</title>
-    <desc lang="es">Programación de Full Ruedas por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261123100000 -0500" stop="20261123103000 -0500" channel="peru-magico.pe">
-    <title lang="es">Dulces Secretos</title>
-    <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261123103000 -0500" stop="20261123110000 -0500" channel="peru-magico.pe">
-    <title lang="es">Más rico</title>
-    <desc lang="es">Programación de Más rico por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261123110000 -0500" stop="20261123113000 -0500" channel="peru-magico.pe">
-    <title lang="es">La 4ta pantalla</title>
-    <desc lang="es">Programación de La 4ta pantalla por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261123113000 -0500" stop="20261123120000 -0500" channel="peru-magico.pe">
-    <title lang="es">Ximena en Casa</title>
-    <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261123120000 -0500" stop="20261123123000 -0500" channel="peru-magico.pe">
-    <title lang="es">Celebra Perú</title>
-    <desc lang="es">Programación de Celebra Perú por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261123123000 -0500" stop="20261123130000 -0500" channel="peru-magico.pe">
-    <title lang="es">Cocina en un Toque</title>
-    <desc lang="es">Programación de Cocina en un Toque por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261123130000 -0500" stop="20261123140000 -0500" channel="peru-magico.pe">
-    <title lang="es">Antesala</title>
-    <desc lang="es">Programación de Antesala por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261123140000 -0500" stop="20261123160000 -0500" channel="peru-magico.pe">
-    <title lang="es">Fútbol Peruano Primera División</title>
-    <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261123160000 -0500" stop="20261123163000 -0500" channel="peru-magico.pe">
-    <title lang="es">Perú Surf</title>
-    <desc lang="es">Programación de Perú Surf por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261123163000 -0500" stop="20261123173000 -0500" channel="peru-magico.pe">
     <title lang="es">Jamás perfectas</title>
     <desc lang="es">Programación de Jamás perfectas por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261123173000 -0500" stop="20261123180000 -0500" channel="peru-magico.pe">
-    <title lang="es">Antesala</title>
-    <desc lang="es">Programación de Antesala por Perú Mágico.</desc>
+  <programme start="20261123090000 -0500" stop="20261123100000 -0500" channel="peru-magico.pe">
+    <title lang="es">El camerino</title>
+    <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261123180000 -0500" stop="20261123200000 -0500" channel="peru-magico.pe">
-    <title lang="es">Fútbol Peruano Primera División</title>
-    <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
+  <programme start="20261123100000 -0500" stop="20261123110000 -0500" channel="peru-magico.pe">
+    <title lang="es">Wantan digital</title>
+    <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261123110000 -0500" stop="20261123113000 -0500" channel="peru-magico.pe">
+    <title lang="es">Dulces Secretos</title>
+    <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261123113000 -0500" stop="20261123130000 -0500" channel="peru-magico.pe">
+    <title lang="es">Al ángulo</title>
+    <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261123130000 -0500" stop="20261123160000 -0500" channel="peru-magico.pe">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Programación de N Noticias por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261123160000 -0500" stop="20261123170000 -0500" channel="peru-magico.pe">
+    <title lang="es">El camerino</title>
+    <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261123170000 -0500" stop="20261123173000 -0500" channel="peru-magico.pe">
+    <title lang="es">Entre cuchillos y fuego</title>
+    <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261123173000 -0500" stop="20261123180000 -0500" channel="peru-magico.pe">
+    <title lang="es">La gran despensa</title>
+    <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261123180000 -0500" stop="20261123190000 -0500" channel="peru-magico.pe">
+    <title lang="es">Wantan digital</title>
+    <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261123190000 -0500" stop="20261123200000 -0500" channel="peru-magico.pe">
+    <title lang="es">Primero a las 8</title>
+    <desc lang="es">Programación de Primero a las 8 por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261123200000 -0500" stop="20261123210000 -0500" channel="peru-magico.pe">
@@ -3787,8 +3777,8 @@
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261123223000 -0500" stop="20261123230000 -0500" channel="peru-magico.pe">
-    <title lang="es">Cocina en un Toque</title>
-    <desc lang="es">Programación de Cocina en un Toque por Perú Mágico.</desc>
+    <title lang="es">La 4ta pantalla</title>
+    <desc lang="es">Programación de La 4ta pantalla por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261123230000 -0500" stop="20261124010000 -0500" channel="peru-magico.pe">
@@ -3796,54 +3786,34 @@
     <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261124000000 -0500" stop="20261124003000 -0500" channel="peru-magico.pe">
-    <title lang="es">Entre cuchillos y fuego</title>
-    <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261124003000 -0500" stop="20261124010000 -0500" channel="peru-magico.pe">
-    <title lang="es">La gran despensa</title>
-    <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
+  <programme start="20261124230000 -0500" stop="20261125010000 -0500" channel="peru-magico.pe">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261124010000 -0500" stop="20261124013000 -0500" channel="peru-magico.pe">
-    <title lang="es">Dulces Secretos</title>
-    <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
+    <title lang="es">Perú Surf</title>
+    <desc lang="es">Programación de Perú Surf por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261124013000 -0500" stop="20261124020000 -0500" channel="peru-magico.pe">
-    <title lang="es">Más rico</title>
-    <desc lang="es">Programación de Más rico por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261124020000 -0500" stop="20261124023000 -0500" channel="peru-magico.pe">
     <title lang="es">La 4ta pantalla</title>
     <desc lang="es">Programación de La 4ta pantalla por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261124023000 -0500" stop="20261124030000 -0500" channel="peru-magico.pe">
-    <title lang="es">Ximena en Casa</title>
-    <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
+  <programme start="20261124020000 -0500" stop="20261124030000 -0500" channel="peru-magico.pe">
+    <title lang="es">Jamás perfectas</title>
+    <desc lang="es">Programación de Jamás perfectas por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261124030000 -0500" stop="20261124033000 -0500" channel="peru-magico.pe">
-    <title lang="es">Celebra Perú</title>
-    <desc lang="es">Programación de Celebra Perú por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261124033000 -0500" stop="20261124040000 -0500" channel="peru-magico.pe">
-    <title lang="es">Cocina en un Toque</title>
-    <desc lang="es">Programación de Cocina en un Toque por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261124040000 -0500" stop="20261124043000 -0500" channel="peru-magico.pe">
-    <title lang="es">Entre cuchillos y fuego</title>
-    <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
+  <programme start="20261124030000 -0500" stop="20261124043000 -0500" channel="peru-magico.pe">
+    <title lang="es">Al ángulo</title>
+    <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261124043000 -0500" stop="20261124050000 -0500" channel="peru-magico.pe">
-    <title lang="es">La gran despensa</title>
-    <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
+    <title lang="es">Celebra Perú</title>
+    <desc lang="es">Programación de Celebra Perú por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261124050000 -0500" stop="20261124080000 -0500" channel="peru-magico.pe">
@@ -3852,78 +3822,58 @@
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261124080000 -0500" stop="20261124090000 -0500" channel="peru-magico.pe">
-    <title lang="es">Wantan digital</title>
-    <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261124090000 -0500" stop="20261124093000 -0500" channel="peru-magico.pe">
-    <title lang="es">Perú Surf</title>
-    <desc lang="es">Programación de Perú Surf por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261124093000 -0500" stop="20261124100000 -0500" channel="peru-magico.pe">
-    <title lang="es">Full Ruedas</title>
-    <desc lang="es">Programación de Full Ruedas por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261124100000 -0500" stop="20261124103000 -0500" channel="peru-magico.pe">
-    <title lang="es">Dulces Secretos</title>
-    <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261124103000 -0500" stop="20261124110000 -0500" channel="peru-magico.pe">
-    <title lang="es">Más rico</title>
-    <desc lang="es">Programación de Más rico por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261124110000 -0500" stop="20261124113000 -0500" channel="peru-magico.pe">
-    <title lang="es">La 4ta pantalla</title>
-    <desc lang="es">Programación de La 4ta pantalla por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261124113000 -0500" stop="20261124120000 -0500" channel="peru-magico.pe">
-    <title lang="es">Ximena en Casa</title>
-    <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261124120000 -0500" stop="20261124123000 -0500" channel="peru-magico.pe">
-    <title lang="es">Celebra Perú</title>
-    <desc lang="es">Programación de Celebra Perú por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261124123000 -0500" stop="20261124130000 -0500" channel="peru-magico.pe">
-    <title lang="es">Cocina en un Toque</title>
-    <desc lang="es">Programación de Cocina en un Toque por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261124130000 -0500" stop="20261124140000 -0500" channel="peru-magico.pe">
-    <title lang="es">Antesala</title>
-    <desc lang="es">Programación de Antesala por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261124140000 -0500" stop="20261124160000 -0500" channel="peru-magico.pe">
-    <title lang="es">Fútbol Peruano Primera División</title>
-    <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261124160000 -0500" stop="20261124163000 -0500" channel="peru-magico.pe">
-    <title lang="es">Perú Surf</title>
-    <desc lang="es">Programación de Perú Surf por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261124163000 -0500" stop="20261124173000 -0500" channel="peru-magico.pe">
     <title lang="es">Jamás perfectas</title>
     <desc lang="es">Programación de Jamás perfectas por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261124173000 -0500" stop="20261124180000 -0500" channel="peru-magico.pe">
-    <title lang="es">Antesala</title>
-    <desc lang="es">Programación de Antesala por Perú Mágico.</desc>
+  <programme start="20261124090000 -0500" stop="20261124100000 -0500" channel="peru-magico.pe">
+    <title lang="es">El camerino</title>
+    <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261124180000 -0500" stop="20261124200000 -0500" channel="peru-magico.pe">
-    <title lang="es">Fútbol Peruano Primera División</title>
-    <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
+  <programme start="20261124100000 -0500" stop="20261124110000 -0500" channel="peru-magico.pe">
+    <title lang="es">Wantan digital</title>
+    <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261124110000 -0500" stop="20261124113000 -0500" channel="peru-magico.pe">
+    <title lang="es">Dulces Secretos</title>
+    <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261124113000 -0500" stop="20261124130000 -0500" channel="peru-magico.pe">
+    <title lang="es">Al ángulo</title>
+    <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261124130000 -0500" stop="20261124160000 -0500" channel="peru-magico.pe">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Programación de N Noticias por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261124160000 -0500" stop="20261124170000 -0500" channel="peru-magico.pe">
+    <title lang="es">El camerino</title>
+    <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261124170000 -0500" stop="20261124173000 -0500" channel="peru-magico.pe">
+    <title lang="es">Entre cuchillos y fuego</title>
+    <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261124173000 -0500" stop="20261124180000 -0500" channel="peru-magico.pe">
+    <title lang="es">La gran despensa</title>
+    <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261124180000 -0500" stop="20261124190000 -0500" channel="peru-magico.pe">
+    <title lang="es">Wantan digital</title>
+    <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261124190000 -0500" stop="20261124200000 -0500" channel="peru-magico.pe">
+    <title lang="es">Primero a las 8</title>
+    <desc lang="es">Programación de Primero a las 8 por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261124200000 -0500" stop="20261124210000 -0500" channel="peru-magico.pe">
@@ -3937,8 +3887,8 @@
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261124223000 -0500" stop="20261124230000 -0500" channel="peru-magico.pe">
-    <title lang="es">Cocina en un Toque</title>
-    <desc lang="es">Programación de Cocina en un Toque por Perú Mágico.</desc>
+    <title lang="es">La 4ta pantalla</title>
+    <desc lang="es">Programación de La 4ta pantalla por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261124230000 -0500" stop="20261125010000 -0500" channel="peru-magico.pe">
@@ -3946,54 +3896,34 @@
     <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261125000000 -0500" stop="20261125003000 -0500" channel="peru-magico.pe">
-    <title lang="es">Entre cuchillos y fuego</title>
-    <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261125003000 -0500" stop="20261125010000 -0500" channel="peru-magico.pe">
-    <title lang="es">La gran despensa</title>
-    <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
+  <programme start="20261125230000 -0500" stop="20261126010000 -0500" channel="peru-magico.pe">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261125010000 -0500" stop="20261125013000 -0500" channel="peru-magico.pe">
-    <title lang="es">Dulces Secretos</title>
-    <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
+    <title lang="es">Perú Surf</title>
+    <desc lang="es">Programación de Perú Surf por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261125013000 -0500" stop="20261125020000 -0500" channel="peru-magico.pe">
-    <title lang="es">Más rico</title>
-    <desc lang="es">Programación de Más rico por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261125020000 -0500" stop="20261125023000 -0500" channel="peru-magico.pe">
     <title lang="es">La 4ta pantalla</title>
     <desc lang="es">Programación de La 4ta pantalla por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261125023000 -0500" stop="20261125030000 -0500" channel="peru-magico.pe">
-    <title lang="es">Ximena en Casa</title>
-    <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
+  <programme start="20261125020000 -0500" stop="20261125030000 -0500" channel="peru-magico.pe">
+    <title lang="es">Jamás perfectas</title>
+    <desc lang="es">Programación de Jamás perfectas por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261125030000 -0500" stop="20261125033000 -0500" channel="peru-magico.pe">
-    <title lang="es">Celebra Perú</title>
-    <desc lang="es">Programación de Celebra Perú por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261125033000 -0500" stop="20261125040000 -0500" channel="peru-magico.pe">
-    <title lang="es">Cocina en un Toque</title>
-    <desc lang="es">Programación de Cocina en un Toque por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261125040000 -0500" stop="20261125043000 -0500" channel="peru-magico.pe">
-    <title lang="es">Entre cuchillos y fuego</title>
-    <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
+  <programme start="20261125030000 -0500" stop="20261125043000 -0500" channel="peru-magico.pe">
+    <title lang="es">Al ángulo</title>
+    <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261125043000 -0500" stop="20261125050000 -0500" channel="peru-magico.pe">
-    <title lang="es">La gran despensa</title>
-    <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
+    <title lang="es">Celebra Perú</title>
+    <desc lang="es">Programación de Celebra Perú por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261125050000 -0500" stop="20261125080000 -0500" channel="peru-magico.pe">
@@ -4002,78 +3932,58 @@
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261125080000 -0500" stop="20261125090000 -0500" channel="peru-magico.pe">
-    <title lang="es">Wantan digital</title>
-    <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261125090000 -0500" stop="20261125093000 -0500" channel="peru-magico.pe">
-    <title lang="es">Perú Surf</title>
-    <desc lang="es">Programación de Perú Surf por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261125093000 -0500" stop="20261125100000 -0500" channel="peru-magico.pe">
-    <title lang="es">Full Ruedas</title>
-    <desc lang="es">Programación de Full Ruedas por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261125100000 -0500" stop="20261125103000 -0500" channel="peru-magico.pe">
-    <title lang="es">Dulces Secretos</title>
-    <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261125103000 -0500" stop="20261125110000 -0500" channel="peru-magico.pe">
-    <title lang="es">Más rico</title>
-    <desc lang="es">Programación de Más rico por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261125110000 -0500" stop="20261125113000 -0500" channel="peru-magico.pe">
-    <title lang="es">La 4ta pantalla</title>
-    <desc lang="es">Programación de La 4ta pantalla por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261125113000 -0500" stop="20261125120000 -0500" channel="peru-magico.pe">
-    <title lang="es">Ximena en Casa</title>
-    <desc lang="es">Programación de Ximena en Casa por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261125120000 -0500" stop="20261125123000 -0500" channel="peru-magico.pe">
-    <title lang="es">Celebra Perú</title>
-    <desc lang="es">Programación de Celebra Perú por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261125123000 -0500" stop="20261125130000 -0500" channel="peru-magico.pe">
-    <title lang="es">Cocina en un Toque</title>
-    <desc lang="es">Programación de Cocina en un Toque por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261125130000 -0500" stop="20261125140000 -0500" channel="peru-magico.pe">
-    <title lang="es">Antesala</title>
-    <desc lang="es">Programación de Antesala por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261125140000 -0500" stop="20261125160000 -0500" channel="peru-magico.pe">
-    <title lang="es">Fútbol Peruano Primera División</title>
-    <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261125160000 -0500" stop="20261125163000 -0500" channel="peru-magico.pe">
-    <title lang="es">Perú Surf</title>
-    <desc lang="es">Programación de Perú Surf por Perú Mágico.</desc>
-    <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20261125163000 -0500" stop="20261125173000 -0500" channel="peru-magico.pe">
     <title lang="es">Jamás perfectas</title>
     <desc lang="es">Programación de Jamás perfectas por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261125173000 -0500" stop="20261125180000 -0500" channel="peru-magico.pe">
-    <title lang="es">Antesala</title>
-    <desc lang="es">Programación de Antesala por Perú Mágico.</desc>
+  <programme start="20261125090000 -0500" stop="20261125100000 -0500" channel="peru-magico.pe">
+    <title lang="es">El camerino</title>
+    <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261125180000 -0500" stop="20261125200000 -0500" channel="peru-magico.pe">
-    <title lang="es">Fútbol Peruano Primera División</title>
-    <desc lang="es">Programación de Fútbol Peruano Primera División por Perú Mágico.</desc>
+  <programme start="20261125100000 -0500" stop="20261125110000 -0500" channel="peru-magico.pe">
+    <title lang="es">Wantan digital</title>
+    <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261125110000 -0500" stop="20261125113000 -0500" channel="peru-magico.pe">
+    <title lang="es">Dulces Secretos</title>
+    <desc lang="es">Programación de Dulces Secretos por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261125113000 -0500" stop="20261125130000 -0500" channel="peru-magico.pe">
+    <title lang="es">Al ángulo</title>
+    <desc lang="es">Programación de Al ángulo por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261125130000 -0500" stop="20261125160000 -0500" channel="peru-magico.pe">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Programación de N Noticias por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261125160000 -0500" stop="20261125170000 -0500" channel="peru-magico.pe">
+    <title lang="es">El camerino</title>
+    <desc lang="es">Programación de El camerino por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261125170000 -0500" stop="20261125173000 -0500" channel="peru-magico.pe">
+    <title lang="es">Entre cuchillos y fuego</title>
+    <desc lang="es">Programación de Entre cuchillos y fuego por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261125173000 -0500" stop="20261125180000 -0500" channel="peru-magico.pe">
+    <title lang="es">La gran despensa</title>
+    <desc lang="es">Programación de La gran despensa por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261125180000 -0500" stop="20261125190000 -0500" channel="peru-magico.pe">
+    <title lang="es">Wantan digital</title>
+    <desc lang="es">Programación de Wantan digital por Perú Mágico.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125200000 -0500" channel="peru-magico.pe">
+    <title lang="es">Primero a las 8</title>
+    <desc lang="es">Programación de Primero a las 8 por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261125200000 -0500" stop="20261125210000 -0500" channel="peru-magico.pe">
@@ -4087,8 +3997,8 @@
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261125223000 -0500" stop="20261125230000 -0500" channel="peru-magico.pe">
-    <title lang="es">Cocina en un Toque</title>
-    <desc lang="es">Programación de Cocina en un Toque por Perú Mágico.</desc>
+    <title lang="es">La 4ta pantalla</title>
+    <desc lang="es">Programación de La 4ta pantalla por Perú Mágico.</desc>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261125230000 -0500" stop="20261126010000 -0500" channel="peru-magico.pe">
@@ -5197,94 +5107,104 @@
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261123060000 -0500" stop="20261123070000 -0500" channel="bh-tv.pe">
-    <title lang="es">Impacto Evangelístico</title>
-    <desc lang="es">Un programa religioso para reencontrarse con la calidez de Dios y sus sagradas enseñanzas. Un espacio de reflexión introspectiva para reconfortar el espíritu.</desc>
+    <title lang="es">Agua viva</title>
+    <desc lang="es">El reverendo Reverendo Humberto comparte un mensaje de salvación.</desc>
     <category lang="es">Religioso</category>
   </programme>
   <programme start="20261123070000 -0500" stop="20261123080000 -0500" channel="bh-tv.pe">
-    <title lang="es">Palabra viva y eficaz</title>
-    <desc lang="es">Un programa para reencontrarse con la calidez de Dios y sus Sagradas Enseñanzas. Un espacio de reflexión e introspección espiritual a través de la lectura e interpretación de la Palabra de Cristo.</desc>
+    <title lang="es">Necesito un milagro</title>
+    <desc lang="es">Un programa para reencontrarse con la calidez de Dios y sus Sagradas Enseñanzas. El público podrá disfrutar de un espacio de adoración y reflexión espiritual a través de la interpretación de la Palabra de Dios.</desc>
     <category lang="es">Religioso</category>
   </programme>
-  <programme start="20261123080000 -0500" stop="20261123083000 -0500" channel="bh-tv.pe">
-    <title lang="es">Mi primera biblia</title>
-    <desc lang="es">La historia bíblica contada de manera didáctica a través de la animación para que la aprendan los más chicos.</desc>
-    <category lang="es">D.Animados</category>
+  <programme start="20261123080000 -0500" stop="20261123090000 -0500" channel="bh-tv.pe">
+    <title lang="es">Con el pie derecho</title>
+    <desc lang="es">Josh Dubin está encantado de pasar de la educación en el hogar a la enseñanza pública, y ser el único niño con una pierna ortopédica es un reto al que está dispuesto a enfrentarse</desc>
+    <category lang="es">Comedia</category>
   </programme>
-  <programme start="20261123083000 -0500" stop="20261123090000 -0500" channel="bh-tv.pe">
-    <title lang="es">El show de Sam</title>
-    <desc lang="es">Ministerio para niños que proclama el mensaje del evangelio y principios cristianos por medio de una presentación creativa de las historias de la Biblia.</desc>
-    <category lang="es">Infantil</category>
+  <programme start="20261123090000 -0500" stop="20261123100000 -0500" channel="bh-tv.pe">
+    <title lang="es">Hablemos de salud</title>
+    <desc lang="es">Hablemos de Salud es un programa médico, donde diversos especialistas de la salud brindan consejos de manera dinámica, espontánea e informativa.</desc>
+    <category lang="es">Salud</category>
   </programme>
-  <programme start="20261123090000 -0500" stop="20261123093000 -0500" channel="bh-tv.pe">
-    <title lang="es">Historias bíblicas</title>
-    <desc lang="es">Historias bíblicas y segmentos de testimonios reales.</desc>
+  <programme start="20261123100000 -0500" stop="20261123110000 -0500" channel="bh-tv.pe">
+    <title lang="es">Casados y felices</title>
+    <desc lang="es">Varias parejas nos dan sus testimonios y reciben el consejo de la experiencia, resolviendo muchas dudas y demostrando que el matrimonio es para valientes.</desc>
     <category lang="es">Religioso</category>
   </programme>
-  <programme start="20261123093000 -0500" stop="20261123120000 -0500" channel="bh-tv.pe">
-    <title lang="es">Explosión de Gloria</title>
-    <desc lang="es">Espacio que comparte mensajes de fe, salvación, esperanza y restauración a través de predicaciones, servicios religiosos y testimonios o anécdotas cotidianas.</desc>
-    <category lang="es">Religioso</category>
-  </programme>
-  <programme start="20261123120000 -0500" stop="20261123133000 -0500" channel="bh-tv.pe">
-    <title lang="es">Evangelio con poder</title>
-    <desc lang="es">El culto en vivo desde la Iglesia Cristiana del Movimiento Misionero Mundial, en Lima, Perú, donde varios predicadores imparten el mensaje de esperanza para la salvación de miles de oyentes.</desc>
-    <category lang="es">Religioso</category>
-  </programme>
-  <programme start="20261123133000 -0500" stop="20261123140000 -0500" channel="bh-tv.pe">
+  <programme start="20261123110000 -0500" stop="20261123120000 -0500" channel="bh-tv.pe">
     <title lang="es">Batalla cultural</title>
     <desc lang="es">Un espacio cuyo objetivo es el de informar y dialogar la coyuntura social, cultural y política de América latina.</desc>
     <category lang="es">Interés general</category>
   </programme>
-  <programme start="20261123140000 -0500" stop="20261123150000 -0500" channel="bh-tv.pe">
-    <title lang="es">A corazón abierto</title>
-    <desc lang="es">A través de interesantes historias médicas los protagonistas entrelazan sus vidas y sus emociones en el hospital que a partir de ahora será su nueva casa.</desc>
-    <category lang="es">Telenovela</category>
-  </programme>
-  <programme start="20261123150000 -0500" stop="20261123160000 -0500" channel="bh-tv.pe">
-    <title lang="es">Adorando</title>
-    <desc lang="es">Nos unimos en alabanzas y adoración a Dios.</desc>
-    <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261123160000 -0500" stop="20261123180000 -0500" channel="bh-tv.pe">
-    <title lang="es">Explosión de Gloria</title>
-    <desc lang="es">Espacio que comparte mensajes de fe, salvación, esperanza y restauración a través de predicaciones, servicios religiosos y testimonios o anécdotas cotidianas.</desc>
-    <category lang="es">Religioso</category>
-  </programme>
-  <programme start="20261123180000 -0500" stop="20261123190000 -0500" channel="bh-tv.pe">
-    <title lang="es">Batalla cultural</title>
-    <desc lang="es">Un espacio cuyo objetivo es el de informar y dialogar la coyuntura social, cultural y política de América latina.</desc>
+  <programme start="20261123120000 -0500" stop="20261123130000 -0500" channel="bh-tv.pe">
+    <title lang="es">Informativo</title>
+    <desc lang="es">Aborda la actualidad desde un enfoque periodístico que busca reflejar principios y valores, ofreciendo análisis político y cobertura en tiempo real.</desc>
     <category lang="es">Interés general</category>
   </programme>
-  <programme start="20261123190000 -0500" stop="20261123193000 -0500" channel="bh-tv.pe">
+  <programme start="20261123130000 -0500" stop="20261123140000 -0500" channel="bh-tv.pe">
+    <title lang="es">La hora de la transformación</title>
+    <desc lang="es">Un ciclo de enseñanzas bíblicas que nos da herramientas para la vida cotidiana a través de las sagradas escrituras, rescatando los valores sociales y poniendo a nuestro alcance mensajes transformadores llenos de fe y esperanza.</desc>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20261123140000 -0500" stop="20261123143000 -0500" channel="bh-tv.pe">
     <title lang="es">Bite</title>
     <desc lang="es" />
     <category lang="es">Interés general</category>
   </programme>
-  <programme start="20261123193000 -0500" stop="20261123200000 -0500" channel="bh-tv.pe">
+  <programme start="20261123143000 -0500" stop="20261123150000 -0500" channel="bh-tv.pe">
     <title lang="es">We Are Top</title>
     <desc lang="es" />
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20261123200000 -0500" stop="20261123210000 -0500" channel="bh-tv.pe">
-    <title lang="es">A corazón abierto</title>
-    <desc lang="es">A través de interesantes historias médicas los protagonistas entrelazan sus vidas y sus emociones en el hospital que a partir de ahora será su nueva casa.</desc>
-    <category lang="es">Telenovela</category>
+  <programme start="20261123150000 -0500" stop="20261123160000 -0500" channel="bh-tv.pe">
+    <title lang="es">Agua viva</title>
+    <desc lang="es">El reverendo Reverendo Humberto comparte un mensaje de salvación.</desc>
+    <category lang="es">Religioso</category>
   </programme>
-  <programme start="20261123210000 -0500" stop="20261123220000 -0500" channel="bh-tv.pe">
-    <title lang="es">Historias reales</title>
-    <desc lang="es">Relatos e historias de personas que han experimentado una transformación y cambio en su vida interior a través de la presencia de Dios, con testimonios reveladores y datos impactantes.</desc>
+  <programme start="20261123160000 -0500" stop="20261123170000 -0500" channel="bh-tv.pe">
+    <title lang="es">Unydos</title>
+    <desc lang="es">Un espacio que te permite mantener viva la llama del matrimonio, renovar la conexión y crecer como pareja junto a Dios.</desc>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20261123170000 -0500" stop="20261123173000 -0500" channel="bh-tv.pe">
+    <title lang="es">Viajando con Jesús / Mizzu</title>
+    <desc lang="es" />
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261123173000 -0500" stop="20261123180000 -0500" channel="bh-tv.pe">
+    <title lang="es">Super libro / Musicales</title>
+    <desc lang="es" />
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20261123180000 -0500" stop="20261123183000 -0500" channel="bh-tv.pe">
+    <title lang="es">Mi casa feliz / Musicales / Los mizzu</title>
+    <desc lang="es" />
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261123183000 -0500" stop="20261123190000 -0500" channel="bh-tv.pe">
+    <title lang="es">Mi primera biblia / Promesita VCJ</title>
+    <desc lang="es" />
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20261123190000 -0500" stop="20261123200000 -0500" channel="bh-tv.pe">
+    <title lang="es">Informativo</title>
+    <desc lang="es">Aborda la actualidad desde un enfoque periodístico que busca reflejar principios y valores, ofreciendo análisis político y cobertura en tiempo real.</desc>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20261123200000 -0500" stop="20261123220000 -0500" channel="bh-tv.pe">
+    <title lang="es">Revive campañas y convenciones</title>
+    <desc lang="es">Un espacio donde la presencia de Dios se hace realidad a través de la alabanza y la adoración. A través del programa, el público podrá reencontrarse con el amor de Jesús y con sus Sagradas Enseñanzas.</desc>
     <category lang="es">Religioso</category>
   </programme>
   <programme start="20261123220000 -0500" stop="20261123230000 -0500" channel="bh-tv.pe">
-    <title lang="es">Respuesta pastoral</title>
-    <desc lang="es">Todas las interrogantes son absueltas a través del programa dirigido a hombres y mujeres de todas las edades que tienen alguna inquietud o problema. Una guía espiritual de gran ayuda en estos tiempos.</desc>
+    <title lang="es">Explosión de Gloria</title>
+    <desc lang="es">Espacio que comparte mensajes de fe, salvación, esperanza y restauración a través de predicaciones, servicios religiosos y testimonios o anécdotas cotidianas.</desc>
     <category lang="es">Religioso</category>
   </programme>
   <programme start="20261123230000 -0500" stop="20261124000000 -0500" channel="bh-tv.pe">
-    <title lang="es">Adorando</title>
-    <desc lang="es">Nos unimos en alabanzas y adoración a Dios.</desc>
-    <category lang="es">Musical</category>
+    <title lang="es">Conociendo a Jesús</title>
+    <desc lang="es">Un encuentro con Jesús a través de la palabra de Dios, que llena nuestras almas y cambia nuestras vidas por completo.</desc>
+    <category lang="es">Religioso</category>
   </programme>
   <programme start="20261124000000 -0500" stop="20261124003000 -0500" channel="bh-tv.pe">
     <title lang="es">Selah Ssue</title>
@@ -5332,8 +5252,8 @@
     <category lang="es">Concierto</category>
   </programme>
   <programme start="20261124060000 -0500" stop="20261124070000 -0500" channel="bh-tv.pe">
-    <title lang="es">Agua viva</title>
-    <desc lang="es">El reverendo Reverendo Humberto comparte un mensaje de salvación.</desc>
+    <title lang="es">Raíces del cedro</title>
+    <desc lang="es">El Reverendo Ortega nos guía a través de la luz de la Palabra de Dios,</desc>
     <category lang="es">Religioso</category>
   </programme>
   <programme start="20261124070000 -0500" stop="20261124080000 -0500" channel="bh-tv.pe">
@@ -5382,8 +5302,8 @@
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261124150000 -0500" stop="20261124160000 -0500" channel="bh-tv.pe">
-    <title lang="es">Agua viva</title>
-    <desc lang="es">El reverendo Reverendo Humberto comparte un mensaje de salvación.</desc>
+    <title lang="es">Raíces del cedro</title>
+    <desc lang="es">El Reverendo Ortega nos guía a través de la luz de la Palabra de Dios,</desc>
     <category lang="es">Religioso</category>
   </programme>
   <programme start="20261124160000 -0500" stop="20261124170000 -0500" channel="bh-tv.pe">
@@ -5422,13 +5342,13 @@
     <category lang="es">Religioso</category>
   </programme>
   <programme start="20261124220000 -0500" stop="20261124230000 -0500" channel="bh-tv.pe">
-    <title lang="es">Explosión de Gloria</title>
-    <desc lang="es">Espacio que comparte mensajes de fe, salvación, esperanza y restauración a través de predicaciones, servicios religiosos y testimonios o anécdotas cotidianas.</desc>
+    <title lang="es">Un momento con Dios</title>
+    <desc lang="es">Un espacio de contenido religioso para reflexionar y conectar con la fe y la espiritualidad.</desc>
     <category lang="es">Religioso</category>
   </programme>
   <programme start="20261124230000 -0500" stop="20261125000000 -0500" channel="bh-tv.pe">
-    <title lang="es">Conociendo a Jesús</title>
-    <desc lang="es">Un encuentro con Jesús a través de la palabra de Dios, que llena nuestras almas y cambia nuestras vidas por completo.</desc>
+    <title lang="es">Confia en Dios</title>
+    <desc lang="es">Un espacio de contenido religioso para reflexionar, cantar y conectar con la fe y la espiritualidad.</desc>
     <category lang="es">Religioso</category>
   </programme>
   <programme start="20261125000000 -0500" stop="20261125003000 -0500" channel="bh-tv.pe">
@@ -5477,8 +5397,8 @@
     <category lang="es">Concierto</category>
   </programme>
   <programme start="20261125060000 -0500" stop="20261125070000 -0500" channel="bh-tv.pe">
-    <title lang="es">Raíces del cedro</title>
-    <desc lang="es">El Reverendo Ortega nos guía a través de la luz de la Palabra de Dios,</desc>
+    <title lang="es">Tiempo de gracia</title>
+    <desc lang="es">Preparamos nuestros corazones para una noche especial en la presencia de Dios, con la conducción del Rev. Pastor Pablo Castro.</desc>
     <category lang="es">Religioso</category>
   </programme>
   <programme start="20261125070000 -0500" stop="20261125080000 -0500" channel="bh-tv.pe">
@@ -5527,8 +5447,8 @@
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20261125150000 -0500" stop="20261125160000 -0500" channel="bh-tv.pe">
-    <title lang="es">Raíces del cedro</title>
-    <desc lang="es">El Reverendo Ortega nos guía a través de la luz de la Palabra de Dios,</desc>
+    <title lang="es">Tiempo de gracia</title>
+    <desc lang="es">Preparamos nuestros corazones para una noche especial en la presencia de Dios, con la conducción del Rev. Pastor Pablo Castro.</desc>
     <category lang="es">Religioso</category>
   </programme>
   <programme start="20261125160000 -0500" stop="20261125170000 -0500" channel="bh-tv.pe">
@@ -5567,13 +5487,13 @@
     <category lang="es">Religioso</category>
   </programme>
   <programme start="20261125220000 -0500" stop="20261125230000 -0500" channel="bh-tv.pe">
-    <title lang="es">Un momento con Dios</title>
-    <desc lang="es">Un espacio de contenido religioso para reflexionar y conectar con la fe y la espiritualidad.</desc>
+    <title lang="es">Cambio de vida</title>
+    <desc lang="es">Un programa que presenta historias de vida atravesadas por la fe en Dios y la esperanza. El público podrá atestiguar el relato de diversas personas que han logrado superar obstáculos y encausar sus vidas.</desc>
     <category lang="es">Religioso</category>
   </programme>
   <programme start="20261125230000 -0500" stop="20261126000000 -0500" channel="bh-tv.pe">
-    <title lang="es">Confia en Dios</title>
-    <desc lang="es">Un espacio de contenido religioso para reflexionar, cantar y conectar con la fe y la espiritualidad.</desc>
+    <title lang="es">A la luz de la palabra</title>
+    <desc lang="es">El reverendo Ricardo Esquivel te invita a conocer en este especial las sagradas escrituras mediante reflexiones y meditaciones que ahondan en el misterio de la fe, así como también en el plan de salvación del creador.</desc>
     <category lang="es">Religioso</category>
   </programme>
   <programme start="20261126000000 -0500" stop="20261126003000 -0500" channel="bh-tv.pe">
